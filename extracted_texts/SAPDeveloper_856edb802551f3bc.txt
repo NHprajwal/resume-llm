@@ -1,0 +1,120 @@
+info@resumekraft.com
+
+Jessica Nathan
+
+SAP ABAP S/4HANA CONSULTANT
+
+a) 9 in
+
+202-555-0120 Chicago, Illinois, US
+
+linkedin.com/resumekraft
+
+Skills
+
+SAP Script
+
+Smart Forms
+
+Adobe Forms
+
+ALV Report
+
+Dialog Programming
+BDC
+
+LSMW
+
+BAPI
+
+BADI
+
+Enhancement
+User/Customer Exits
+Object Oriented Programing
+Application Note
+Performance Tuning
+Workflow
+WebService
+WebDynpro
+
+Abap 7.4 and 7.5 syntaxes
+Enhanced Open SQL
+Hana / CDS Views
+CDS Association
+
+CDS Table Function
+AMDP
+
+Code Remediation for Suite
+on HANA
+
+Code Remediation for
+S/4HANA
+
+e ODATA
+
+e SAPUIS
+
+e Fiori
+
+Languages
+
+English eeeee
+French @@eeeo
+Arabic @@e@eoo
+German @@ee@eood
+
+About me
+
+Highly skilled SAP ABAP S/4HANA Consultant with 20 years of experience in
+implementing, customizing, and optimizing SAP systems. Proficient in
+ABAP programming, data migration, and performance tuning. Strong
+expertise in integrating and configuring various modules. Proven track
+record of successfully delivering complex projects on time and within
+budget. Excellent communication and problem-solving skills.
+
+Work Experience
+
+SAP ABAP CONSULTANT
+ROFF Jan 2079 - Dec 2019
+
+Client Name: Navigator
+Industry: Paper
+Key Activities:
+
+e Responsible for providing technical support with the ABAP team
+
+e Working closely with functional team of Fl, MM and SD
+
+e Working on new requirements like user exits, reports,forms and other
+enhancements
+
+e Corrections/additions in existing reports, forms and other
+enhancements
+
+e Implementation of SAP notes
+
+e@ Maintenance of Workflow, Adobe Forms and Query
+
+e Effort estimation
+
+e Creation of Technical specification
+
+Client Name: Central de Cervejas(SCC)
+Industry: Beverages
+Key Activities:
+
+e Responsible for automating some CRM transactions with the functional
+consultant
+
+e Performing unit tests
+
+e Workflow Creation
+
+SAP ABAP CONSULTANT
+Olisipo / Accenture Aug 2078 - Dec 2018
+
+Client Name: Eden
+Industry: WaterSolution
+Key Activities:

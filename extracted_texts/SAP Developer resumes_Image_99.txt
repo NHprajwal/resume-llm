@@ -1,0 +1,60 @@
+Phone: (123) 456 78 99
+Website: www.qwilresume.cont
+
+Address: 1737 Marshville Road,
+Alabama
+
+Objective
+
+Secking a challenging and rewarding career in ERP where can contribute knowledge and skills for
+growth, development of the organization and to be able to implement solutions thal meet the
+custamer requirements using variety of Software development skills and Technical expertise.
+
+Skills
+
+SAP ABAP, SAP LSMW, SAP Data Dictionary, Technical Writing.
+
+Work Experience
+Sap Abap Developer I
+
+ABC Corporation - April 2007 - August 2007
+
+Analyzed the Functional Specifications to design the technical specification and code,
+Helped in gathering the process relaicd data and giving the master data required lor MM and
+SD.
+
+Designed an ALV list to display the Service Level Report.
+
+Created custom tables with maintenance dialogs for dummy employees. After reeciving the
+carriers invoices, files were sent to sap containing the breakdown by cast center for cach.
+Designed and coded the sap interlace to the tangoe telecommunications sysiem which.
+Developed, maintained and documented forms (sapscripl, smartiorms and adobe} reports,
+Tnterfaced, enhancemented and workilowed in an sap environment having over 60 active
+company.
+
+Sap Abap Developer
+
+Delta Corporation - 2003 - 2007
+
+High Noon Corp.
+
+Duration July 2006 - March 2007 SAP Version / Project Type ECC 5.0 /Implementation SAP
+Modules PM (Plant Maintenance) Client Profile SOMC is a UK based plant maintenance
+company with lis rich clientele tn middle-cast.
+
+For one of its Oman based plant SOMC fs Implementing SAP R/3.
+
+The overall scope of the project tnvelves FI-CO, MM and PM-WCM (Work Clearance
+Manageme nt} modules.
+
+Role and Responsibilities My Scope of work involved to design/develop SAP RICEF for PM
+module.
+
+Analyzing the Functional Specifications to design the technical specilication and code.
+Objects Developed /Customized Developed a report to print Notification long texts.
+
+Education
+
+Bachelor of Engincering in Information Technology - 2002(Duration &amp: University}
+
+© This Pree Resume Tempiete ts the copyright of Qwikresumecom. Usage Guidelines

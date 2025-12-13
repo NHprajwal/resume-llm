@@ -1,0 +1,98 @@
+Robert Smith
+
+Senior Network Security Engineer/Consult
+
+PERSONAL STATEMENT
+
+Bottorn-line-orlented professional with more than 20 years of
+comprehensive experience in compliance oversight. Excellent leader,
+motivator, using structured business management skills In building teams
+and teaching technical complex topics to non-technical management
+personnel. Possess a career long cormmitment to sharing knowledge and
+ideas that is illustrated by his dedication to training co-workers and building
+practical learning environments.
+
+WORK EXPERIENCE
+
+Senior Network Security Engineer/Consultant
+ABC Corporation- August 2007 - April 2010
+
+Responsibilities:
+
+Supports high security surveillance of the DMZ network was critical for
+allnews and media Information provided worldwide to our custorners.
+Proactively monitors, researches dally advisories and network with
+senior level professionals at other Fortune 100 companies to stay
+abreast of the latest security risk and vulnerabilities to make quick
+decision to protect the critical network assets, valuable sensitive and
+proprietary data of the firm,
+
+Writes policies to alert on suspicious file uploads in our dynarnic and
+complex environment.
+
+Troubleshoots difficult and highly technical problems.
+
+Great ability to multi-task and follow through frorn start to finish on all
+projects and assignments given.
+
+Advises other IT groups on security risks discovered and how to clase
+the security holes to decrease or eliminate the risk and comply with
+company policies and standards,
+
+Performs periodic review of Bluecoat proxy logs for dangerous malware
+domains activity,
+
+Senior Network Security Engineer
+Delta Corporation - 2004 - 2007
+
+Responsibilities:
+
+Currently working on 6 month contract for Graybar Electrical Company
+as Senior Network Security Engineer; managing the Palo Alto Firewalls,
+DMZ migration from Sidewinder firewalls to Palo Alto firewalls,
+implementation of Cisco FireSight IPS systems, lromPort managernent
+and review of Network Infrastructure vulnerability.
+
+Hardware Platforms Cisco 1OS 2900/3 900 series ISR routers, Cisco ASR
+1000 Series routers.
+
+Cisco Nexus 2k/5k/6k/7k Switches, Cisco Catalyst 4500 and 6500
+switches, Cisco 1|OS 2900/3750 series switches,
+
+Cisco ASA 550 Series VPN Firewalls.
+
+Palo Alto/McAfee (Sidewinder) Firewall.
+
+Cisco FireSight/AMP IPS/Ironport,
+
+Systems Software Platforms Microsoft Windows XP/Win7, Server
+
+© This Eree Resume Template is the copyright of Qwikresume com. Usage Guidelines
+
+CONTACT DETAILS
+1737 Marshville Road,
+Alabarna
+(123)-456-7899
+info@qwikresume,.com
+www.qwikresume.com
+
+SKILLS
+Unix, Linux.
+
+LANGUAGES
+
+English (Native)
+French (Professional)
+Spanish (Professional)
+
+Climbing —
+Snowboarding
+Cooking
+Reading
+
+REFERENCES
+Reference - 1 (Company
+
+Name)
+Reference - 2 (Company
+Name)

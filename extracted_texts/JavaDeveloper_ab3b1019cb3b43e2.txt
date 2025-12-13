@@ -1,0 +1,54 @@
+Janae Vandervort +1 (555) 966 6078
+3043 Denise Spring, Houston, TX
+
+Experience
+
+Technical Lead / Senior Java Developer — Boehm, Streich and Leuschke, Houston, TX 10/2018 — Present
+e Git, jira, gerrit, RTC
+¢ Doors, DoorsNG
+e Hands-on experience in software development with Java/J2EE technologies
+e Good experience in development of web/Java based applications with MVC based frameworks like Struts/Spring MVC
+e Experience in JAX-RS and JAX-WS based web services
+e Experience in application development based on cloud architecture
+¢ Good knowledge/Experience on SOA based/integration platform
+e Experience in HTML, CSS, JavaScript and Ajax
+e Successful track record in technically leading the team
+e Experience in estimates, project/task tracking and reporting
+
+Regular / Senior Java Developer — Smitham-Medhurst, Houston, TX 11/2011 — 09/2018
+e Craft clear user stories, write both unit and integration tests, and continuously deliver product enhancements
+e Excellent knowledge and experience with Java, JVM, JDK, Spring Boot
+e Good knowledge of and practical experience with AWS
+e Solid knowledge about Object Oriented programming and design patterns
+¢ Good communication skills in English , team player, willingness to learn and do the best in a given situation, patient and
+positive
+e Proven hands-on experience with Java SE 8+
+e Deep OOP expertise
+e Deep parallel and concurrent programming expertise
+e Experience with JUnit
+
+Education
+
+California College of the Arts — Bachelor's in Computer Science
+
+Skills
+
+e Core
+
+¢ Concurrency framework
+
+e SQL and DB procedures development experience
+
+e Agile and cross-functional work experience
+
+e Self-disciplined and self-organized person
+
+e Make sure execution of own commitments before the team
+
+e Experience in evaluation of complex scope and deliver it in time
+
+e Understanding and experience with basic design patterns and reusable software design approaches
+e Experience with Shell scripting, Git, Continuous Integration practices and tools
+e Apache Camel, Kafka, Active MQ, Rabbit MQ, Rule Engine and so on
+
+e Practical experience on Microservice implementation

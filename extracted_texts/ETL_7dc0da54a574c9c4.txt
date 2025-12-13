@@ -1,0 +1,51 @@
+ROBERT SMITH
+Programmer Analyst/ETL Developer
+
+E-mail: info @qwikresume.com Phone: (0123)-456-780
+SUMMAR‘
+
+More than 5 years of experience in [T as SQL Server Developer with strong work experience in Business
+
+Intelligence tools. Excellent T-SQL development skills to write complex queries involving multiple tables,
+
+great ability to develop SQL Objects and maintain Stored Procedures and User defined functions.
+
+SKILLS
+
+Informatica, Oracle LOG.
+
+WORK EXPEIUENCH
+
+Programmer Analyst/ETL Developer
+ABC Corpomtion -Januury 20L0 — March 2012
+
+®  Intenieted with users extensively in gathering the requirements and analyzing the needs of the end
+users,
+Design, Develop and Deploy reports in MS SQL Server environment using SSRS2008
+Understanding the vanous complex reporting requirement ef company and creating web reports
+using Reporting Services Extensively formatted reports into documents using SSRS Report
+Builderfor creatian of Dashboards.
+Developed reparts using SSRS 20052008 to generate all daily, weekly, monthly and quarterly
+Reports based on the user business requirements.
+Part of team for analyzing and implementing the physical design for the database.
+Responsible for drafting and documentation for deseribing the metadata and writing technical
+guidks,
+Created Stored Procedures, Triggers, Cursors, Tables, Views and SQL Joins and other statements
+for vanous applications, maintained referential integrity and implemented complex business logic.
+Analyzed and tuned complex Queries/Stored Procedures in SQL Server 2008 for faster execution
+and developed database structures,
+
+ETL Developer
+ABC Corponition- 2005 - 2010
+
+* Business Process Data Mart (BPDM) acts as a consali dated repositury of all CoreLogic
+Transacticns.
+Se BPDM accumulate data from all the necessury sources and data is organized in a way to help the
+users to perform Custamer Analysis, Product Analysis, COGS Analysis, Operational Reporting,
+Revenue Analysis, Support Tax Reluted Reporting and Vendor Cost,
+Understanding Source Systems, Creating Design Specifications and Test Plan:
+Creating Tables, Views, Indexes and Stored Procedores Developing various Packages using SSIS
+ETL Tool as per business/technical scenarios like Extmetion, Validations, tedious reject pmeessing
+as well,
+
+© This Eres Resumes: Tomplats » the copyright of Qwakreime.com, [sags Guldsfines

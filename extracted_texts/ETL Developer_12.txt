@@ -1,0 +1,129 @@
+PROFESSIONAL
+SUMMARY
+
+SKILLS
+
+WORK HISTORY
+
+EDUCATION
+
+Jessica Claire
+
+@ 100 Montgomery St. 10th Floor 2 (555) 432-1000 4 resumesample@example.com
+
+© An Informatica ETL Developer with 3 years of IT Experience. Self motivated and resilient with good
+
+communication and interpersonal skills. Clear understanding of Informatica PowerCenter and Oracle
+Structured Query Language. Eager to collaborate with team members and contribute to company success
+through hard work and apt attention to details. Highly motivated to learn, grow and adapt to new situations
+and challenges in the field.
+
+« Good knowledge of SQL with understanding of = ¢ Collaboration
+relational database e« Adaptability
+« Good knowledge of Informatica tools( Designer, « Good listening skills
+Workflow Manager, Workflow monitor, Repository e Ability to pick up new data tools and concepts
+
+manager) quickly
+e Microsoft Word, Excel & PowerPoint e Ability to perform detail-oriented work,
+e Excellent Analytical and communication skills independently as well as in teams
+
+e Strong time management and task prioritization
+e Report generation
+
+ETL DEVELOPER 10/2021 to CURRENT
+American Homes 4 Rent | Katy, TX
+
+e Designed, Developed and Tested ETL Mappings, Mapplets, Workflows using Informatica PowerCenter
+10.2.
+
+e Extracted data from various sources like relational databases (Oracle), flat files, csv and others.
+
+e Direct and Indirect loading of files from flat file sources.
+
+e Designed, developed, automated, and supported Extract, Transform and Load data processes using
+Informatica and SQL.
+
+e Created Source and Target Definitions using Informatica PowerCenter Designer.
+
+e Used various Transformations in mappings (Source Qualifier, Filter, Expression, Aggregator, Sorter,
+LookUp, Router, Sequence Generator, Rank, Union, Joiner, Update Strategy).
+
+e Designed and implemented SCD Type1, SCD Type2 mappings in Informatica.
+
+e Created sessions, database connections and batches using Informatica Server Manager/Work flow
+Manager.
+
+e Executed Performance tuning for sources, targets. mappings and SQL queries to increase data load
+performance.
+
+« Worked with Business Analysts to design, develop and implement client requirements.
+
+e Generated flat file reports based on client requirements using Informatica PowerCenter.
+
+e Improved performance of long running batch processes by implementing new mappings and modified
+existing SQL queries.
+
+e Worked with team in integration of various application with different source definitions like SQL, Oracle,
+Flat Files.
+
+e Performed ETL testing and Data warehouse validation using SQL queries to test and validate.
+
+e Experienced in understanding and working through business processes and ETL processes to ensure
+precise and consistent delivery of data.
+
+e Reviewed requirements. business processes, and recommendations related to proposed solutions.
+
+ETODEVELOPER JUNIOR 02/2020 to 07/2021
+Beth Israel Deaconess Medical Center | Capitol Heights, MD
+
+e Developed PowerCenter Workflows and Sessions, and also set up connections to database.
+
+e Designed, Developed and Tested ETL Mappings, Mapplets, Workflows using Informatica PowerCenter
+10.2.
+
+e Created source definitions from various relational sources like Oracle, SQL server and from flat files.
+
+e Designed various Mappings for extracting data from various sources involving Flat files,
+Oracle.
+
+e Created various mappings, active and passive transformations to support voluminous loading of data
+into target table using Informatica PowerCenter.
+
+e Direct and Indirect loading of files from flat file sources.
+
+e Created Parameter files to store parameter variables.
+
+e Improved performance of long running batch processes by implementing new mappings and modified
+existing SQL queries.
+
+e Worked closely with team to Design, Develop and implement client requirements.
+
+Dé4-K ENTRY ASSISTANT 09/2016 to 10/2019
+PaceLead Ventures | Houston, TX
+
+e Added documents to file records and created new records to support filing needs.
+
+« Completed data entry tasks with accuracy and efficiency.
+
+*« Organized, sorted and checked input data against original documents.
+
+« Corrected data entry errors to prevent later issues such as duplication or data degradation.
+
+e Verified data files prior to entry to maintain high data accuracy.
+
+e Reviewed and updated client correspondence files and database information to maintain accurate
+records.
+
+« Managed documents by organizing forms, making photocopies, filing records, preparing
+correspondence and creating reports.
+
+« Produced monthly reports using Excel spreadsheet.
+
+« Scanned documents and saved in database to keep records of essential organizational information.
+
+e Participated in team-building activities to enhance working relationships.
+
+e Prepared variety of different written communications, reports and documents
+
+Bachelor of Science | Geology 1998
+University of Calabar, Calabar, Nigeria

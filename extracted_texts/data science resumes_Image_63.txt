@@ -1,0 +1,65 @@
+ROBERT SMITH
+Data Scientist
+
+Phone: {0123)456-788 | Emad: nfo@qwikresume.com | Website: Qwikresume.com
+SUMMARY
+
+Expertise in problem solving. Excellent in working with business users and colleagues as part of
+fequirements, gathering and converting their needs into mathematical models and solutions. Deep
+understanding of Statistical Models, Algorithms and Multivariate Analysis.
+
+CORE COMPETENCIES
+
+Python, SQL, R, Java, C++, SPSS, Excel and all MS Office, Misc: LISREL, HLM; Db Visualizer,
+Googie Analytics, PUTTY, Perl, CMD; Surveymonkey.
+
+PROFESSIONAL EXPERIENCE
+
+Data Scientist
+Bestbuy - January 2016 - 2019
+
+Key Deliverables:
+
+=» Worked on commercial and customer activity data analysis, including data collection, table
+treatment, database information, problem analysis, solution proposal and implementation.
+
+* Proposed threes solutions to deal with Promotion Effective Analysis with methods to
+calculate sales baseline and lilt,
+
+« Responsible for data collection, cieansing and variable analysis,
+
+» Designed tachnical solution roadmap to deal with noise in sales data,
+
+» Finished muttipie linear or nonlinear regression models lor testing case and achieved very
+good predicting results in scenario tests.
+
+« Developed automation process for variable selection and modal testing and used the
+method on over 5,000 SKUs,
+
+» Worked on Noise Reduction/Moving Average methods’- exponential smoothing and Fast
+Founer Transformation methods - and compared them with regression methods,
+
+Data Scientist
+ABC Corporation - December 2014 - December 2015
+
+Key Deliverables:
+
+« Responsbilitie Worked with different departments for data source, responsible for
+collecting Macro-economy datasets:
+
+» Worked on data transformation & accessed raw marketing data in varied fomats with
+diferent methods foranalyzing and processing,
+
+» Worked with BI team in data investigation, responsible for interpreting variables, making
+instructions and also data dictionary.
+
+» Responsible in data patiem recognition and data cleaning.
+
+» Identity missing, invalid values and outliers, analyze and categorize variables of datasets.
+
+« Checked data for distribution, classilication, missing values, outliers, atc, worked with BI
+team lor Macro-Economy variable selection to gst deeper understanding of datasets.
+
+Cee
+2259 Oak Street. Old Forge, New York, 13420
+© This Free Resume Template is the copyright of Qwikresume.com. Usage Guidelines

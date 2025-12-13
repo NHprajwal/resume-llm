@@ -1,0 +1,71 @@
+SQL Server Developer Fpene sae) S00, co ae
+
+Email: info@qwikresume.com
+
+Website: www.qwikresume.com
+ROBERT SMITH £iieeeics set cern feqetfentatee
+
+Address: 1737 Marshville Road,
+Alabama
+
+Objective
+
+SQL Server Developer with 12 plus years of experience in the Retall domain, Hands on Experience
+in installing, configuring, managing, monitoring and troubleshooting SQL Server Expert in
+Microsoft Business Intelligence technologies like SQL Server Integration Services (SSIS), SQL Server
+Reporting Services (SSRS), and SQL Server Analysis Services (SSAS }
+
+Skills
+
+Database: SQL Server Oracle 10g, Sybase Technologies: SQL Server Management Studio, SSIS,
+SSAS. SSRS, Profiler, BI Express, Database Tuning Advisor, MS Office, Excel, MS Project, Oracle
+SQL Developer Tool. Version Control Tools: MS Visual Source Safe (VSS), Source Version Control
+(SVN}, Microsoft Team Foundation Server (TFS) Programming Languages: C, C++, HTML, XML
+Operating Systems: Windows MS-DOS
+
+Work Experience
+SQL Server Developer
+
+Stein Mart - March 2011 — Present
+
+Designing and developing the SSIS packages, stored procedures, configuration files, tables,
+views, Indexes.
+
+Used SSIS to extract data from enterprise data warchouse, Oracle added multiple
+transformations to transform the data and finally loaded into the DB2 database.
+
+Using table difference, upsets, lookups, and conditional splits for finding deltas.
+
+Used SQL Bi-Xpress for managing, auditing and notification frameworks.
+
+Creating the SSIS jobs for monitoring the jobs that depend on datly loads and loading db2
+database tables using SQL server agent_
+
+Automating tasks using active x script [similar to VB Seript). Be able to tmplement failure
+alerts using email in SSIS.
+
+Involving in object-ortented design (UML, activity diagrams, use cases, and object modeling}.
+
+SQL Server Developer
+
+ABC Corp - 2006 - 2011
+
+.
+
+Developed transact-SQL (t-SQL) queries, stored procedures, triggers. user-defined functions
+(UDF), views, tndexes, and user-defined data types strictly following the data Integrity using
+constraints, rules, and default.
+
+Createcdl Windows logins and privileges to user accounts/groups and objects.
+
+Developed CTEs, constraints, and complex queries to fetch the data from diflerent servers.
+Worked with project stakeholders to understand business requirements and initiatives.
+Developed processes based on technical specifications and development standards.
+Performed untt testing on all development.
+
+Monttored the job periornmances to ensure processes run according to schedule. Troubleshoot
+and resolved the issues as needed.
+
+Education
+
+© This Pree Resume Template ts the eapyright of Qwilcresumecom. Usage Guidelines

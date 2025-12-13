@@ -1,0 +1,115 @@
+Ella White
+Senior Software Architect | C# |.NET | Azure
+
+help@enhancvcom = linkedie.coen 9 Fort Worth, Texas.
+
+SUMMARY
+
+Senior Software Architect with over 10 years of experience in ASP.NET, Ca,
+JavaScript, and Azure. Skilled at transforming business needs into
+Software solutions. Adept at Leading projects to successful completion,
+Determined to apply my technical expertise in a challenging remote
+environment.
+
+EXPERIENCE
+
+Senior Software Developer
+18M 03 2018 Ongoing — 9 Plano, Teas
+
+Developement and maintenance of software applications and infrastructure using
+Microsom stack
+
+* Developed enterprise-level software applications using ASPNET. Ca, MVC, ang SQL
+
+increasing user inmeraction by 25%.
+. en nr Penn re OO TO TD OT oO
+
+Software Engineer
+
+Oracle Corporation 2014-2018 @ Austin Texas
+
+Built Garge-scale, distributed wed applications using Microsoft stack
+
++ Implemented SQL Server for efficient data management. decreasing date access time by
+35%,
+
++ Worked with cross-functional teams to troubleihoot complex technical issues, resulting
+
+in improved syitem performance by 40%
++ Engineered secure web applications, succespulty reducing secerity Breaches by 0%
+
+Junior Software Developer
+
+Microsoft Corporation 9.2013 2014 nving Texas
+Participated in designing, devetoping and testing of software applications with NET
+stack
+
+* Connributed to the design and development of web applications using NET. improving
+browser compatibility by $0%
+
+« Assisted in database detign and optimization, decreating reigonve time for databaye
+queries by 50%.
+
++ Provided technical sepport, reducing software dentine by 40%,
+
+EDUCATION
+Master of Science in Computer Science
+
+Texas ASM University 03 2007-2011 Cotiege Station, Texas
+
+Bachelor of Science in Computer Science
+University of North Texas © 2005-20097 ¢ Denton, Texas
+
+LANGUAGES
+
+English Native @eeee Spanish Advanced eee
+
+STRENGTHS
+
+” Solution-oriented mindset
+
+SKILLS
+
+Ce
+
+‘Seccessfully formulated scalable solutions in
+projects Through efficient requirement
+gathering. reducing time taken by 20%.
+
+Exceptional technical
+communication
+
+Facitivated client meetings, effectively
+explained comptes technical issues to non-
+
+Architectural expertise
+
+Derigned robust software architectures for
+Phwiti-tier applications, enhancing system
+stability and performance.
+
+NET = JavaScript «= ASPNET Core
+
+ee Se ae
+
+CERTIFICATION
+
+AWS Certified Solutions Architect
+Certified by Amazon Web Services.
+
+MCSA; SOL Server
+Certified by Microsoft,
+
+PASSIONS
+
+"]
+
+Learning New Technologies
+Passionate 0ut Cominuous learning,
+constantly updating my skills and knowledge
+regarding the latest technologies.
+
+Programming Challenges
+
+Enjoy tackling complex coding protiems and
+finding optimum solutions.

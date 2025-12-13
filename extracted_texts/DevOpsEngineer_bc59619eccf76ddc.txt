@@ -1,0 +1,108 @@
+Jessica Anderson
+
+joie arderson@esample.com + 987-654-5210 + ww. pekcaareterionder + porticlic wrinicaaudersonchey *
+
+fanbketin coms ripe taareder son
+
+ev Ops engines witha prowen track record of oplieraaing software development proceisar (ough aulomebon, coninucut
+intagration, and deployment. Adept at desiring, implemuniing, and mantaning scalable infrastructure and ensuring
+Seamless cofuboralion between development and operations teams. Passionate aboul leveraging lechnuology to achinww
+
+operational excellence,
+
+Projects
+
+Awtomated Deployment Platform
+Built 4 custoen deplcyrrm mt platform
+ule Kubernetes and Jenkin to
+
+siraamine application deployments
+
+and reduce manual etrors.
+
+infrastructure as Code
+
+Led the anplamentation of
+infrasinucture ai Cocke usieg Terratoem
+and CloudFormation, reaulting in
+coraivient and automated provieorng
+of cloud resources.
+
+OL
+
+DevOps Toots
+Jenkins
+Tertatorm
+Kubernetes
+Decker
+
+ans
+
+Aoure
+Procratheus
+Gafara
+
+Prograenming Languages
+Python
+
+aware
+
+infrastructure as Code
+Terratorm
+CloudFormation
+
+Monitoring and Logging
+Proctetheus
+Giana
+
+ELA Stack
+
+DevOps Engiewer at Micresoft
+Fab 2021 - pul 200] « Recinond, Washington
+
++ Automated CCD pipelines using jentens, recucing deployment tine by 40%
+and increauing releate frequency.
+
++ implemented infrastructure as cote using Terruform, resubing in 20% faster
+prodsioning of cloud resources.
+
++ Developed monitoring and alerting syitern with Prometheus and Grafana,
+fecucing incidurt response Lime by 30%
+
++ Colaborated with crows functional teams to optimize application
+performance, resulling #4 25% reduction im lntency
+
+DevOps Engieeer at Facebook
+he 2019 - Jan 202! » Mero Park, Cobtarnia
+
++ Oplimined resource ulfization and cow efficiency an AWS by englementing
+autoscabryg and reserved imtances.
+
++ Lad incident response and root cause anabeus efforts, resulting in a 20%
+feduction a mean Cin to raahdlion
+
++ Mentored jureor engineers and conducted morkihops to promote DewOpa
+bes! practiows ared erowbectew sharing.
+
+Software Engineer at Netflix
+
+May 2017 - Jun 2019+ Loo Gaten, Calfarrts
+
++ Designed anc onpiemerted container ined applications ung Cocker and
+orchestrated with Kuternetes achinvng tag scalatibly and avadabiity.
+
++ Dewdoped custom ceployerent tools and scripts, reducing erarnuad
+inhervwerion and deployment errors by 40%.
+
++ Callaborated with cross-functional teams Co amprove continuous: miegraton
+processes, resulting in a 30% increase im code cuadity
+
+Stanford University
+Sep 2005 -jun 2017» Stanford California ' GPA LE
+
+Mavter of Soence in Computer Science
+
+University of Califeenia, Berkeley
+Sep 20?) - May 2005 + Serbaley. Cabtorris GPA 19
+
+Bachelor of Scknce in Ehectrical Engineering and Computer Scmnce

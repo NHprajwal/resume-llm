@@ -1,0 +1,98 @@
+ABDIRAHMAN DICKINSON
+
+DevOps Engineer
+
+\ 854-831-1367 © john hempstead@example.ccom % www.example.ccom % Richmond, VA
+EDUCATION LANGUAGES
+HSC English Native @eeee
+GPA
+University of Richmond G2 2006-2010 3.95 / 4.0 Sanialy Chea
+9 Richmond, VA
+Korean Beginner @* ee
+MY TIME
+
+CA) Documentation
+
+[B } Working at the office
+
+@ Badminton
+
+fo) Engineering team support
+
+fe) Cooking
+
+@ Family and friends time
+
+@ spor
+
+af
+o—
+“~%
+
+oO Automation
+EXPERIENCE
+Sr. DevOps Engineer
+Dufour 2015-Ongoing 9 Richmond, VA
+
+* Managed a Chef environment with 250 roles, 400 cookbooks, and 3,000 nodes
+* Created the new PCI-DSS RHEL 6 hardening for the company
+
+* Completed data automation project 5 months ahead of schedule and $80k under
+budget for our manufacturing sites in China.
+
+DevOps Engineer
+
+Lessard 2013-2015  @ Irving, TX
+* On-call 24/7 as.a L3 engineer.
+Have experience working on Microsoft Office 365 system.
+
+* Maintained and optimized a 40-node ElasticSearch cluster that collects 1 billion
+documents daily
+
+DevOps Engineer
+Stracke f) 2011-2013 Richmond, VA
+
+Worked with a team of devetopers to develop Human Manager using Spring and
+Angutar
+
+Junior DevOps Engineer
+
+Wyman Ltd fA 2010-2011 9 Richmond, VA
+
+wawwenhancy,cort
+
+FIND ME ONLINE
+
+in /abdirahmandickinson
+
+W @abdirahmandickinson
+
+SKILLS
+
+ansible linux git aws devops
+
+python docker puppet apache
+
+java jenkins maven
+
+MY LIFE PHILOSOPHY
+
+Human resources are like natural
+resources; they're often buried deep. You
+have to go looking for them, they're not
+just lying around on the surface. You
+
+have to create the circumstances where
+they show themselves.
+
+Ken Robinson
+
+PASSIONS
+
+@W Coding
+
+@ Algorithms
+
+= Healthy Lifestyle
+
+Paweredby (CX? Enhancy

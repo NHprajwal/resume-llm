@@ -1,0 +1,41 @@
+ANDRA GURU TEJA
++91 8074372344 andraguruteja@gmail.com GitHub LinkedIn
+Education
+MVJ College Of Engineering Bengaluru, Karnataka
+Bachelor of Engineering – Artificial Intelligence and Machine Learning; CGPA: 7.8 Dec 2020 - May 2024
+NRI Junior College Vijayawada, Andhra Pradesh
+Intermediate (Class XII), | Percentage: 81% June 2018 – Apr 2020
+Professional Experience
+Sigmoid Analytics – DevOps Engineer Intern
+Sept 2024 – May 2025 | Bengaluru, India
+• Dockerized full-stack applications using multi-container architecture, ensuring consistent and portable deployments.
+• Implemented CI/CD pipelines in GitHub Actions to automate build, test, and deployment workflows
+• Worked with AWS services (EC2, S3, IAM) to deploy and manage cloud environments for application hosting.
+• Optimized Docker images using multi-stage builds to reduce size and improve build efficiency across environments
+• Collaborated with frontend and backend teams to resolve environment-level issues and integrate containerized
+services smoothly.
+• Contributed to an internal hackathon project by assisting in automation, monitoring setup, and data flow improvements.
+Skills
+Languages: Java, Python
+Databases: MySQL
+Web Development: HTML, CSS
+DevOps Tools: Docker, Kubernetes, GitHub Actions
+Cloud Platforms: Aws, Azure
+Operating Systems: Linux, Ubuntu, Mac
+Tools: VS Code, Eclipse, Git, GitHub
+Projects
+Azure Data Pipeline for Sales Data Processing:
+• Tech-Stack: Azure Data Factory, Azure Blob Storage, Azure SQL Database, Python
+Description: Developed an automated ETL pipeline using Azure Data Factory (ADF) to ingest, clean, and load sales data. Raw
+CSV files stored in Azure Blob Storage were validated and transformed using Python, then loaded into Azure SQL Database
+for reporting and analytics.
+Role: Built and scheduled ETL pipelines in ADF for data ingestion from Blob Storage to Azure SQL. Performed validation,
+transformation, and monitoring of pipeline runs using ADF tools to ensure reliable data flow.
+Weather Monitoring System:
+• Tech-Stack: Python, Docker, GitHub Actions, Redis, Prometheus, Grafana, AWS
+Description: Built a real-time weather monitoring application that fetches weather data for multiple cities and supports
+containerization, CI/CD deployment, caching, and cloud monitoring. Integrated scalable API handling with caching to reduce
+latency and ensure faster responses
+Role: Developed REST APIs using Python and OpenWeatherMap API. Implemented Redis caching and SQL storage.
+Containerized the application using Docker and deployed it through GitHub Actions CI/CD on AWS. Configured Prometheus
+and Grafana for system monitoring and alerts.

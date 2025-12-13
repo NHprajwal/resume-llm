@@ -1,0 +1,37 @@
+Rohan Kumar
+
+123 Street | Delhi, 110085 | +91 9960990099 | rlufiogmnail com |
+itps:(\www linkedin. cominfrohan-kumar | https:(igithub com/RohankKuenar
+
+Objective / Profile Summary
+
+Seating a challenging cpportunty im the Seid of Data Scence Have good anowtedge of executing date-
+Gren projects Using predictive models Profcent hn numerous statistical mache eaaming and deep
+ean ng aigoritions toch as Linger Regreccsion Decision Trees, SVM, PFUNN Using loom such as R,
+Python, B48 etc
+
+Education
+© MA Statiaticn, University of Delhi, 2019, 1 Division
+
+Ady 2019 ~ Decernber 2019
+intern | Department af Data Analysis | Hewlett-Packard | Delhi
+
+@ Used predictive analysis such as machine learning and data mining techniques to forecast
+Comparty tales of new products with 95% accuracy.
+
+@ Develop ETS for diate sources used for reporting by eales, lwventory, and marketing
+departments.
+
+Certification
+
+© Data Science using SAS and & trom Analytix Labs (jan 2019 - April 2015)
+© Proficient in SAS, t Prograrnening and Advance! MS Excel. Leveraging SAS and & statistical
+took for Gata management, exploratory analysis and data visualization. Business
+Anabytical Techniques - Segrnentation (RFM, Kean: clustering), Regression analysts,
+Gassification, Decision Trees and Time Sertes Farecasting.
+
+. sD WESSON AIP RINT LENSE
+Learnt Gata analysis with python, Acvance Statistics, Machine learning algoritturs, Spark
+SOL & Datatrame and MLUib
+© Performed Fraud Ad Click Owtectian where developed a sakution to differentiate a fraud
+cach tram the genuine dicks and provided! a method to remove those fraudulene clicks

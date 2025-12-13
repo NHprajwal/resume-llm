@@ -1,0 +1,74 @@
+Robe rt Ss m ith Phone (123) 456 78 99
+
+Email: Infom@awikresume, com
+
+Website > www, qwikre sume, corm
+
+DevOps Engineer ll LinkedIn: linkedin.com/quwikresurne
+Address; 1737 Marshwille Road, Alabama
+
+SUMMARY
+
+Overall 8+ yrs of IT experience as a DevOps Engineer, which Includes detailed technical
+knowledge and experience of Bulld Engineering and Configuration Managernent processes, tools
+and best practices. Extensive hands-on experience in the creation of robust, flexible, automated
+solutions for Build and Deployment processes and Environment Managernent across the Financial,
+Broadcast and Media Sectors.
+
+SKILLS
+
+Programming Language & Frarmework C, JAVA/J2EE, Perl, Bourne & C Shell, Ant, SQL, Oracle
+PL/SQL, Python, Ruby Tools Subversion, Perforce GIT, ClearCase, TFS ClearQuest, Jira, Rernedy
+)Bamboo,Ansible Make/make, Ant, Maven, Ivy, Jenkins Quality Center, WinRunner, LoadRunner,
+Test Director Requisite Pro, Doors, MS Visio, MS Office Suite, SharePoint, Micro Strategy (MSI),
+Rational System Architect OS Windows, Unix, Linux, and Solaris,
+
+WORK EXPERIENCE
+
+DevOps Engineer I
+ABC Corporation ~ October 2015 - Present
+
+* Involve in implementing change management process while fixing the existing code to
+enhance the code or bud fixing,
+
+* Managing web apps (FE/ME/BE) by installinq/upgrading, deploying war files,
+configuring/Uup dating data source connections and config property files on all non-prod
+servers.
+
+* Providing automated rnonitoring, reporting &arnp; analyses for all aspects of the DevOps
+environments configured tomcat, apache, |VM parameters and property files.
+
+» Working with VI editors to create and modify the UNIX scripts and text files.
+
+* Working with web/MQ tearns to troubleshoot/resolve the fast apps/MQ queues connection
+issues.
+
+» Using Ansible for cloud provisioning, configuration managernent, and application deplayment,
+
+* Creating post-cormmit and pre-push hooks using python in syn and git REPOS,
+
+Release/Build Engineer
+ABC Corporation - Novernber 2011 - September 2015
+
+* Environment java j2ee, Websphere, svn, ansible, integrated ant maven and build forge,
+maven, Jenkins, chef, Linux, XML, Perl scripts, docker, shell scripts,
+
+* Description collateral central is | p morgans ambitious and ingrown web application which
+provides avery complex banking solution to prestigious banks worldwide, which get into
+collateral agreernents with each other and where | p morgan acts as a mediator.
+
++ Collateral Central is a one-stop solutior for all collateral based deals between banks.
+
+* Clients can mobilize collateral Inventories across multiple geographies and trading activities -
+regardless of the underlying obligation- to effectively rnanage risk.
+
+* Responsibilities performed dally night bulld &arnp; weekly build &amp; release for the product
+using ant, maven bulld scripts wrote Perl &arnp; shell script for automation of bulld &arnp;
+release of product responsible for deployment of the build to production environment,
+coordinating bulld activities with QA, UAT tearns deployed and released multiple builds on
+different environments and products.
+
++ Ensured processes are deployed successfully to production environmerit responsible for the
+plugin management, user management, and end-end build and deploy setup using Jenkins.
+
+O Ths Free Resume Template is the copyright of Qwikresurne com. Usage Gubie lings

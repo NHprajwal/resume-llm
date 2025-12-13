@@ -1,0 +1,65 @@
+ABHIRAM DINESH
+Software Engineer
+Software Engineer with hands-on experience in designing and automating cloud-native and hybrid environments on AWS. Skilled in
+CI/CD pipelines, container orchestration, Infrastructure as Code, configuration management, and monitoring solutions. Proven track
+record of improving scalability, reducing deployment times,cyber security practices and enhancing security and reliability of enterprise
+applications.
+abhiram.di2003@gmail.com 6282488838 linkedin.com/in/abhiramdinesh github.com/abhiramn23
+EXPERIENCE SKILLS
+Bharath Electronics Ltd- Trainee Operating Systems & Cloud Platforms:AWS
+Scripting : Linux, Python
+Bengaluru
+07/2024 - 07/2025, Terraform (IaC) CI/CD & Automation:
+Jenkins,Webhooks
+Achievements/Tasks
+Deployed and managed AWS EC2 instances, networking, and
+Version Control: Git, GitHub Containerization: Docker,
+Implemented IAM roles, VPCs, and Secrets Manager for
+DockerHub
+secure deployments,
+Collaborated with internal team for system administrative Networking CyberSecurity- VAPT, SOC
+tasks, cyber security practices,
+Other Tools: VS Code,
+Configured Jenkins pipelines reducing deployment times, Putty/SSH, Wireshark
+Automated AWS provisioning with Terraform ensuring 100%
+environment consistency,
+Ensured system reliability and uptime by implementing best PROJECTS
+cloud security practice.
+DevOps CI/CD Pipeline Setup
+Designed and implemented a complete CI/CD pipeline using AWS
+DevOps Intern
+EC2 , Jenkins and Docker . Deployed and configured 3 separate
+Elevate Labs EC2 instances to host Jenkins (CI server), SonarQube (code quality),
+and Docker (deployment).
+08/2025 - 10/2025,
+Pushed two sample projects (a basic HTML template and a Java-
+Achievements/Tasks based application) to GitHub.
+Automated code deployment using CI/CD pipeline (GitHub Containerized both applications using Docker and deployed them to
+actions), the target EC2 environment Ensured automated code testing,
+building, and deployment from commit to end-user delivery.
+Set-up Jenkins pipeline to automate the process of building
+and deploying an application, Containerised Super Mario & Deployed on AWS EC2
+Deployed and managed AWS EC2 instances. Built a Docker image for a Super Mario application and optimized it
+for lightweight container deployment.
+Deployed the containerised application on an AWS EC2 instance,
+configured networking, and automated version control with
+EDUCATION Git/GitHub.
+Linux System Health & Troubleshooting Commands
+BE in Information Science & Engineering
+Guide
+MVJ COLLEGE OF ENGINEERING| Bengaluru,
+Developed a concise guide of essential Linux commands for system
+KA monitoring, troubleshooting, and security, consolidated into a PDF
+and GitHub repo to serve as a quick-reference tool for developers,
+07/2020 - 07/2024, CGPA- 8.09/10
+DevOps engineers, and system administrators.
+Higher Secondary (Class 12)
+Kerala State Board – Kannur, Kerala CERTIFICATIONS AND
+2020, 84% ACHIEVEMENTS
+DevOps Engineer Certificate- Oneroadmap
+CERT-676B5FA3
+Cyber Security and Ethical Hacking(CEH) - Boston
+Institute of Analytics
+LANGUAGES
+English Kannada hindi malayalam
+tamil

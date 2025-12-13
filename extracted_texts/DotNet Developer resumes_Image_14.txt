@@ -1,0 +1,70 @@
+Robert S mith Phone (123) 456 78 99
+
+Email; [nfo@awikresume, corm
+
+Website : www. qwikresume,corm
+
+Senior .Net Developer Linkedin: linkedin.com/quwikresume
+Address; 1737 Marshwille Road, Alabama
+
+SUMMARY
+
+Senior Net Developer with more than 12 years of experience in windows/web applications Design,
+Development and Maintenance using ASR NET, ADO.NET, C#.NET, VB.NET, Adobe FLEX(2,3,4), VB
+6, JavaScript, jQuery, Jira, Trello, Zephyr, AJAX, IIS, Nginx, XML, Oracle 11G, SQL Server SSIS 9.0
+for ETL packages and Silverlight/WPF Controls. Generated Online Business Intelligence reports
+using Microsoft PowerPoint & Microsoft Excel,
+
+SKILLS
+
+ASP.NET, C#, VB.NET, ADO.NET, WCF, WPF 3.0, WWF, ASP, AJAX, WSDL, SharePoint 2010, XML,
+Silverlight 2, SOAP, XSD, XSL
+
+WORK EXPERIENCE
+
+Senior .Net Developer
+End Client - Decernber 2013 - Present
+
+* Responsible for redesigning the pricing model for small businesses, home, and auto,
+
+* Customized restful web service using restful API, sending |SON format data packets between
+front-end and middle-tier controller.
+
+* Involved in setting up and configuring Microsoft Azure cloud computing platforrn components,
+
+* Hands-on experiences working with one jira, one confluence-production and other
+development tracking tools.
+
+» Used CORS pattern for data flow between the database, services and the app,
+
++ Created a virtual network on windows azure to connect all the servers application on the
+Azure API platform that requires no on-premises hardware.
+
++ Creating databases, collections, and documents, able to write cormplex queries using NoSQL-
+MongoDB.
+
+Senior .Net Developer
+ABC Corp - 2006 - 2013
+
+* Participated In the conceptual design developrnent, ensuring that the solution |s viable and
+designed appropriately to tackle the business case,
+
+* Provided support for the facilitation and review of estimates, development and deployrnent
+plans for all capabilities participating in the release.
+
+* Provided/coordinated the estimates for the development components required for the solution
+and handling design efforts across capabilities/systems.
+Provided support to project managers to ensure design/build activities remain within the
+project schedule/budget.
+
+* Acted as a technical advisor to the project manager, OA lead and/or business,
+
+* Facilitated critical issue and resolution of technical issues during the development of the
+solutions.
+
+* Responsible for vendor work, delivery review, and acceptance.
+
+EDUCATION
+8.Sc. in Cornputer Science - May 1997(INDEPENDENT UNIVERSITY )
+
+O Ths Free Resume Template is the copyright of Qwikresurne com. Usage Gubie lines

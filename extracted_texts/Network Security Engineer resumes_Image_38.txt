@@ -1,0 +1,53 @@
+ROBERT SMITH
+Senior Network Security Engineer/Analyst
+
+E-mail: info @qwikresume.com Phone: (0123)-456-780
+
+SUNIMARY
+
+Interested in utilizing expenencein Application Delivery, Server and Networking. Preferred work areas are
+Application Architecture Design, Engineering and Operation Suppart. Installing and administering Linux
+and UNIX OS systems to support Web based application and databases. Additional areas of interest include
+Proxy Services and Domain Name Services administration,
+
+Bigip Administritor, Security.
+
+WORK EXPERTENCE
+
+Senior Network Security Enginecr/Analyst
+ABC Corpomtion - September 2009 — October 2011
+
+* Responsible for a global Juniper firewall deployment of approximately 300 appliances.
+
+® Responsible for engineering and maintaining the Bluccaut Proxy Server deployment;
+Utilized of the Enterprise Manager to interact will all of the worldwide deployment for the USALD.
+Analyzed Cheek Point Firewall manning R75.x to determine Active Directory connectivity issues.,
+and recommended u viable solutions to resolve mobile access and remote VPN authentication,
+Provided consultation in the area of traffic analysis, bandwidth management, trattic shaping,
+authentication, and related wireless account management issues.
+Assessed, the clients DMVPN network.
+Tested and evaluated network systems to ensure stability, eliminate problems und make
+improvements ;
+
+Senior Network Security Engineer
+Delta Corponition - 2007 — 2009
+
+General Dynamics Information Technologies provides world class technology and responsive
+solutions to. our US.
+
+Government customers,
+
+Employed as a Contractor assigned to the Department of Homeland Security.
+
+While employed with GDIT I was responsible for day to day administmtion of the ArcSight SEIM
+in the DHS SOC.
+
+‘That included installing Updates, Maintaining the system Archives.
+
+Traini ng analysts,
+
+Also, supported the Bluecaat proxy solutian for DHS.
+
+SE HOLASTICS
+
+© This Eines Resumes Tomulats = the copyright of Qwakreaime.com, Lsagse Gatlstefi nes

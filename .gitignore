@@ -1,0 +1,77 @@
+# ================================
+# OS / Editor
+# ================================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+.vscode/
+.idea/
+*.swp
+*.log
+
+# ================================
+# Python
+# ================================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+
+# ================================
+# Jupyter
+# ================================
+.ipynb_checkpoints/
+
+# ================================
+# ML / LLM Artifacts
+# ================================
+models/
+checkpoints/
+outputs/
+runs/
+wandb/
+
+*.pt
+*.pth
+*.ckpt
+*.bin
+*.safetensors
+
+# ================================
+# Datasets (keep manifest.jsonl!)
+# ================================
+data/
+datasets/
+raw_data/
+
+# Allow dataset manifests
+!manifest.jsonl
+!**/manifest.jsonl
+
+# ================================
+# Hugging Face
+# ================================
+.cache/
+hf_cache/
+huggingface/
+
+# ================================
+# Git
+# ================================
+.git/index.lock
+
+# ================================
+# Secrets
+# ================================
+.env
+.environ
+*.key
+*.pem
+.env
+huggingface/token
+.cache/
+hf_token

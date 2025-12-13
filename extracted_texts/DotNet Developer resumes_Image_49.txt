@@ -1,0 +1,68 @@
+Robert Smith CONTACT. DETAILS
+
+1737 Marshville Road,
+
+Alabarna
+Dot NET Developer I (123)-456-7899
+info@qwikresume.com
+PERSONAL STATEMENT
+Dot Net Developer! with around 7years of experience in IT industry with SKILLS”
+Software Development Life Cycle (SDLC) including design, development, C, C++, C# Stylus
+testing and implementation of the projects. Experience in interacting with Studio,MS-FrontPage,
+business analysts, gathering project requirements and discussing Zend Studio IDE,
+implementation strategy with project managers, Silat 4.x, Flash
+CS54/C53, Flex
+WORK EXPERIENCE 3.x/2.*,IBM Rational
+Modeler Web
+Dot NET Developer | oliresnEeatsc oes Mvc,
+Sprint Corporation Overland Park- February 2009 - Present ASP.NET. WCF, Web-
++ ’ ’ z3
+Responsibilities: Services, XHTML, HTML,
+= Using model view controller (MVC 4) architectural design patterns for HTMLS5, CSS3, SignalR,
+the development of the product, Microsoft Active
+* Understanding existing applications and accreditation business rules in Directory, IIS, MVC Razor
+order to accurately implement existing business rules in SharePoint Scripting Languages
+portal. XML, C55, JavaScript,
+= Designing, developing and deploying the responsive web design (RWD) Databases MS oe
+functionality in CGX using MVC 4.0 with Razor, kendo Ul, Knockouts, cia) eapeyal ye:
+
+jasmine, Ajax, jQuery, C#, HTMLS, V9.1, V9.5, V9.7, V10.1,
+
+* Implementing the client-side validations using jQuery and ASP.Net MVC era Data- 14, Naturaly
+validation implemented at controller level, ADABAS Platforms :
+» Involving in migrating the data from) SOA to restful services using &amp; Servers tS
+ASRNet Web API. (Internet Information
+= Implementing the interface whenever possible to enhance usability, Server), Visual Studio
+testability and to increase performance. Windows |
+» Designing front end using Bootstrap, HTML, CSS, jQuery, Javascript and NT/2K/XP,Unix, APACHE
+Anqgular|S, 3.0/2, X, Programming
+Area Web Applications,
+Application Developer picks fae ops ae
+ABC Corp ~ 2007 - 2009 integration, D %
+Responsibilities; Design &amp;
+=» Developed and prepared the documents for the general design of Programming
+solutions that met system and security requirernents, including the Components Web Mobile
+selection of alternative approaches, ASP.NET, MVC, Web API,
+» Developed the specifications tor databases, cormmunication systems, HTMLS,DHTML,CSS,
+hardware, network, security, storage and software configurations, Javascript, }Query,
+* Developed structured diagrams for the specifications of databases, Angular}, JSON, AJAX,
+communication systems, computer or storage area networks, security Bootstrap, XML, XSLT,
+
+or network programs, XAML, SOAP, REST
+
+» Developed, compiled, maintained and docurmented the configurations of
+
+the databases, servers, computers, security and network monitor LANGUAGES
+
+systems, packaged programs, macros, utilities, and communication
+
+systems, ace .
+. French (Professional
+
+Worked on developing rich uifux pages using |query, java script, ajax, Spanish (Professional)
+
+= Developed mvc web apis (rest services) as a service layer, asp. Net web
+forms for front end.
+
+» Thisis Dummy Description data, Replace with job description relevant
+© This Erce Resume Template Is the copyright of Qwikresume.com. Usage Guidelines

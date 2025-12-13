@@ -1,0 +1,67 @@
+Sap Business Objects Developer Phone: (123) 456 78 99
+
+Email: Info@qwikresurne.com
+
+ROBERT SMITH mney:
+
+linkedin.corm/qwikresume
+Address; 1737 Marshville Road,
+Alabama,
+
+Objective
+
+Over 7+ Years of experience in decision support systerns Using Business Intelligence tools SAP
+BOB) 4.0/3.1 / XI R3 / XI R2. Experience in gathering requirements from the business users and
+prioritizing those requirements, which have the highest business impact in terms of analysis and
+decision-making. Worked with Business users to analyze the business process and made
+necessary changes ta the schema objects.
+
+Skills
+
+Project Management, Business Objects 5.1, 6.5, BOXI R2, BOX! R3, Oracle 10g, SQL Server, DB2,
+Cognos 10, Qik.
+
+Work Experience
+
+Sap Business Objects Developer
+a july 2014 - 2020
+
+Worked on several development projects that includes eritical Universes and reports for
+varlous usér populations.
+Interacted with Business Users and owners to know their day to day Business views reflecting
+thern in the Universes and Reports.
+Created the Universes for different user populations such as BARS, Business Resource Center,
+ClaimFacts and Consolidated Group Renewal System.
+Created canned and ac-hoc reports meeting user requirements over the top of Universes and
+freehand sql queries.
+
+» Made modifications to existing Universes as part of the support.
+
++ Created, maintained and modified the business reports using the Business Objects Reporting
+Module,
+
++ Created users, Groups, Folders and assigned privileges for various access levels |.e Viewers,
+Power Users and Desk Users,
+
+Sap Business Objects Developer
+Delta Corporation - 2012 - 2014
+
+» Kaiser CSBIO Project provides Business Intelligence solutions to Kaiser for all ROC and
+California Regions.
+
+* We develop solutions for BI reporting using SAP Business Objects.
+
+* Involved In requirement gathering Garp; status meetings with client,
+
+* Developed Business Objects (X] R2) Universes in Sql Server 2005/CA Service Desk
+environment Wrote SQL Queries to create SOL Views to provide .
+
+* Involved inthe below activities 1) Creating a security model and proposing to the client,
+
++ Valldating three layered security architecture(Location, abject, application level) 3) Editing
+Universe for applying class level filter, managed.
+
++ This ls Durmmy Description data, Replace with job description relevant te your current role,
+
+© This Free Resume Template is the copyright of Qwikresume.com. Usage
+Suidelines

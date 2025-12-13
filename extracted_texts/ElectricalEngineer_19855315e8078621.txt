@@ -1,0 +1,57 @@
+ROBERT SMITH
+Senior Electrical Engineer
+
+Phone: {0123)456-788 | Emad: nfo@qwikresume.com | Website: Qwikresume.com
+SUMMARY
+
+Specialized experience spanning multi years as Electrical Engineer, The industries cover
+refineries, chemical plants and manutacturing plants, Managed projects design through
+construction stages,
+
+CORE COMPETENCIES
+Microsoft Certified Professional, Number 1638047,
+PROFESSIONAL EXPERIENCE
+
+Senior Electrical Engineer
+ABC Corporation - November 2013 - November 2016
+
+Key Deliverables:
+
+* Lead eiectrical engineer for innovative, next-generation fitness equipment, including
+treadmills, ellipticals, and integrated televisions:
+
+« Oversee the full electrical system litecycie trom initial design concept, to specification
+development and design, to prototypes.and testing, to valume production and sustaining,
+
+» Collaborate regularly as the primary electrical representative on an interdisciplinary team of
+mechanical, production, and software engineers to provide on time, on budget, weil lested
+designs for consumer consumption.
+
+» Conduct and coordinate subsystem tests including environmental testing, HALT,
+component lifespan estimation, ESD, EMI, EMC, and regulatory compliance to ensure
+volume production-worthy designs.
+
+» Communicate weekly with oversea suppliers to confirm thai design requirements and
+tradeofis are bi-directionally understood and that adjustments are made in a‘timely mannar.
+
+» Create and review ECNs and Deviations in Agile tor new product releases and production
+lifecycle management,
+
+» Write finmware tor integrated FM receivers in C,
+
+SENIOR ELECTRICAL ENGINEER
+ABC Corporation - 2012 - 2013
+
+Key Deliverables:
+» Create electrical designs for high power electronics including DC / DC. converters, linear
+regulators, transformers and rectifiers.
+* Schematic creation, PCB layout, bench evaliation, debugging, simulating and parts fis}
+creation.
+» Failure mode analysis, component de-rating; lab evaluation, tachnical hardware
+documentation, and design tor manufacturing,
+* Circuit development softwar includes Altium, PSpice and Mathcad.
+« Responsible for schematic capture and PCB iayout or layout assist.
+« Create bench test plans and direct fab technicians with EMC testing.
+——
+2259 Oak Street. Old Forge, New York. 13420
+0 This Exee Resume Template is the copyright of Qwikresumc.com. Usage Guidelines

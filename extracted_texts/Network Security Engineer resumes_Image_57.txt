@@ -1,0 +1,65 @@
+Senior Network Security Engineer Phone: (123) 456 78 99
+
+Email: info@qwikresume.com
+Website: www.qwilres ume.com
+LinkedIn: linkedin.com/qwikresume
+
+ROBERT SMITH Address: 1737 Marshville Road,
+
+Alabama
+
+Objective
+
+Lead Engineer with 20+ years expericnee in the following concentrations; Networks: Routers,
+switches, data center infrastructure, VPN, volee, enterprise management, wireless, Security:
+Firewalls, DMZs, tutrusion detection /prevention, content filtering, pki, encryption, controls.
+Systems: UNIX/Linux, enterprise tools, virtualization, clustering, cloud, scripting, autamation.
+
+Linux, Networking.
+
+Work Experience
+Senior Network Security Engineer II
+
+ABC Corporation - 2011 - 2012
+
+Designed complex Check Point firewall architectures (127 firewall devices}, including
+configurations, policy implementation, mage and package upgrades, as well as multiple new
+builds to support secure application flows for EMS, DMS, and OMS.
+
+Upgraded existing Check Point appliances, and Nokia firewalls, from R65 to R70.
+
+Upgraded Nokia platforms from IPSO 4.2 to 6.2.
+
+Planned and engineered new network infrastructure of Cisco Routers, and switches, including
+hundreds of VLANs across multiple geographically dispersed data-centers to support extensive
+application architecture.
+
+Analyzed application flows to determine firewall policy.
+
+Built IPSEC VPNs between primary and DR sites to support development and testing.
+tnteracted with IS and business groups to develop network security related solutions to solve
+situation specific problems.
+
+Senior Network Security Engineer
+Delta Corporation - 2005 - 2010
+
+Responsibility to the Enterprise Platform Architecture Group of ACS.
+
+Evaluated over 350 devices of network and security infrastructure of pew acquisitions by ACS.
+Provided recommendations for tmprovements to architecture, performance, and security to
+management.
+
+Applied configuration best practice framework to firewall and VPN stateful fall-over systems.
+Produced detailed layer 2, and 3 Visio diagrams, and detailed reports of findings.
+
+Lead Network Security Engineer for Medironic Global Business Solutions Provide 24X7 Tier 3
+support of entire network and security infrastructure .
+
+Lead Network Engineer for MPC Minnesota consulting office Responsible for design and
+installation of LAN/WAN, Security, Wireless, and VoIP solutions ,
+
+Education
+
+AS in Electrical Engineering Technology - (Berkshire College - Pittsfield. MA}
+
+© This Pree Resume Tempiete ts the copyright of Qwikresumecom. Usage Guidelines

@@ -1,0 +1,76 @@
+G> Snapchat, Linkedin, Twitter, Profile
+
+Facebook
+
+An experienced .NET Developer with a solid work tenure in a wide range of .NET
+development aspects for business applications. Highly adept in all development
+
+Place of birth i ' ear ;
+stages, from initial analysis through design, prototyping, implementation, and
+
+San Antonio execution. Extensive coding experience using ASP.NET 2.0, VB.NET, HTML, and
+Nationality XML. Currently completing a Master’s Degree in Software Development and
+American Machine Learning.
+Driving license Employment History
+Full -NET Developer, SGA Courier Services, Devonport
+
+January 2019 — Present
+Skills
+
+Implemented a smoothing functionality into a client CAD tool improving UX (User
+
+NET languages (e.g. C#, :
+Experience) scores by 38%
+
+Visual Basic .NET) and
+HTML5/CSS3
+
+dll
+
+Extracting core use cases from requirement specifications
+
+Building end to end applications by using entity framework coding workflow
+Design & Architectural to build models
+
+Patterns (e.g. Use ASP.NET Web API to build RESTful API’s
+
+Model-View-Controller Creating visually appealing user interfaces with CSS
+
+(MVC) Improve application usability and tweak security features on vulnerable
+software
+
+Create robust, clean, and maintainable code
+
+Refracting and use TFS to create code versions
+
+Implementing decoupled and clean architecture for applications
+Writing unit and integration tests and automate them
+
+Assisting in developing software solutions for mobile customers
+Developing, designing, testing, maintaining, and supporting web
+
+Modules and Plug-ins.
+
+C#, VB.NET, MVC
+
+Inheritance, Generalization,
+Composition, and
+
+Dependency applications for clients
+OOP (Object Oriented .NET Developer, PNG Financial Services Group, Jackson
+Programming) January 2016 — December 2018
+
+Achieved a 99% client satisfaction score for 20 maintenance projects completed
+
+HTML, CSS, and Javascript, a
+on various .NET websites by utilizing ASP.NET MVC, jQuery, HTML, and CSS.
+
+jQuery and Bootstrap
+
+« Analyzing customer requirements and create applications accordingly
+
+ASP.NET MVC - Evaluating and researching technologies and products related to software
+development
+Model View Controller * Developing the activities and procedures required to create system
+
+architecture and user-end applications

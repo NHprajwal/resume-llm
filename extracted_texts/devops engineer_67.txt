@@ -1,0 +1,167 @@
+Jessica CLAIRE
+
+100 Montgomery St. 10th Floor @ (555) 432-1000 ¢ resumesample@example.com
+
+Professional Summary
+
+Detailed-oriented IT professional with 7 years of experience as a Cloud and DevOps engineer/Linux Systems. I have hands-on
+experience supporting, automating, and optimizing application deployments in AWS by building an automated CI/CD pipeline
+without forgoing security and performance. Ileverage Terraform to build, maintain, and orchestrate infrastructures in AWS and
+ansible for configuration management. I have led and worked on multiple projects through the SDLC. I am very detail-oriented when
+it comes to spotting anomalies and have excellent communication, problem-solving, and decision-making skills.
+
+Skills
+¢ Operating Systems: ¢ Configuration Management : Ansible
+e Linux (RedHat 8, Ubuntu) Windows. ¢ Application Deployment : Ansible
+e Cloud Platform : AWS (IAM Role, EC2, EBS, EFS, EKS, ECR, — * Containerization Tool : Docker
+$3, VPC, Cloud watch NACLs) e Container Orchestration Tool : Kubernetes
+¢ Scripting Languages : Bash Shell Scripting e Monitoring Tool : Prometheus and Grafana
+e Infrastructure Provisioning : Terraform * Log Management and Data Analytics Tool: ELK
+¢ Distributed Version control tool : Git (Elasticsearch, and Kibana)
+e Source Code Management : GitHub e SPLUNK
+¢ Build Tools : e Ticketing : Jira
+e Maven © Feedback notification : Email notification/Slack notification
+¢ Remote artifactory Repository : Nexus ¢ Intelligent integrated Environment : VS code
+e Code Quality Analysis Tool : SonarQube, SonarCloud e Write, modify and maintain Ansible playbooks using
+e Application server : Tomcat modules
+* CI/CD Tool : Jenkins e Write, modify and maintain YAML files
+e A detailed-oriented IT professional.
+Work History
+
+DevOps Engineer, 04/2019 to Current
+Maxar Technologies Ltd — Colorado Springs, CO
+¢ Implemented a fully automated CI/CD pipeline using Jenkins & Git to complete the automation from commit to deployment
+¢ Worked on Git/Github to manage source Code
+¢ Worked closely with development teams to improve workflows around build, test, anddeployment of applications
+e Set up Ansible control and slave nodes and developed playbooks to automate the configuration of servers across environments
+e Automated built and deployment using jenkins to reduce human error and speed up production processes
+e Automated the infrastructure deployment for different stages such as ,.Dev/QA/Stage/Prod
+¢ Deployed applications using Helm charts into kubernetes Clusters
+e Created Dockerfiles, built Docker images, and pushing images to ECR for microservices to run on kubernetes platform
+e Implemented containers on AWS using ECS and complementary services, including
+e Amazon Elastic Container Registry (ECR) « Configured EKS to manage the Kubernetes management infrastructure,
+implemented different scheduling options
+e Built, managed, and monitor cloud infrastructure on AWS (EC2, RDS, $3, ELB, etc)
+¢ Used terraform to provision Aws services such as EC2, VPC, RDS, etc..
+¢ Worked with project management tool such as Jira and Confluence.
+
+Linux System Engineer, 12/2017 to 03/2019
+Freshdirect — Hackensack, NJ
+¢ Installation, maintenance, administration and troubleshooting of Red Hat Enterprise
+e Linux
+e¢ RPM and YUM package installations, patch, and other server management
+e Hands on experience of infrastructure and Application Admin, scripting using shell
+e Expertise on writing shell scripts to perform unmanned tasks
+¢ Set up user and group ID's, printing parameters, network configuration, resolving password and permission issues
+¢ Install, configure, and manage LAMP (Linux/Apache/MYSQL/PHP) stacks
+¢ Developed Cron jobs and shell scripts for automating administrative tasks like file system management, process management,
+Server reboots, etc
+¢ Worked on creating Virtual machines using VirtualBox, Vagrant.
+
+Technical Support Specialist, 12/2015 to 01/2017
+Churchill Downs Incorporated — Berlin, MD
+¢ Install new software and updates on customers’ PCs
+¢ Type, edit, and print documents for customers
+e Created hourly time codes for customers to use on computers to surf the internet
+e Handled several calls daily to address customer inquiries and concerns
+¢ Patched software and installed new versions to eliminate security problems and protect data
+¢ Followed up with clients to verify optimal customer satisfaction.
+e Increased sales by 10%
+
+Education
+
+Bachelor of Science: 2010
+University of Abomey-Calavi,UAC - Benin
+
+Skills
+
+e Operating Systems :
+
+e Linux (RedHat 8, Ubuntu) Windows.
+
+¢ Cloud Platform : AWS ( LAM Role, EC2, EBS, EFS, EKS, ECR, $3, VPC, Cloud watch NACLs)
+¢ Scripting Languages : Bash Shell Scripting
+
+¢ Infrastructure Provisioning : Terraform
+
+¢ Distributed Version control tool : Git
+
+e Source Code Management : GitHub
+
+¢ Build Tools :
+
+e Maven
+
+¢ Remote artifactory Repository : Nexus
+
+e Code Quality Analysis Tool : SonarQube, SonarCloud
+
+e Application server : Tomcat
+
+* CI/CD Tool : Jenkins
+
+¢ Configuration Management : Ansible
+
+¢ Application Deployment : Ansible
+
+¢ Containerization Tool : Docker
+
+e Container Orchestration Tool : Kubernetes
+
+¢ Monitoring Tool: Prometheus and Grafana
+
+¢ Log Management and Data Analytics Tool: ELK (Elasticsearch, and Kibana)
+¢ SPLUNK
+
+¢ Ticketing : Jira
+
+e Feedback notification : Email notification/Slack notification
+
+¢ Intelligent integrated Environment : VS code
+
+e Write, modify and maintain Ansible playbooks using modules
+¢ Write, modify and maintain YAML files
+
+¢ A detailed-oriented IT professional.
+
+Work History
+
+DevOps Engineer, 04/2019 to Current
+Data, Bear, DE — Bear, DE
+¢ Implemented a fully automated CI/CD pipeline using Jenkins & Git to complete the automation from commit to deployment
+¢ Worked on Git/Github to manage source Code
+¢ Worked closely with development teams to improve workflows around build, test, anddeployment of applications
+¢ Set up Ansible control and slave nodes and developed playbooks to automate the configuration of servers across environments
+e Automated built and deployment using jenkins to reduce human error and speed up production processes
+e Automated the infrastructure deployment for different stages such as ,Dev/QA/Stage/Prod
+¢ Deployed applications using Helm charts into kubernetes Clusters
+¢ Created Dockerfiles, built Docker images, and pushing images to ECR for microservices to run on kubernetes platform
+¢ Implemented containers on AWS using ECS and complementary services, including
+« Amazon Elastic Container Registry (ECR) » Configured EKS to manage the Kubernetes management infrastructure,
+implemented different scheduling options
+e Built, managed, and monitor cloud infrastructure on AWS (EC2, RDS, S3, ELB, etc)
+e Used terraform to provision Aws services such as EC2, VPC, RDS, ete..
+¢ Worked with project management tool such as Jira and Confluence.
+
+Linux System Engineer, 12/2017 to 03/2019
+Data Services Group — Bear, DE
+¢ Installation, maintenance, administration and troubleshooting of Red Hat Enterprise
+e Linux
+¢ RPM and YUM package installations, patch, and other server management
+e Hands on experience of infrastructure and Application Admin, scripting using shell
+¢ Expertise on writing shell scripts to perform unmanned tasks
+¢ Set up user and group ID's, printing parameters, network configuration, resolving password and permission issues
+* Install, configure, and manage LAMP (Linux/Apache/MYSQL/PHP) stacks
+¢ Developed Cron jobs and shell scripts for automating administrative tasks like file system management, process management,
+Server reboots, etc
+¢ Worked on creating Virtual machines using VirtualBox, Vagrant.
+
+Technical Support Specialist, 12/2015 to 01/2017
+Oceanix Sarl — Cotonou, Benin
+¢ Install new software and updates on customers’ PCs
+¢ Type, edit, and print documents for customers
+¢ Created hourly time codes for customers to use on computers to surf the internet
+¢ Handled several calls daily to address customer inquiries and concerns
+¢ Patched software and installed new versions to eliminate security problems and protect data
+¢ Followed up with clients to verify optimal customer satisfaction.
+¢ Increased sales by 10%

@@ -1,0 +1,92 @@
+JESSICA CLAIRE
+
+100 Montgomery St. 10th Floor
+(555) 432-1000 - resumesample@example.com
+
+SUMMARY
+
+¢ More then 20 years of experience as a Team lead and Web/Application Developer , using c# . vb-net , SQL server.
+
+¢ More then 5 years of experience developing application using Python.
+
+e Experienced with full software development life - cycle, architecting scalable platforms, object oriented programming, database design
+and agile methodologies.
+
+« Experience with JSON based REST API.
+
+e Experience in architecting enterprise level application.
+
+e Experience in deploying and developing solution for cloud using Azure.
+
+¢ Successfully designed and delivered secure cloud solutions for CONED.
+
+TECHNICAL SKILLS
+
+e Azure cloud architecture © SQL Server .Tableau .SSIS packages
+e Python, C#, vb.Net , Java Script
+
+EXPERIENCE
+
+06/2009 to Current Python/Azure/C#/Vb.net Lead or Architect
+Assurant — PR
+e Conducted full lifecycle software development in multiple software environments using python , c# , vb.net , Azure
+© Coordinated with project managers across multiple initiatives to align development timelines, plan testing and work
+with client representatives.
+e Built decoupled and service-oriented middleware software and platforms using python,c# and vb.net
+e Administered application stacks and executed performance tuning to optimize session performance by eliminating
+performance bottlenecks.
+e Identified, researched and evaluated innovative machine learning technologies, explaining details to coworkers.
+e Participated in meetings, code reviews, demos, design sessions, and project retrospectives.
+e Designed and deployed machine learning models into product stack in support of product development.
+e Established scalable automated processes to develop, validate and implement machine learning models.
+e Facilitated integration of machine learning services into technology infrastructure.
+¢ Handled root cause analysis, implementing corrective actions when necessary.
+e Mentored new engineering and production team members.
+¢ Debugged and troubleshot production tooling and equipment.
+e Created additional targeted business solutions in high demand areas for disaster recovery and cloud backup.
+© Migrated customers to latest virtual servers to azure cloud and storage technologies to improve performance.
+e Assisted with new hardware and software deployments, system upgrades and virtual environment upgrades.
+e Increased performance and scalability by sizing solutions to meet system workload requirements.
+e Researched and implemented new technology platforms to support development initiatives.
+
+01/2007 to 06/2009 Senior Software Engineer
+Leviton — San Jose, CA
+¢ Designed front-end application using Asp.net and c#
+© Modified existing software systems to enhance performance and add new features.
+e Designed user-friendly software interfaces to simplify overall management.
+© Documented technical specifications and project testing methods for future reference and other assignments.
+e Performed functional, non-functional, regression and performance tests for updated systems.
+e Drafted detailed design objectives and developed architectural and system design documents.
+e Met with stakeholders, contractor product teams and customers throughout system development lifecycle.
+
+02/2005 to 01/2007 Project Lead
+Planned Systems International — Mary Esther, FL
+e Spearheaded project meetings with team members to discuss ongoing, planned and recently completed projects.
+¢ Maintained close connection with project personnel to quickly identify and resolve problems.
+e Kept project teams on-task with proactive control of budgets, schedules and scopes.
+e Improved quality, functionality and cost by investigating alternate materials for product development.
+© Delivered design recommendations, updates and design results to internal and external clients.
+¢ Collaborated with development, QA and IT operations staff to enhance software productivity.
+© Modified existing software systems to enhance performance and add new features.
+e Designed user-friendly software interfaces to simplify overall management.
+¢ Communicated highly technical concepts using easy to understand terminology.
+
+01/2000 to 02/2005 Software Developer
+Infrasoft Technologies And Dewsoft Solution — City
+¢ Performed functional, non-functional, regression and performance tests for updated systems.
+e Logged and implemented development tasks based on system requirements and documented approaches.
+e Recommended and executed plans to improve development tools and processes.
+¢ Designed websites, portals and large-scale web applications for multiple clients.
+e Built layouts according to customer parameters using HTML5 and CSS3.
+e Built custom SOAP APIs to suit unique customer needs.
+¢ Contributed back-end development experience and collaborated on multiple APIs crucial to functionality.
+e Repaired issues causing site crashes, resulting in elevated uptime and increased sales.
+e Implemented backup system to protect site from outages, data loss and data corruption.
+
+EDUCATION AND TRAINING
+
+B.E in Computer Science: Computer Science And Programming
+D.Y.Patil College - Maharashtra
+
+Diploma: Computer Technology
+Bhausaheb Vartak - Maharashtra

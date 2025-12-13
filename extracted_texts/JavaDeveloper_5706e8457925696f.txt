@@ -1,0 +1,93 @@
+AREAS OF EXPERTISE
+JavaSeript
+
+JSP
+
+SOL
+
+Customer training
+
+Database - SOL development
+Client facing skills
+
+Oracle, PL/SQL
+
+Software development
+
+Project management
+methodologies
+
+PROFESSION AL
+
+Sun Certified
+Programmer for Java 6
+(CX-310-065)
+
+PERSONAL SKILLS
+Problem solving
+Mutisasking
+
+Communication
+
+PERSONAL DETAILS
+
+Gary White
+Java developer
+
+PERSONAL SUMMARY
+
+A skilled java developer with proven expertise in using new tools and wchnical
+developments to drive improvements throughout a entire software development
+lifecycle. Having extensive industry and full life cycle experience in a java based
+environment, along with exceptional analytical, design and problem-solving
+capabilities. Excellent communication skills and able to work alongside suppor
+teams and the java community to define and refine new functionality.
+
+Looking for a ambitious company which will challenge my developer and problem
+solving skills and allow me to continue to develop my knowledge and potential.
+
+WORK EXPERIENCE
+
+IT Consultancy Firm — Coventry
+JAVA DEVELOPER June 2008 - Present
+
+Working with other developers to build technical solutions & complete projects to
+budgetary and quality requirements. Also involved inrequirements gathering,
+demonstrating software prototypes, technical sales presentations, customer training.
+
+Duties:
+
+Development of Java interfaces & Configuration Management of the source cole.
+Working with users to establish requirements and determine priorities.
+Meeting client's face t face at their offices.
+
+Developing new applications, components & functionality to existing systems.
+Involved in accurately providing estimated development times.
+
+Developing new functionalities, both back-end and front-end.
+
+Analyzing data and conducting compatibility and quality assurance testing.
+Identifying & addressing conflicts with newer client-implemented software.
+
+© Investigating altemate configurations & implementing beter solutions.
+
+* Designing, developing, testing & configuring for a custom pre-authenticated
+scenario.
+
+KEY SKILLS AND COMPETENCIES
+
+« Strong core Java development experience.
+
+e Ability to develop creative solutions for complex problems.
+
+« Solid understanding of Tomeat, JBoss, GlassFish and OC4J servers.
+
+e Extensive knowledge of JDBC / ORM Tools and relational databases.
+
+e Excellent eam worker with strong coaching and mentoring skills.
+
+© Web development: HTML, CSS, Javascript; PHP, ASP.NET.
+
+e Database: Oracle (TOAD), SQL Server, MySQL, Microsoft Access.
+
+© Software development: Java: J2SE (including Swing), J2ME; Prolog, C, C#.

@@ -1,0 +1,120 @@
+Kathleen Tomlin
+Senior Solutions Architect
+
+» kathtomlin@gmail.com © www.kathtomlin.com 9% Melbourne
+EXPERIENCE
+
+Solutions Architect
+
+Herman LLC #3 2015-Onageing 9 Melbourne
+
+* Created Chef Training Regimen for current team and new hires, which
+saved $3,500/person.
+
+Migrated 3 apps to AWS, including the first app in GE Aviation's GovCloud.
+
+* Led WW Team of ALM solutions architects, contributing over $32M In HP
+Software SaaS business
+
+Solutions Architect
+Harvey f§ 2013-2015 9% Melbourne
+
+Harvey is a digital agency that creates web and mobile applications,
+Serves clients as strategists, creatives, and engineers.
+* Coordinated and jointly directed the 5 person development team
+
+* Lead architect on a $9M services transformation for a Government Owned
+Corporation
+
+Implemented 1SO9$001 quality assurance protocols
+
+* delivered testing and software decommissioning projects as part of a £10m
+digital transformation programme
+
+Architected E-Commerce 2.0 migration plan
+
+Business Transformation Consultant/Solutions
+Architect
+Crist f8 2009-2011 9 Melbourne
+
+The Crist is a business transformation consultancy, specialising in
+helping businesses get ahead of the curve and gain an extensive
+competitive advantage,
+
+Achievements:
+
+* Architected E-Commerce 2.0 migration plan
+
+* Achieved 300% to foT budget (2016)
+
+* Supported sales to achieve 132% and 162% quota in 2017 and 2018
+
+* Expanded Bi Audience by an additional 200+ users by offering new insights
+and features to the business
+
+CERTIFICATION
+
+TOGAF 9.1 Level 2 Certified
+The Open Group, License 105353
+
+ITIL v3 Foundation Certificate in IT Service Management
+Axelos Global Best Practice, License 984820/1
+
+AWS Certified Solutions Architect - Associate
+Amazon Web Services, License AWS-ASA-18771
+
+www.enhancy.cam
+
+EDUCATION
+
+Certificate of
+
+Management
+
+(miniMBA) GPA
+University of Texas at 4.0'/ 4.0
+Dallas, TX USA
+
+#4 2004 - 2009
+
+ACHIEVEMENTS
+
+EB 40+ World Class products shipped
+(Al, loT, Mobile and Cloud)
+
+Launched global products with revenue of
+$1B; more than 360 million subscribers and
+disruptive growth, Consumer and
+Enterprise products (Mobile first, Cloud
+first, Al enabled)
+
+Al is the new normal
+Sd
+
+Understand and evangelize Al across
+product lines. Conceived and architected
+conversational micro-app architecture;
+understand machine learning and Al well.
+
+a loT Product Design and
+Development
+
+Conceptualized and set business and
+technology direction for a massive foT
+Initiative at tringapps - OnQuik - the
+platform competes with AlrWatch,
+OpenStack and other |oT initiatives.
+
+SKILLS
+
+Technologies
+
+IP RAN EPC IMS MSS
+
+Cloud RFC S-KPis
+
+Big Data Analytics
+
+Openstack ECEE AWS
+
+Poweredby (CX? Enhancy

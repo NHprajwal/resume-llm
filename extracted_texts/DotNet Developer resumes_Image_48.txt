@@ -1,0 +1,95 @@
+Work Experience
+
+B OY K R CoReference Data Service and Maintenance (RDSM) is an internal
+
+project to provide services for Samsung customers. The project
+
+designs and develops service interfaces for retrieving reference
+NET DEVELOPER ' [
+VET DEVELOPE data from a common user interface for Agents, Call Center and
+Online Customers to get the Insurance quote from Insurance
+
+Company
+
+Profile Duties
+
+e Interact with Business users to collect the requirements and
+
+m an iT professional with 7+ years of experience as a 4
+f : ' developed a Prototype for the application
+
+Net Developer, with expertise i Software Analysis,
+f * Design and implement the Business Layer/assemblies and
+
+Design, Development, Testing, Maintenance anc
+dil : ns ey ° Abin hi strongly typed dataset to support the business logic for the GUI
+
+mplementation of various Client/Server applicatio e e
+User Controls process Using ASP. NE
+
+and N.-tier Architecture in Web Applicatio ee . =
+; , : iy ? * Develop the application using VS 2003, Net 1.0, C#, net, MS
+Access, Fujitsu COBOL, and SQL Server
+
+¢ Participate in various client meetings throughout the SDLC of
+
+Education
+
+the application
+e Work extensively on the Database Design, creating tables,
+
+BACHELOR OF SCIENCE IN COMPUTER
+
+writing stored procedures in SQL
+
+SCIENCE IN MATHEMATICS AND PSYCHOLOGY
+
+Roosevelt University Chicago, IL
+
+re _ 7 : Flint Bank is an American community bank based in Los Angeles,
+rechnical Skills
+
+California. It provides services like debit cards, credit cards
+personal loans, business loans, healthcare lending, etc. I've been a
+part of a developer team. Based on an in-depth risk assessment
+
+® Net Framework 4.5 »/3 ADO. NET
+
+* z the platform enables the implementation of complex strategies
+MYCS, Web Forms, LINQ, Entity Framework
+
+and workflows for credit origination and monitoring. A built-in
+© Web API, — strap :
+
+simulation environment allows users to analyze changes to the
+
+HTMLS, AngularJS .
+
+underlying risk models and sustainably optimize those models
+
+Duties
+
+* Designed and developed UI and website using JavaScript
+
+: libraries like AngularJS
+
+( ontact *® Response Ul and website layout is achieved using the Bootstrap
+
+framework, AngularJS helped in bootstrapping web application
+
+hello@amandaholt.c efficiently without registering callbacks which helped in code
+debugging
+
+© Effectively used JavaScript and AngularJS Library for traversing
+HTML5 document, event handling and AJAX interactions
+
+e Used custom error handling in Web API to pass proper error
+messages rather than generic error messages to understand the
+error
+
+* Performed Unit testing on the AngularJS U! for Performance
+
+issues and data integration.
+
+Information Technology (IT) Resume Examples here:
+https://resumesbot.com/information-technology-it-resume-examples/

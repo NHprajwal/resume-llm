@@ -1,0 +1,62 @@
+Robert Ss m ith Phone (123) 456 7899
+
+Email: (nfo@awikresume.com
+
+Jr. Java Developer Website : www, qwikresume, com
+
+LinkedIn: linkedin, com/qwikresume
+Address: 1737 Marshville Road, Alabama
+
+SUMMARY
+
+Jr. Java Developer with around 2 years of professional IT experience as a Programmer Analyst and
+Software Engineer with complete project lifecycle in Java/|2EE technologies. Experience in
+analysis, design, development, testing, integration, and deployment of application software in
+web-based environments and client/server architectures. Strong experience in building the
+Frameworks using Struts Model-View-Controller (MVC) and spring frameworks.
+
+SKILLS
+
+Java/|2EE Technologies
+WORK EXPERIENCE
+
+Jr. Java Developer
+SE2 - February 2017 - Present
+
+.
+
+Involving in gathering and analyzing functional requirements and converting to technical
+requirements,
+
+Using Eclipse as IDE tool to develop the application and jira for bug and issue tracking.
+Extensive experience in database programming on stored procedures, functions, and triggers
+using (SQL, PL/SQL) with Oracle,
+
+Installing the application on AWS EC2 instances and also configured the storage S53 buckets,
+Designing and developing the Ul screens with Bootstrap and Angular|S to provide interactive
+screens to display data,
+
+Involving in the implementation of MVC pattern using Angular |S, JSF and spring controller,
+Created groovy scripts using the CLI in spring boot for rapid application development,
+
+Junior Java Developer
+ABC Corp - 2015 - 2016
+
+.
+
+Understood and produced the technical specifications for new or existing systems,
+Collaborated with the tearm in designing, architecting, implementing, and testing phases,
+Developed JEE Web applications using available tools Samp; technologies,
+
+Researched technology solutions &amp; take charge of vetting and verifying solutions.
+Made contribution in defining functional and non-functional requirernents,
+
+Performed the tasks with minimal direction or supervision.
+
+Provided quidance to other developers and monitor progress to ensure a task is completed.
+
+EDUCATION
+
+Bachelors - (2012)
+
+© This Free Resume Template ts the copyright of QWikresume.com. Usage Guidelines

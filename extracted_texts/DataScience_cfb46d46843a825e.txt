@@ -1,0 +1,61 @@
+Data Scientist Assistant Phone: (123) 456 78 99
+
+Email: info@qwikresume.com
+
+Website: www.qwikresume.cont
+
+Address: 1737 Marshville Road,
+Alabama
+
+Objective
+
+Data scientist with a strong math background and experience in big dala, machine learning, and
+statistics. Passionate about explaining data scienee to non-technical business audiences.
+
+Machine Learning, Data Mining, Bayesian Inference and,
+
+Work Experience
+
+Data Scientist Assistant
+ABC Corporation - June 2009 - February 2012
+
+Work closely with various teams across the company to identify and solve business challenges
+ulllizing large structured, semi-structured, and unstructured data in a distributed processing
+environment.
+
+Analyze large datascts to provide strategic direction to the company,
+
+Perform quantitative analysis of product sales trends to recommend pricing decisions.
+Conduct cost and benefit analysis on new ideas.
+
+Scrutinize and track customer behavior to identify trends and unmet needs.
+
+Develop statistical models to foreeast inventory and procurement cycles.
+
+Assist in developing internal tools for data analysis.
+
+Data Scientist
+ABC Corporation - 2006 - 2009
+
+Objective Logistics is a Google and Atlas venture-funded startup company.
+
+IL provides a web-based labor management platform (namely MUSE} that helps lift sales and
+improve guest experiepec.
+
+tovolved in the entire development cycle, ineluding concept prototype, architecture desivn, code
+implementation, unit/integration testing and bug fixing.
+
+Analyzed large data sets, tneluding 10 million checks from over 30 restaurants and 10,000
+employees and studied MUSEs effects on store sales and individual employees.
+
+Delivered the mulli-eategory ranking system to evaluate staff performance (patent [1)}.
+
+Built the configurable reporting system of key performance indicators (KPI).
+Technologics/Tools C#, ASP.Net, HTML, CSS, JavaScript, jQuery, MVC, Entity Framework,
+SQL Server, Windows Azure, Visual Studio, TFS, GitHub, MatLab, R, Excel..
+
+Education
+
+MSc in Engineering - (University of Twente}
+
+© This Pree Resume Tempiete ts the copyright of Qwikresumecom. Usage Guidelines

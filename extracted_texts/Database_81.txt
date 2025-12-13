@@ -1,0 +1,77 @@
+ACCOMPLISHMENTS
+
+PROFESSIONAL
+SUMMARY
+
+SKILLS
+
+WORK HISTORY
+
+LANGUAGES
+
+EDUCATION
+
+)
+
+Jessica Claire
+
+@ Montgomery Street, San Francisco,CA 94105 2 (555) 432-1000 «4 resumesample@example.com
+
+«  T-Drive: Enhancing Driving Directions with Taxi Drivers' Intelligence’ Proposed Major Project.
+
+« Proposed methodology tests the smart driving direction system that leverages the intelligence of
+experienced drivers.
+
+« Where, the GPS- equipped taxis are employed as mobile sensors probing the traffic rhythm of a city
+and taxi drivers' intelligence in choosing driving directions in the physical world.
+
+« Tools Used: Java, MongoDB, MySQL, SQL server data tools (SSDT) Chat Server Academic Course
+Project.
+
+e« The 'Chat Server' system is developed using JAVA technology.
+
+« This provides complete secure platform to the user where all the information and chat messages can be
+stored and reused when required.
+
+e Scientific Calculator Academic Course Project.
+
+e Designed a scientific calculator using JAVA technology that can be used for all the science, mathematics
+and arithmetic based calculations.
+
+« Tools Used: Java, Javascript, CSS, Eclipse, Netbeans IDE, PHP Paper Presentation on "Appletalk".
+
+« Presented a seminar on 'AppleTalk', a network operating system that is designed to connect to the
+Apple computers for communication.
+
+e [t's components are built on Macintosh Operating Systems.
+
+Recent college graduate with network administration knowledge, including back-up, security management, e-
+mail systems and applications support.
+
+e MySQL, IBM BD2, SAP, MongoDB, SSDT « Good communication skills
+e Server Operating Systems: Windows, Linux/Unix ¢ Excellent problem solving abilities
+* Web technologies: HTML, CSS, XML, Jquery °
+
+« Core Java/C/C++
+
+DATABASE INTERN 09/2014 to 02/2015
+Stantec Inc.
+
+e Assigned to work with the development team and worked for the database management.
+e Been responsible in supporting the backend development team for the data management.
+e Consistently met deadlines and requirements for all work orders.
+
+DEC\ PROJECT TRAINEE 07/2015 to 2016
+Futurine | City
+
+e Assigned to work with the backend team on database management administration.
+e Responsible to work and maintain the database of the client and company.
+e Coordinated with systems partners to finalize designs and confirm requirements.
+
+English, Hindi, Telugu, and Urdu
+
+Bachelor of Science MAY 2016
+Osmania University, Hyderabad
+
+Mi ster of Science | Computer Science CURRENT
+University of Illinois, Springfield

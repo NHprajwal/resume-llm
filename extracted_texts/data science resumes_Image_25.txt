@@ -1,0 +1,69 @@
+Robert Smith CONTACT DETAILS
+
+kd Marshville Road,
+
+i ‘ abama
+Co-Founder & Data Scientist (123)-456-7899
+info@qwikresume,.com
+www.qwikresume.com
+PERSONAL STATEMENT :
+Over 12 years of experience in Data Managernent, Integration, Analysis, SKILLS
+Software R&D and big data projects, 6 years system analysis and SAS, R, Python, Matlab,
+presentation In Logistics, Telecom, Finance. SQL, Hadoop, Oracle,
+SQL Server, Java,
+WORK EXPERIENCE Machine Learning,
+Hypothesis Testing, Time
+Co-Founder & Data Scientist Series Analysis,
+XCG DesignCorp~- April 2016 - 2019 Marketing Analysis,
+Re sponsibifities: Visualization, Excel
+» Statistical Data Modeling, Database Data Modeling, Advanced R/SQL Modeling.
+Development.
+= Perform data-extraction, transformation and loading (ETL) development
+and prograrnming. LANGUAGES
+= Perforrn data-mining, data analysis and performance measurements on English (Native)
+business-information systems by using analytics tools and French (Professional)
+
+methodologies. Spanish (Professional)
+
+= Carrying out Marketing Analytics (Basel Il), Risk Management (Logistic
+
+regression) and Survival Analysis to evaluate custorner information. INTERESTS
+= Worked on importing data fromm various sources and perforrned
+
+transformations using Map Reduce, Hive to load data into HDFS. piled <i
+* Configured MR/Sqoop jobs to import data from RDBMS into HDFS. Coming’ ng
+= Created HBase tables to store variable data formats coming from Reading
+
+different portfolios.
+
+Data Scientist REFERENCES
+Cyberdata Technologies Inc - 2014 - 2016
+7” Aa . Reference - 1 (Company
+Responsibilities: Name)
+= Insupport of National Oceanic and Atmospheric Administration (NOAA) Reference - 2 (Cornpany
+activities, Dr. Name)
+
+= Kunkel supports the transition of the models frorn a research system to
+a fully operational systern operated by the National Centers for
+Environmental Prediction (NCEP) Central Operations (NCO) in IDP cloud
+computing system.
+
+= Establishing and enhancing operational monitoring working with the
+SDMs to Identify monitoring gaps documenting; operational review
+meetings, be farniliar with all aspects of NCO operations creating an
+archive of operational problerns and solutions.
+
+= Dr.
+
+« Kunkel participates in Senior staff meetings which track issues with all
+of NOAA applications, including issues with retrieving and storing real
+tirne data, supercornputer operation and networking issues.
+
+= Also, Dr
+
+= Kunkel, as lead for the Space Weather task at CyberData, provides
+guidance and oversight for Space Weather science activities to identify
+and investigate a new modeling capabilities, research developments,
+and observational advances as well as explore the Interaction with
+
+© This Eree Resume Template is the copyright of Qwikresume com. Usage Guidelines

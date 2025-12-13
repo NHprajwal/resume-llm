@@ -1,0 +1,107 @@
+pavelolresumeByaru,
+mob: +3 309644395 96
+
+Java Developer
+
+Summary
+_Thave been working in IT programming industry more tha
+
+Skills
+
+software application focused mostly on payroll, finance and accounting. Solved many problems related with
+software and accounting. Have strong programming background.
+
+Pavel Plakhotnik
+Skype: pavel plakhotrik
+
+n20 years. Took partin implementation different:
+
+English
+* Upper intermediate / fluent
+* Have experience (>14 years) contacting with
+foreign co-workers, reporting and phone calls in
+the international company
+
+Programming Languages/ Technologies
+* OOP/GoF Design Patterns/Task setting
+* Java/Maven/JSP/ISTL/Web/JPA/XML/JAXB
+* JavaScript/HTML
+* SQL/PLSQL
+* Linux Shell Scripting
+
+RDBMS
+* Orade
+* MySQL
+
+SQL development tools
+* Oracle SQL Developer! SQL*Plus
+* MySQL Workbench
+
+Methodologies
+
+* Domain Driven Design
+* SCRUM
+* Test Driven Development
+
+Frameworks
+* Spring MVC/Spring AOP/Spring JPA/ Spring Security
+* Hibernate/ JPA
+* jQuery/Ajax
+
+Application/Web Servers
+
+* Glassfish
+
+* Tomcat
+
+* jetty
+Development Tools
+
+* IntelliJ IDEA/Eclipse/ NetBeans
+* Git/vi
+
+Testing Tools
+
+* jUnit/TestNG
+* Mockito/PowerMock
+
+ERP Implementation
+
+* Project management/bugs fixing/
+consulting/legisiation support/
+development/reports development/testing
+
+* User support/administration/couching
+
+* Good understanding of accounting and finance
+{local and international) /Payroll/Fixed Assets/First
+event, VAT
+
+* Business process investigation and description.
+
+Experience
+
+General programming >20 years Work in international environment (reports, communications,
+Intellid IDEA <1 year application development, technical support} >14 years
+Java >2 years SQL >16 years
+JUnit 2 years Linux shell scripting l year
+
+Java Script 3 years
+
+Java Script OOP <l year
+
+jQuery 0.5 year
+
+Internet-University of Computer Science Certificates (INTUIT)
+|JavaCertificates Other
+|2011 | JavaandNetBeans IDE | 2022 | English
+2012 | The Use and Expansion of Eclipse | (2012 | IntroductiontoHTMLandCSS
+| 2012 | Javaprogramming
+| 2014 | Programming Distributed SystemsinJave | |
+
+| 2014 | Java: OOP and classes
+2014 | Java:Basies
+
+Page
+
+lof3 Pavel Plakhotnik, resume.

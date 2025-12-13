@@ -1,0 +1,58 @@
+ROBERT SMITH
+Full Stack Python Developer
+
+E-mail: info @qwikresume.com
+
+SULNIMIAR
+
+Pull stack developer over 3+ years of industial experience in Designing, Develapment, Deployment and
+maintenance of web apps based an and Django-Python.Professional Web Apps development experience
+using Django and Flask inclusive of expenence in UI! using Javascript, Jquery. Developed Views and
+Templates with Django view controller and template language to create an easily accessible website
+intertuces,
+
+SKILLS
+
+Python, Java, HTML/HTMLS, CSS/CSS3, XML, DOM, AJAX, JQuery, JSON And CSS Bootstrap.
+Pmmeworks Django, Flask
+
+WORK PAPERIENCT
+
+Full Stack Python Developer
+Maximus - January 2015 — Present
+
+Designed the front end of the upplication using Python, Java, Html, CSS, Ajax, JSan and JQuery.
+Analyzed system mquirements specifications and also in client interaction during requirements
+specifications.
+
+Used JavaSenpt and XML to update a portion of a webpage and node. JS for server-side inteniction.
+Part of the eum implementing rest APIS in Python using micro-framework like Flask with
+SQLALCHEMY in the backend for management of data center resources on which OpenStuck
+would be deployed,
+
+Worked on Python OpenStack APIS and eased Nempy for numerical analysis.
+
+Implemented rally OpenStack benchmarking too! on the entire Cloud environment.
+
+Understanding Python files in OpenStack environment and make necessary changes if needed,
+
+Python Developer
+ABC Corporation - January 2011 —January 2015
+
+Application was based on Service Oriented Architecture and used Python 2. 7,2. 5, DJango L 5,
+JSF2, Spning?2, Ajax, Html, CSS tor the tranterd.
+
+Used python pandas library to create datufrimes.
+
+Wrote python scripts using pandas dataframe to get data from two different dutuhases and applied
+joins.
+
+Designed email marketing campaigns ani also created respansive web forms that saved data into a
+dutabase usingpythan/ django fmmework.
+
+Developed views and templates with pythan and djangos view controller and templating language to
+create user-friendly website interface,
+
+Used ajax and jquery for transmitting json duta objects between frontend and controllers,
+
+© This Eres Resumes: Tomplats » the copyright of Qwakreime.com, [sags Guldsfines

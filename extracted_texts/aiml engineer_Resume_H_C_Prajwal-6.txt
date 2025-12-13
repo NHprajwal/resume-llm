@@ -1,0 +1,59 @@
+H C Prajwal
+Bengaluru, India
++91 9901393352 | hcprajwal9901@gmail.com | linkedin.com/in/h-c-prajwal-b063b024b
+https://github.com/hcprajwal9901
+Profile Summary
+Ambitious entry-level professional in Machine Learning, Data Science, and Full-Stack Development with practical experience in
+Python, TensorFlow, and React. Demonstrated capability in enhancing web applications through efficient API deployment and
+database solutions during a recent internship. Equipped with strong skills in data preprocessing, model training, and visualization to
+effectively contribute in ML Engineering, Data Science, or Web Development roles. Eager to drive impactful, data-driven outcomes
+in challenging technological environments.
+Technical Skills
+• Programming & Scripting: Python, SQL, JavaScript
+• Machine Learning / Al: TensorFlow, PyTorch, scikit-learn, KNN, CNN, Random Forest, XGBoost, CatBoost
+• Data Handling & Analytics: Pandas, NumPy, Big Data Analytics, Data Visualization, Matplotlib
+• Web Development: Flask, React, APIs, Elasticsearch, HTML, CSS
+• Databases: MySQL, PostgreSQL
+• Tools & Version Control: Docker, Git, GitHub, CI/CD basics
+Education
+MVJ College of Engineering, Bangalore Dec 2019 - Jun 2024
+B. Tech, Information Science & Engineering (GPA: 7.69 CGPA) bengaluru
+Senior Secondary, English Medium 2017 - 2019
+XII (GPA: 77.33%)
+English Medium 2017
+X (GPA: 7 CGPA)
+Internship Experience
+Datex Technologies Pvt Ltd | Web Development Intern Feb 2024 - Mar 2024
+• Enhanced user experience and increased site engagement by developing and maintaining responsive web applications using HTML,
+CSS, React, and Flask.
+• Created and integrated APIs with database solutions for client projects, significantly boosting data processing efficiency and
+enhancing client satisfaction.
+• Enhanced website performance and optimized query handling with MySQL, improving page load speed by 30%, leading to an
+18% increase in user engagement.
+Projects
+Deep Learning Approaches for Cyber Security in Network Intrusion Detection
+• Implemented ensemble classifiers (KNN, CNN, Random Forest, XGBoost, CatBoost) to detect anomalies in computer networks.
+• Designed and trained models for intrusion detection systems (IDS) achieving improved accuracy in identifying malicious traffic.
+• Applied data preprocessing, model tuning, and evaluation techniques to boost system performance.
+Face Detection System
+• Developed a face detection application using OpenCV and deep learning techniques (CNN).
+• Implemented real-time face recognition through webcam input with high accuracy.
+• Deployed model in a lightweight Flask API for easy integration.
+Virtual Mechanic - Al-based Vehicle Assistance
+• Built an Al-powered virtual mechanic that diagnoses common vehicle issues based on user inputs like text, sound, image, video
+analysis.
+• Integrated NLP models to interpret user queries and provide troubleshooting steps.
+• Designed a responsive interface to simulate real-time vehicle fault detection and solutions.
+Certifications
+• The Complete 2023 Web Development Bootcamp:UDEMY
+• specialized program in artificial intelligence and machine learning in drone technology:IIT-HYD TIHAN and Masai School
+(July2025- present)
+Languages
+• English (Fluent)
+• Kannada (Native)
+• Hindi (Proficient)
+• Telugu (Conversational)
+Extra-Curricular Activities
+• Go-karting
+• Travelling
+• Exploring of new technologies.

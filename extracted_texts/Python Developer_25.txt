@@ -1,0 +1,138 @@
+PROFESSIONAL
+SUMMARY
+
+SKILLS
+
+PROFESSIONAL
+EXPERIENCE
+
+EDUCATION
+
+ACCOMPLISHMENTS
+
+CERTIFICATIONS
+
+Jessica Claire
+
+9 100 Montgomery St. 10th Floor *2 (555) 432-1000 4 resumesample@example.com
+
+©. https://www linkedin.com/in/Jessica-p-37a194182/ Detailed Data Analyst Intern well-versed in various
+statistical methods such as descriptive and influential statistics. Independent and versatile individual skillful in
+identifying data issues and monitoring existing metrics. Offering 6 months of experience collecting data,
+establishing facts and drawing valid conclusions. Proficient in Python Programming paired with first-rate report
+writing abilities.
+
+* Highly analytical and data analyst with in-depth Code and Quality Standards
+
+knowledge of My SQL; Python — Statistical e Analytical Thinking
+Programming: e Source and Version Control: Git, GitHub
+e« Research Methodologies: Data Visualization and e Data Storage and Retrieval
+Modeling, Cleaning e Software Design
+e Furnish insights, soft skills of Communication e Data Science
+and Critical Thinking, Problem Solving, Team e Object-Oriented Programming (OOP)
+Player ¢ Data Extraction
+« Languages: Python e Technical Writing
+« Machine Learning, DS & Algorithm, Statistics —
+Mathematical
+
+e Tools: Scikit-Learn, Pandas, Open-CV, NumPy,
+Tableau, MS Excel
+
+e Database Applications: SQL Server, MySQL
+
+e Data Mining, Data Modeling, Data Warehousing.
+Data Visualization
+
+e Soft Skills: Critical Thinking, Problem Solving,
+Adaptability, Product Understanding, Teamwork.
+
+PYTHON DEVELOPER INTERN 02/2021 to 06/2021
+Innovatics Consulting LLP | City, STATE
+
+e Identified, analyzed and interpreted trends or patterns in complex data sets by finding correlations and
+visualizing with charts.
+
+e Utilized various professional statistical techniques and maintained large databases to collect and
+analyze data from partners and customers.
+
+e Cleaned up and backed up data to maintain data integrity during extraction, manipulation and
+processing.
+
+e Extracted, loaded and reconciled large amounts of data across system platforms and sources to
+validate user-centric scenarios.
+
+PYCHON DEVELOPER INTERN 01/2021 to 05/2021
+Envelope Technologies Pvt. Ltd | City, STATE
+
+e Worked on one of their platforms named XPORIUM
+
+e That Project was aimed at hosting virtual exhibitions on their 3DPlatform
+
+e As part of the Project, | worked on developing several modules using Python as a Backend
+Programming Language.
+
+e Partnered with company mentor to learn best practices in software design.
+
+e Handled scripting tasks for debugging and automation using Python.
+
+« Coordinated build integrations tasks with multiple teams.
+
+JROPY THON AND MACHINE LEARNING DEVELOPER 07/2020 to 10/2020
+Maxgen Technologies Pvt. Ltd | City, STATE
+
+e Transformed raw data to conform to assumptions of machine learning algorithm.
+
+e Developed advanced graphic visualization concepts to map and simplify analysis of heavily-numeric
+data and reports.
+
+e Designed, implemented and evaluated new models and rapid software prototypes to solve problems in
+machine learning and systems engineering.
+
+e Collaborated with multi-disciplinary product development teams to identify performance improvement
+opportunities and integrate trained models.
+
+Master of Science | Computer Science 05/2023
+The University of Texas At Arlington, Arlington, TX
+GPA: 3.1
+e« Relevant Coursework: Artificial Intelligence, Data Mining. Machine Learning, Data Analysis &
+Modeling Techniques, Database System, Web Data Management, Design & Analysis Algorithms, Adv.
+Topics in Database System
+
+Ba helor of Engineering | Computer Engineering 07/2020
+LDRP Institute of Technology And Research, Gujarat, India
+GPA: 3.3
+
+e Relevant Coursework: Data Structure, Python Programming, Java, C++, C, Operating System, Big
+Data Analytics, Software Engineering, Probability and Numerical Method, Linear Algebra and Vector
+Calculus, Theory of Computation
+
+e Thesis: [A Comprehensive Study on Critical Security Issues and Challenges of the loT World]
+[Springer] [May 6, 2020]
+
+Optimizing Agricultural Production https://github.com/ClaireJessica/Optimizing-Agricultural-Production
+
+« A Real Time Face Detection and recognition system https://github.com/ClaireJessica/Face-Detection-
+Recognition-System
+
+e A Diabetes Prediction Project https://github.com/ClaireJessica/A-Diabetes-Prediction-System
+
+e Stock Prediction System https://github.com/ClaireJessica/Stock-Prediction-System
+
+« RESEARCH PAPER
+
+e Title: A Comprehensive Study on Critical Security Issues and Challenges of theloT World May 2020
+
+e Published in Journal of Data, Information and Management — Springer on 6th
+
+« Data Visualization for Data Analysis & Analytics | Linkedin May 2022
+e Python for Data Science and Al | IBM | Coursera Feb 2021
+
+« SQL for Data Science | UC DAVIS | Coursera Jan 2021
+
+« Machine Learning | Stanford University | Coursera Dec 2020
+
+« Problem Solving (Basic) | Hacker Rank Nov 2020
+
+« Internet of Things | Udemy May 2020
+
+« Python | Udemy Mar 2019

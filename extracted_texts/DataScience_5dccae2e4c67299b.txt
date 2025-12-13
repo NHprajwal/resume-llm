@@ -1,0 +1,52 @@
+ROBERT SMITH
+Volunteer Data Scientist
+
+E-mail: info @qwikresume.com
+
+SL NIMIARY
+
+Have hands on experience in writing MapReduce jobs using Java, Managing Single node and Malti node
+Cluster Configurations. Writing Pig Latin scripts and pig commands, Configuring Zoo Keeper, Cassandra &
+Flume to the existing hadoop cluster, Experience in building predictive models using machine leaming
+techni ques. Performed importing and exporting data into HDPS and Hive using Sqoop, Hive queries.
+
+SKILLS
+
+Python, Matlab, Git, Duta Analysis, Data Mining, Machine Leaming, C++, Latex, Java, Scala, HTML,
+Hadoop, SQL.
+
+WORK EATHARUENGI
+
+Volunteer Data Scientist
+ABC Corponition - January 2015 — May 2015
+
+» Analyzed MTA subway data and New York City census data to determine traffic flows and
+demogniphic patterns of New York City.
+Used Beautiful Soup to scrape publicly available movie data to better understand the relationship
+between box office perfonnance and distribution company.
+Using sci-kit leam, ran linear regression and built a model of box office performance.
+Based on model, identified two distribution companies whose revenue outperformed peers.
+Used matplotlib and reveal. js to communicate results of research.
+Project McNulty Setup SQL datuhase on cloud server, storing clients data for query analysis,
+Used Pythons scikit-learn library to understand details of client telemarketing campaign.
+
+Data Scientist
+ABC Corponition - 2010-2015
+
+Created multiple projects including |,
+
+PLANT LEAP SPECIES CLASSIFICATION Built artificial neural networks to conectly classify
+plant leaf species using binary images and a probabilistic frimewark of margin, shape, and texture
+features,
+
+Technologies used Python, Numpy, Pandas, Scikit-Learn, Scipy, Keras 2.
+
+CUSTOMER POTENTIAL PREDICTION Created a clussification model that identities customers
+with the highest potential business value based on their characteristics and activities,
+Technologies used Python, Numpy, Pandas, Scikit-Learn, XGboost 3.
+
+MOBILE USER DEMOGRAPHICS CLASSIFICATION Built a model to predict users
+demogmphic characteristics based on their upp usage, geolocation, and mobile device properties.
+Technologies used Python, Numpy, Pandas, Scikit-Learn, Scipy, Keras.
+
+© This Eres Resumes: Tomplats » the copyright of Qwakreime.com, [sags Guldsfines

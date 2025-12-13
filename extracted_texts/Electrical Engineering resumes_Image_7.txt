@@ -1,0 +1,69 @@
+Project Associate
+
+Department of Electrical Engineering
+DEEPAK PAL Indian Institute ef Technology, Kan pur
+
+pdeepak@iitkacin, deep.imhere@gmailcom
+
+http://www jitk.ac.in/mwn/deepak/index.htm
+
++91- 9415770233
+
+CAREER VISION
+To work ina challenging em vironment demanding all my skills and efforts to explore and adapt myself in different fidds and
+realize my potential where | get the opportunity for continuous karning
+
+RELEVENT EXPERIENCE
+Department of Electrical Engineering, Indian Institute of Technology, Kanpur, India Dec, 2010 - Present
+Project Associate Prof. Aditya K. Jagannathan, Multimedia Wireless Networks Lah, IT Kanpur
+
+e «Developed robust MPEG encoder in MATLAB and C that performs streaming of live videos over wirdess network
+
+© Set upa wireless link, supporting radio dat rate up to 250 kbps for transmission of images and small sized video using
+TELOS B motes on TINY OS platform using JAVA
+
+« Developed H.261 video encoder and decoder on MATLAB Platform
+
+¢ =©Performed study of SVM (Joint Scalable Video Model) for h.264 compliant bitstream generation and transmission
+
+© Currently developing H264/SVC codec to achieve video streaming of live events on UT Kanpur campus wirdess
+
+infrastructure
+Department of Electrical Engineering, Indian Institute of Technology, Kanpur, India Aug, 2010- Nov 2010
+Project Fellow Prof. Aditya K Jagannatham, Multimedia Wireless Networks Lab, [IT Kanpur
+
+e = ©Developed GUI for transmission and reception of digital images over AWGN and RAYLEIGH channel with notse filtering
+mechanism at the receiver on MATLAB Platform
+
+¢ Performed extensive work in video motion estimation, morphological image processing, aliasing, transform coding. 2D
+sampling filtering and inter polation
+
+© Developed |P RG encoder and decoder on MATLAB platform
+
+TECHNICAL SKILLS
+s
+
+e MATLAB (EXPERT, 3 Years) | c (ADVANCED, 25 Years)
+
+© HTML.CSS, JAVASCRIPT (MEDIUM, 6 months) | Verilog (FAMILIAR, 2 Months)
+Tools and Libraries
+
+«© =©Visual Studio ] Edipse | Dreanweaver | Xilinx IDE | Cygwin
+
+«© GNUScientificLibeary | Open CV | jRTP
+Operating Systems
+
+© Windows- 7, Vista XP | Linux - Ubunta
+EDUCATIONAL QUALIFICATIONS
+Bachelor of Technology in Electronics and Communication Engineering (UPTU, Percentage - 70.02 %)
+Galgotias Cofege of Engineering and Technology Aug 2006 -Jan 2010
+Intermediate (UP Board, Perce ntage - 79.4%)
+Lucknow Public inter College May 2004
+High School (UP Board, Percentage - 65.8 %)
+St Peters High School Jun 2002
+PROJECTS
+MULTIMEDIA TRANSMISSION OVER WIRELESS Nov 2010 - Present
+Details
+
+¢ Objective - Implement a video coding standard to enable transmission and unpacking at multiple spatio-temporal
+resolutions with variegated bitrates so as to make video streaming readily suited for wireless networks

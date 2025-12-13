@@ -1,0 +1,67 @@
+Robert Smith CONTACT. DETAILS
+
+1737 Marshville Road,
+Alabarna
+
+. al
+Junior SQL Server Developer (123)-456-7899
+info@qwikresume.com
+www.qwikresume.cor
+PERSONAL STATEMENT
+junior SQL Server Developer with over 3 plus years of IT Experience in SKILLS
+Database Design, Development and business intelligence of Microsoft SQL SOL Server/Oracle Tools
+Server in Development, Test and Production Environments. Expertise in Servi
+writing T-SQL Queries using joins, Sub queries and Cursors in MS SQL ae neil patent
+
+Server Strong hands-on experience with MS SOL Server with Business
+
+Intelligence in SQL Server Reporting Services, SQL Server Analysis Services Business Intelligence
+
+of and SQL Server Integration Services. Development studio,
+SOL Developer, SOL
+WORK EXPERIENCE Riecisinant ele
+Junior SQL Server Developer (SSIS), SQL Server
+Citibank - March 2016 - Present Analysis Services (SSAS),
+Responsibilities: ssagyaiba® anata
+» Working on various possible performance-related issues including Transformation earuities
+database tuning with the sole intention of achieving faster response (DTS), Business Objects
+times and better throughput. XI / XI-R2 Visio, MS SOL
+* Involving in the analysis of report design requirements and actively Server, MS Access,
+participating and interacting with team lead, technical manager and Oracle, T-SQL
+lead business analyst to understand the business requirements.
+= Migrated DTS packages frorn SOL Server 2000 to SOL server 2012 as
+S5IS packages, LANGUAGES
+* Experience in working on cube structure optimization for MDX query English (Native)
+performance in analysis services 2008, French (Professional)
+* Excellent report creation skills using Microsoft SQL server 2012/2008r2 Spanish (Professional)
+reporting services (SSRS) with proficiency in using report designer as
+well as report builder,
+* Created SQL server reports based on the requirements using SSRS INTERESTS
+2008, Climbing
+= Worked on the reports module of the project as a developer on ms SQL oan
+server 2012 (using SSRS, t-SOQL, scripts, stored procedures, and views), Reading
+
+SQL Server Developer
+ABC Corp- 2015 - 2016 REFERENCES
+
+Responsibilities:
+* Participated in all phases of SDLC, from system analysis and design thru oo (Company
+development and test to deployment and support Reference - 2 (Company
+» Participated in designing and developing complex systems by writing Name)
+
+Design Specifications description of the frarnework, interfaces, services,
+reports, business components, and interaction between the components
+
+* Created complex reports which involve a number of groupings and
+multi-value parameters.
+
+= Developed reports like claim statements, fee bills transactions and
+some end request user reports on a periodic basis.
+
+» Sound experience and understanding of SSAS, OLAP and OLTP cube,
+data mining, and architecture.
+
+= Created multiple reports with drop down menu option having complex
+groupings within the report,
+
+® This Eree Resume Template Is the copyright of Qwikresume.com. Usage Guidelines

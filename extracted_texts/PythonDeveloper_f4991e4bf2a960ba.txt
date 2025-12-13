@@ -1,0 +1,80 @@
+PYTHON DJANGO DEVELOPER RESUME
+Mchael Watkins
+
+2587 Brown Bear Drive
+Harmet, CA 92543
+(222)8544879
+
+Email : jernail]
+
+Career Goal:
+
+To be able to work in your organization as a Python Django Devdoper where | can fully utlize my skils in HTML,
+Java Script, OSS, Python, Dango and Java technokgles.
+
+Technical Skills:
+
+Sound knowledge of ObjectOriented software development
+
+e Python, Ruby
+@ Cre, PHP, Java
+
+Adept with web development technologies:
+
+e Semantic markup
+e Standards-compliant HT ML
+«CSS2+CSS3
+
+Profident in using scripting and programming languages:
+
+e Java Script, JQuery
+* XML, Ajax, CSS, HTML
+
+Inmense potental to deploy Amazon web services:
+
+@ EC2 cloud computing, ELB
+« SQ storage
+
+Highly talented in managing RDBMS and NoSOQL databases:
+
+@ MySQL MongoDB
+e CassandraAP! centic systems
+* Cloud Computing, Windows Server
+
+Cogniively skilled to utlize research and analytics engine:
+
+« EssicSearch
+e Haystack search application
+
+Thorough knowedge of web development frameworks :
+
+@ Django, |Boss
+e Mcrosoft .Net
+
+Sound capabilties to:
+
+* Code SOL outide ORM
+@ Utilizing source contol and defect racking bob
+
+evant rience :
+
+Python Django Developer
+Saven Technologies
+January 2012 — Present
+Hemet, CA
+
+¢ Developed, tested and debugged software tools utiized by clents and intemal customers.
+
+« Coded test programs and evaluated exis ing engineering processes.
+
+@ Designed and configured database and back end applications and programs.
+
+¢ Performed research to explore and identify new technological platforms.
+
+® Collaborated with internal tearns to convert end user feedback into mearingtl and improved solutions .
+« Resolved ongoing problems and accurately documented progress of Python project.
+
+Python Django Developer
+Dealerrack Technologies
+November 2010 - January 2012
+Lake Success, NY

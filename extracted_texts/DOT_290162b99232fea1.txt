@@ -1,0 +1,83 @@
+EXPERIENCE
+O1/2016  persent
+
+08/2009
+opfaeng,
+
+11/2006
+11/2008
+
+SENIOR .NET DEVELOPER / TEAM LEAD Dallas, TX
+
+Manage team woekfiow and assignments
+
+Continually improve development, operational processes and procedures:
+
+Work ins fast paced agile cavironment Geveloping featarcs phiimed as part of a eae
+
+Develop dour, concise and well-tested code as pert of u wider team theough pair programming and code eeviiws
+Catlahorate closely with ether Development, Quality Ascemance and Dperetions tens
+
+Familiarity with agtie based devdogencnt processes
+
+Reseaerh and evaluate technalogics that create walue for the company
+
+SENIOR .NET DEVELOPER Houston, TX
+
+Anabyzing, designing, developing, implementing and maietaining application code to a variety of contests including
+existing applications
+
+Desien, development, std malntenasee of WAVE componceds Specifications, architecture, wiki pages end other
+hin docuimiats Criss training end seentoring Providing accueste eatimats and meting your sckeduled
+eomuinitients Primarily acts as a tiultiplier by Gelding systeis, eethoring tools, or iitrodactag policies or patterns
+that reve the bewel of prodwetivity of the ctitire cegenization
+
+Maintileieg, tutitig amd repairing applications, providing user sappect
+
+Working om weiting T-S()1. scripts to congue the UT of the application and developing new comfigueutions sing
+Metudate-Driven development approach
+
+Working Rneniodge of data mapping, extraction, dita migration, decision support systems, date mierts/ data
+warehousing and relational and dimensional mexteling
+
+Tega codes, tests debugs, and Gocaments the developed solutioes
+
+Apply development best practices as testdirives development (TDD) techniques ead iategration tests for alll
+developed sattwarr
+
+SENIOR NET DEVELOPER Detroit, MI
+
+Develop unit test pins, manages and texts data, incieding mappieg date, coordinating test files, and facilitating data
+transfer with client
+
+Responsive foe venrking «in animal releases ate peuviding operational suppart
+
+Moaitors operating efficiemcy of existing application systems
+
+Participate in all Scram activiths wach as creating ever stories, spriut placing, aed speiet reteuspartives
+Deviogiig unit fests aed ooontinating with our QA staff to achieve the beat herd af error prevention and error
+detertian possdiabe
+
+Identify and resale: penject eecs, including ieee tracking ad macabition
+
+Maintiia and devedop new fatures in cxisting applicatioes
+
+TEXAS A&M UNIVERSITY Bachelor's Degree in Computer Science
+
+Stewig Knowhodge of dade strectuncs, aigorithes, end designing for performance, sealability, anil avaibalvility
+
+A believer in code quality, testability, and reliability
+
+Koilatge af VR6 with capiusis in conversion te the NET platiurm bighly desirable
+
+Proficient in Cewith u good Knewbodge of ibs conystem
+
+Eeedicnt oral and written communication skills, itcluding the ability to coplais TT eineopts to nee-tT professiotials
+Strong knowledge of HTML, CSS, JavaSeripe, JQuery, JQuery 0, aad other applicaide JavaScript frameworks
+Pratnutes coatinuans process inprovement pecially in code quality, testability & rliebédity
+
+Ability to understand and code against « schema with highly eoemaliaed tables
+
+Ce developer with stung NET knowledge (ur Bighly skilled in other object oxientist langmages)
+
+Good Knowloda: of applicate date peivacy practices

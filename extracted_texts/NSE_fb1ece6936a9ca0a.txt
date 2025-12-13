@@ -1,0 +1,62 @@
+Phone: (123) 456 78 99
+
+Website: www.qwikresume.cont
+
+Address: 1737 Marshville Road,
+Alabama
+
+Objective
+
+Around 8 years of experience in Networking and Security, including hands-on experience in
+providing network support, installation and analysis for a broad range of LAN / WAN/MAN
+communication systems.
+
+Skills
+
+Checkpoint Certified Security Administrator, Firewall-! 4.1 . Troubleshooting with the Sniffer Pro
+Network Analyzer, Troubleshooting and Management with Sniffer Distributed Internetworking with
+TCP/IP ,Cisco Systems Catalyst 6500/2500 Series Switch Configuration, UNEX Level |.
+
+Work Experience
+Network Security Engineer III
+
+ABC Corporation - March 2013 - August 2014
+
+* Worked on 2600, 3500, 7613 Cisco Routers and 4500 and 6500 series Cisco Switches.
+
+* Played responsible role for implementing, enginecring, &amp; level 2 support of existing
+network technologies / services &amp; integration of new network technologies / services.
+
+* Configured and managed Ciseo access layer routers and switches Provided support for
+troubleshooting and resolving customer reported issucs Worked on F5 BIG-IP LTM 8900,
+configured profiles, provided and cnsured high availability.
+
+* Worked on F5 and CSM load balancers deploying many load balancing techniques with
+multiple components for efficient performanec.
+
+* Configured and managed OSPF redistribution and authentication with type 3 LSA filtering and
+Lo prevent LSA flooding and also configured OSPF over frame relay networks.
+
+* Designing, configuring, implementing and troubleshooting (LAN) VLANs, VTP, Spanning Tree
+(STP}, Trunking (dotlq and ISL} and Ether channel.
+
+* Experience with convert Cheekpoint VPN rules over to the Ciseo ASA solution:
+
+NETWORK SECURITY ENGINEER
+ABC Corporation - 2008 - 2013
+* Participated in requirement definitions and Formal Technical Review {FTR) of development
+documents for all new network security features and services for the Wide Area 2-way radio
+system networks.
+* Maintained Wide Area 2-way radio systems used for testing of antivirus updates, Operating
+System {OS} patching, and security scanning.
+* Monitored vulnerabilities for Windows operating systems.
+* Oversaw new paiching / security products on 5 Wide Area 2-way radio system releases on
+weekly, monthly, and quarterly basis, producing $11M annual security services business.
+* Developed test cases, ensuring patches for new vulnerabilities do not adversely affect radio
+systems performance.
+* Acted as escalation contact for customer security issues, driving security defect
+characterization and coordination with impacted teams to resolution.
+* Provided assistanec to integration engineering with Installation of security equipment in
+customer staging area and network security related items during radio system upgrades, .
+
+© This Free Resume Template & the copyright of Quikresumecam, Usage Guidelines

@@ -1,0 +1,56 @@
+An experienced software developer with practical knowledge of object-oriented software
+design, problem solving, implementation and maintenance. | perform effectively both
+individually and in teams and have a proven track record in delivering good quality robust
+software to deadline.
+
+EDUCATION & QUALIFICATIONS
+BSc (Hons). 1* class — Computer Science & Mathematics. Wadham College, Oxford.
+
+‘A’ Levels - Mathematics (A), Physics (B), Chemistry (B), English (C)
+GCSEs - in 10 subjects. Magdalen College School, Oxford
+
+KEY SKILLS / SYSTEMS
+
+Java 6 years experience of Java design, implementation, documentation and
+maintenance on Windows and Linux, including JDBC, SQL, Swing, RMI, JUnit,
+Design Patterns / UML, servlets, JSP.
+
+C++/Unix 5 years experience of C++ design and implementation in a Unix (HP-UX)
+environment, including interfacing to and writing C code. Also 2 years of C
+programming in a Unix environment.
+
+Strengths Skilled and enthusiastic debugger of legacy code.
+Experienced in all stages of the software development life cycle, from
+requirements gathering to testing and maintenance.
+Equally capable of working in teams or on own initiative.
+
+CAREER HISTORY:
+FENDER SOFTWARE GROUP INC Oct 01 to date
+
+Java Application Developer
+
+« Part of a 2 - 4 person team implementing a new Java system to replace existing legacy
+systems.
+
+« Managed persistent data using JDBC interface to SQL Server 2000, as well as the Java
+serialisation scheme.
+
+« Wrote extensive user interface using Java's Swing classes.
+
+« Responsibility for all areas of software development life cycle including requirement use cases,
+analysis, design, coding, testing, docs and maintenance.
+
+« Designed large areas of the system using UML class and sequence diagrams.
+
+« Fully tested the system using JUnit to specify functional and unit test cases.
+
+Java Application Developer
+
+« Part of a 15 person team developing a new product for catalogue sales over the web, using
+Java serviets, JSP dynamic web pages, and MySQL for data storage-
+
+« Responsible for leading design and development of modules of the product, including
+everything from data storage to serviets for the user interface.
+
+« Particular emphasis paid to design work for the product, using UM L (Rational Rose) for object-
+oriented class and sequence diagrams.

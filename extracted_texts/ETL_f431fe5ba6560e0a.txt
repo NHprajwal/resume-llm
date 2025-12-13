@@ -1,0 +1,67 @@
+Robe rt Ss m ith Phone (123) 456 78 99
+
+Email: Infom@awikresume, com
+
+Website > www, qwikre sume, corm
+
+ETL Developer ll LinkedIn: linkedin.com/quwikresurne
+Address; 1737 Marshwille Road, Alabama
+
+SUMMARY
+
+Overall 6+ years of IT Experience in the areas of Data warehousing, Business intelligence, and
+SharePoint, covering different phases of the project lifecycle frorn design through Implernentation
+and end-user support, that includes; Extensive experience with Informatica Powercenter 9.5 (ETL
+Tool) for Data Extraction, Transformation and Loading. Reporting experience with tools like OBIEE
+11g, Tableau. Analyzed Source Systerns, Business Requirements, Identify and Docurnent Business
+Rules for Decision Support Systerns.
+
+SKILLS
+
+Tableau,
+WORK EXPERIENCE
+
+ETL Developer Il
+ABC Corporation - July 2011 - April 2012
+
+* Tools Inforrnatica Power Center 8:6.x, Sql developer Responsibilities Developed ETL programs
+using Informatica to implernent the business requirements,
+
+» Communicated with business customers to discuss the issues and requirements,
+
+* Production Support has been done to resolve the ongoing issues and troubleshoot the
+problems,
+
+* Performance tuning was done at the functional level and map level.
+
+» Used relational SOL wherever possible to minimize the data transfer over the network.
+
++ Used various transformations like Filter, Expression, Sequence Generator, Update Strategy,
+Joiner, Router and Aggregator to create robust mappings inthe Informatica Power Center
+Designer,
+
+* Involved In enhancements and maintenance activities of the data warehouse including tuning,
+modifying of stored procedures for code enhancements,
+
+ETL Developer
+ABC Corporation - 2008- 2011
+
+» Worked on Ascential Datastage (Manager, Designer and director) for developing various jabs,
+» Used the ETL Data stage Designer to develop processes for extracting, cleansing, transforms,
+integrating and loading data into data warehouse database,
+
+Worked on different stages for creating the jobs based upon business application.
+
+Developed shell scripts and updated the lod for the backups.
+
+Involved in Unit Testing with the jobs and date loaded in the Target database.
+
+Environment Oracle 7i/8|, Oracle Enterprise manager, Windows NT 4.0.
+
+DataStage 5.1,
+
+*_**# @ ©
+
+EDUCATION
+
+OC Ths Free Resume Template is the copyright of Qwikresurne com. Usage Guide lings
