@@ -1,0 +1,56 @@
+ROBERT SMITH
+Puppet Developer/DevOps Engineer
+
+E-mail: info @qwikresume.com Phome: (0123)456-789
+
+SL NIMARY
+
+Around 8+ years of I'T industry experience as u DevOps Engineer, campromising of DevOps, Build
+Engineering and Release Management process, including end-to-end code configumtion, building binaries &
+deployments of artifacts and entin: life eyele model in Enterprise Applications. Good understanding of
+SDLC with expertise on software Build/Release, Configumtion management.
+
+SRILLS
+
+Server Apache, Toneat, MS-IS Release/Project Management Microsoft Release Management Server issue
+Tracking/Monitoring Bugzilla, JIRA, Service Now, HPSM, Cloud Watch And Nagios Configuration
+Management Tools Chet, Puppet, Docker, Openstack Database My SQL Version Control System
+Subversion (SVN), GIT, GITHUB, BITBUCKET, CVS, SVN, Mercurial, RTC Cl Tools Jenkins,
+
+Bamboo Maven, Ant Operating System Windows Variants, Linmx, and UNIX,
+
+WORK EXPERIENCH
+
+Puppet Developer/DevOps Engineer
+ABC Corponition - January 2014 — Present
+
+» Working closely with the development und opemtions organizations to implement the necessary
+tools and process to suppor the wutomution of builds, deployments, testing and infrastructure
+(infrastructure as code) using chef.
+
+Developing Chef recipes to confi gure, deploy and maintain software components of the existing
+Moving their local server infrastructure into AWS, including their test and development
+environments.
+
+Designing the application layer of the product with ec2, rds, and elustic cache, and configuring
+AWS cloud wateh for application manitaring.
+
+Establishing both automated build processes and release management processes for their LMS
+platform using Jenkins, unt, maven, and chet,
+
+Experience with DevOps tools Jenkins, maven, and nexus (ar equivalent repository) with experience
+in Jenkins orchestration, configuration management,
+
+Setting up Jenkins continuous integration builds for all releases an windows and Linux.
+
+DevOps Support Engineer
+ABC Corporation - Oetober 201 f — December 2013
+
+* Responsibilities Working for DevOps Platform team responsible for specialization wreas related to
+the chef for cloud automation.
+
+* Application of autamatian tools like chef, puppet, DevOps based on the requirements.
+
+® Deployment and implementation of the chef for infmstructure as cexde initiative,
+
+© This Eres Resumes: Tomplats » the copyright of Qwikreimecom, [sags Guldsfines

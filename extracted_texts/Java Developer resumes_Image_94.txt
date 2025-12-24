@@ -1,0 +1,52 @@
+ROBERT SMITH
+Junior Java Developer/Systems Engineer
+
+E-mail: info @qwikresume.com Phome: (0123)456-789
+
+SL NIMARY
+
+Junior Jaya Developer/Systems Engineer with around 44 years of experience in Systems Analysis, Design,
+Development and Implementation of Web and Client/Server and Enterpnse Application develapment using
+J2BE Framework. Extensively worked on n-tier architecture: systems with application system development
+using Core Java, JDBC, Servlets, JSP, EJB, JMS, Web services, Restful Web Services, Spring, Spring boat,
+Struts MVC, JSP. Hibernate.
+
+J2EE Technologies Serviets, JSP, Struts, EJB, JDBC. INDL JMS, RML JAXB, JAX-WS. CXP. Framework
+Spring, Struts, Hibernate 3.0/4.x, Junit
+
+WORK FAPERIENG)
+
+Junior Java De veloper/Systems Engineer
+ABC Corpomtion - 2015 — Present
+
+involved in requirements gathering, anulysis and design and documentation as the applicatian was
+started from serutch.
+
+Developed various j2ee components like servlets, JSP,JSTL, Ajax, SAX, XSLT, JAXP, JINDL
+LDAP, JMS, and MQ series by using md,
+
+Used Struts/MVC framework to enable the intenictions between JSP/View layer and implemented
+different design patterns with J2EE,
+
+implemented business layer using core java, spring beans using dependency injection, spring
+annetations, spring web-flow components.
+
+Implemented agent-server messaging dialog using camel and JMS (active MQ implementation).
+Set up a Jenkins server and build jobs to provide automuted builds based on polling the git source
+cont! system.
+
+Developed custom solutions that act upon Jenkins information in real-time.
+
+Java Developer (Contractor)
+ABC Corponition - Mareh 2010 — April 2011
+
+Involved in handling coding, testing and integration and quality assurance activities.
+Performed event<dniven usynchronous io using Node.Js, developed screens using JSP, struts,
+Performed unit testing using J Unit test cases to test the behavior of the coded clusses,
+Provided development support for system integration testing and user acceptance testing.
+Lead the team toward emfting new user experiences that exceed customer expectatians
+Suggested areas for improvement in intemal processes along with possible solutions,
+
+‘This is Dummy Description data, Replace with job description relevant to your cunentrole.
+
+© This Eres Resumes: Tomplats » the copyright of Qwikreimecom, [sags Guldsfines

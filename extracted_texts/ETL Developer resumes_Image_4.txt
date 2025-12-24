@@ -1,0 +1,64 @@
+Robert Smith CONTACT. DETAILS
+
+1737 Marshville Road,
+
+° Alabarna
+Senior ETL Developer/Lead (123)-456-7899
+info@qwikresume.com
+PERSONAL STATEMENT
+Senior ETL Developer/Lead with 12 years of experience in the Healthcare SKILLS
+domain, Having IT experience in Design, Development, and Implementation ETL Tools IBM DataStage
+and Testing of Database/Data Warehousing applications using Extraction, 11.3, 8.7, 8.5, Talend
+Transformation, Loading and Data Analysis. Extensive hands-on experience Integration ETL Tool 5
+in using the Data warehousing tool IBM Web Sphere Datastage 7.5/ 7.5.1 Gaiies 6 accel
+Infosphere Datastage 11.3, 8,7, Talend ETL and also involved in Data aMp;.6; ASCE!
+Migration projects. DataStage 7.5
+Databases Oracle MS
+Access, HBase, Fig ,Hive,
+WORK EXPERIENCE CASSANDRA, |
+Senior ETL Developer/Lead MONGO_DS Langlages
+United Health Care- September 2010 - Present UNIX SHELL, HSQL, CQL
+Responsibilities: cers eae ia
+= Working on &quot;UHG Talend Migration Project&quot; as an ETL AT&amp;T Product-
+specialist to execute CSP platform which includes Datastage 8.7 ETL to Cymbel Query
+Talend studio ETL with Hadoop, Language, JAVA, XML
+* Responsible for building scalable distributed data solutions using Operating Systems
+Hadoop. Windows XP/NT/2000,
+* Worked for hands-on Datastage 8.7 ETL migration to Talend studio ETL UNIX, Linux, Scripting
+process. Unix Shell Scripting. TWS
+* Designing, developing, validating and deploying the Talend ETL Composer Files Other
+processes for the DWH tear using Hadoop (pig, hive) on Hadoop. Tools MS Office, SQLPlus,
+
+TOAD, SOL Developer,
+
+» Collaborate with the data warehouse team to design and develop Jeradata, Management
+
+required ETL processes, performance tune ETL programs/scripts,
+
+* Handled importing of data from various data sources, performed Tiseuciene
+transformation like ETL (extract transform and load) and ELT (extract Scheduler, Cron Tab,
+load and transform) into HDFS. Zera, |BM Tivoli TWS
+
+» Extracted the data from Oracle 12c, transformed and load in HDFS
+using Talend studio ETL tool.
+
+LANGUAGES
+ETL Developer English (Native)
+ABC Corp- 2006 - 2010 French (Professional)
+Responsibilities; Spanish (Professional)
+* Designed and Built ETL processing modules based on transformation
+rules, mapping rules, processing requirements and database model. INTERESTS
+= Designed and Built the ETL auditing steps to ensure data integrity and
+completeness of the ETL process. Climbing
+= Designed and Built the ETL process flow including module dependencies deceit
+and parallel processing opportunities. Reading
+* Lead the design-build of programming specifications for each ETL
+component,
+» Lead the design and execution of testing plans for each phase of the REFERENCES
+development process.
+* Planned and ensured accuracy and quality of prograrn code as well as a Reference - 1 (Company
+thorough data validation procedures. pool les cere 2 (Company
+
+= Developed efficient code that met the analysis and design criteria.
+
+® This Eree Resume Template Is the copyright of Qwikresume.com. Usage Guidelines

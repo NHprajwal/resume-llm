@@ -1,0 +1,67 @@
+Robert Smith CONTACT DETAILS
+
+hie Marshville Road,
+
+P abana
+Senior Java Developer (123)-456-7899
+info@qwikresume,com
+www.qwikresume.com
+PERSONAL STATEMENT ;
+Senior Java Developer with over 10 years of IT experience in Design, SKILLS
+Development, Testing, and Maintenance of various distributed and Web Agile, Test Driven
+applications including n-ter, MVC architecture, and User interface using Development, Iterative,
+J2EE and Web technologies. Worked with Java, Servlets, JSP, JDBC, JNDI, Seri, eetbei,
+XML, JavaScript, CSS and Apache Struts framework. Extensively worked on Though Works ical
+Web Sphere, Oracle, and Apache Torncat Application servers with IDE ough Works Typical
+Eclipse, IBM Web Sphere Studio Application Developer. Product Method,J2EE
+Technologies Servlets,
+WORK EXPERIENCE JSP, String Templates’
+Senior java Developer
+Bank Of America - October 2014 - Present LANGUAGES
+Re sponsibilities: English (Native)
+* Java lead responsible for the handling of server-side business French (Professional)
+J e a a Spanish (Professional)
+
+components, coding, UML design and cornpleting the enhancement
+lifecycle for the work product,
+
+« Completed mainframe integration testing by connecting MQ from the INTERESTS
+local machine.
+
+= Developed mask table structures based on mainframe transaction input eeceaag
+and output data structure, Cooking
+
+= Implemented spring web services to fetch the data from mainframe IMS Reading
+transactions.
+
+« Implemented two new Ul screens (backorder and supplemental back
+order report) using angular js and bootstrap. REFERENCES
+
+= Extensively used hibernate in data access layer to access and update
+Information In the database, Name)
+
+* Worked in offshore development portal project to set up the processes Reference - 2 (Company
+and flow In a project using Java technologies. Narne)
+
+Reference - 1 (Company
+
+Senior Java Developer
+ABC Corp- 2008-2014
+Re sponsibilities:
+= Developed cost-effective information technology solutions by creating
+new or modifying existing software applications that are moderately
+complex,
+= Analyzed and validated moderately complex system requirernents and
+existing business processes and Information systerns.
+= Developed and implemented new prograrns and/or rnodifications of
+existing applications.
+= Responsible for the design, prototyping and other methodologies for
+new and/or existing systems including the development of test plans
+and program specifications with minimal interfaces,
+= Coded, tested, debugged, docurnented, and implemented the
+moderately complex software applications according to standards.
+* Developed specifications and prograrns moderately cornplex technical
+modules, applications, prototypes and computer prograrns.
+= Performed all aspects of applications prograrmming and developrnent
+
+© This Eree Resume Template is the copyright of Qwikresume com. Usage Guidelines

@@ -1,0 +1,57 @@
+- 22Street Rd.
+John Smith, BS Chiy Sate» 00000
+“T; 222 222 2222
+
+E: emailttaddress.com
+
+ELECTRICAL ENGINEER
+
+Skilled engineering professional with a Bachelor of Science in Electrical Engineering and 5+ years of
+experience assembling, designing, programming, testing, provisioning, deploying and supporting electronic
+equipment and systems within schematic specitications, Additional expertise in troubleshooting computer
+hardware and electronic systems using bench equipment with strengths in project management. Strong.
+technical and methodical aptitude with an innate ability to analyze, coordinate and synthesize data,
+
+Resourceful, analytical and detail-<driven with capabilities in completing multiple projects with competi
+deadlines. pfs tr in identifying and resolving inedficient Lavo h porta th ts team nak
+able to motivate others to achieve optimal production rates while maintaining safety methods and practices.
+Clear communicator, both oral and written, Strong ost epeone skills; interface effectively with coworkers,
+management, clients and customers. Excel in unpredictable and hectic environments.
+
+CORE STRENGTHS TECHNICAL SKILLS
+© Power Electronics & Power Systems e AutoCAD
+© Research & Development ¢ Microsoft Visual C++
+¢ Testing, Troubleshooting & Quality Assurance © Microsoft Office Proficiency
+© Negative Transfer, Etching, Drilling, Design & ¢ Microsoft Visio
+Soldering © Multisin 10.0
+© Time Management & Prioritization © Ultiboard 10.0
+¢ Risk Assessment & Management e learus Verilog
+© Process & Performance Improvement e Circuit Maker 2000
+¢ Work Effectively in a Team-Oriented, ¢ Grophmatica
+Collaborative Environment © Mat Lab, version 2007
+ABRTUCATION
+Bachelor of Science Degree, Electrical Engineering Sep. 2007-Dec. 2009
+Lakehead University, Thunder Bay ON
+Electronics Engineering Diploma, Technology Cooperative Education Sep. 2003-Dec. 2006
+
+Sheridan College, Brampton ON
+
+MAJOR PRO)
+
+CDMA Communication Link (Degree Project)
+¢ Completed project within 1 year, with 4 months to brainstorm and 8 months to conceptualize
+¢ Researched and consulted with various sources to create a working model of a cell phone
+communication link according to specifications and time constraints
+
+FM Modulator and Demodulator
+« Designed and implemented Functional Audio Transmitting FM Modulator and receiving
+Demodulator; utilized analog and circuit design knowledge and skill
+
+Binary Phase Shift Keying (BPSK)
+¢ Designed and built a working 2 channel encoder and decoder for digital communication studies
+© Collabontted with group members and professors in implementation of PCB design for functional
+implementation; utilized Visio, Multisim 10.0 and Utilboard 10,0 te bring concept to working model
+¢ Worked within 6 week deadline from practical design to implementation to presentation
+
+Erbium Doped Fiber Amplifier (EDFA)
+© Theoretical analysis and overview of fiber design parameters for optical communications studies

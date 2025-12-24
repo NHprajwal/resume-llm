@@ -1,0 +1,60 @@
+ROBERT SMITH
+Senior ETL Developer
+
+Phone: (0123)-456-789 | Email: info@qwikresume.com | Website: Qwikresume.com
+SUMMARY
+
+Senior ETL Developer with 8+ years of experience in the Finance domain. Full life-cycle project
+delivery experiance from product definition ta implementation including requirements and
+specification writing, design documentation, unit and systern testing, optimization and performance
+analysis, quality assurance, and release into a production environment
+
+CORE COMPETENCIES
+
+Informatica PowerCenter, Informatica PowerExchange / Power Connect in all phases of Analysis,
+Administration, Design, Development, Implementation, and support of Data warehousing
+applications using Informatica power conter 9.x&amp; 8.x, SQL, PL'SQL, MS SQL, Teradata, DB2,
+Oracle, and Unix.
+
+PROFESSIONAL EXPERIENCE
+
+Senior ETL Developer
+Penn Mutual - January 2014 — Present
+
+Key Deliverables:
+
+« Creating functional, technical design and data mapping documents by Interacting with
+customers subject matter expert (SME).
+
+= In addition, participating in raquirament gathering, analyzing the requirements, creating the
+technical design specifications based on cliert functional specs
+
+« Designing data mappings to oxtract Gata from SAP using ABAP, IDoc, BAPIS &amp;
+setting up business content mappings |.e. Listener, sand request, processing Samp; clean
+up to load into EWD for upstream Cognos reporting system,
+
+= Identifying, activating, creating processing mappings for BCls and extracting data sources
+for attribute amp; text fables for SD, MM, Fl &amp; CO modules.
+
+* Outage hancling(escalation procedure, running metadata queries and procedures,
+checking database , creating outage log).
+
+« Pertorred migration of mappings and s9ssion trorn doy to test repository, taking backup
+and restoring of Informatica repository, upgrades and security Issues,
+
+«Involved in the migration of informatica objScts in all phases (dev, int and prel) af the project
+and trained davelopers to maintain system when in production,
+
+Senior ETL Developer
+ABC Corp - 2008 — 2014
+
+Key Deliverables:
+« Rasponsibls for data warehousing and data management aspects of the ETL using Oracle
+and Notezza.
+« Designed and modoled data marts using provided ETL specifications to the development
+team in Oracls and Netezza:
+« Plonsered the strategy for integrating data trorn Oracle to Netezza.
+
+a
+2259 Oak Street. Old Forge. New York. 13420
+© This Free Resume Template ts the copyright of Qwikresume.com. Usage Guidelines

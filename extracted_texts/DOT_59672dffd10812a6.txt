@@ -1,0 +1,58 @@
+Curriculum Vitae
+
+Microsoft Dot Net Developer
+
+Name : Krinal Sukdev Patil
+
+Addrews Flat No: flat mo; 783, Niljyoti Residency, Gokhale Nagar,Pune
+E-Mail fd : erkpatili@gmail com
+
+Cantact No, : (+91 940383 1805,(+91 9637227551
+
+. g Were Hooray mn fessional, | have over covering multiple technologies. | keep alop of new
+developments an at noone aon adapt quickly to new coding conventions. | am happy
+working independently of in a close team environment, and apply a postive attitude to every task |
+‘aidasidie, Ye colcta & telpaalale ‘Chaianging. dad Bhatia Geslen tn b saben Gecksoeenh
+organization with an established track record where my skills, abilities and technical abilities can be
+wiilizod
+
+| have 2.4 Year of Total experience as Dot Net Developer
+
+8 Maanth months working experience in Dot Net as software Developer in CAG Corp
+
+On September 2014 to TH Date working in Dot Net as software Developer in Ipwam Technology
+
+| have Hands on Experience in C#, ASP.Net MVC 5, Entity Frameworks 6, ADO.Net,
+
+Javascript, ajax tquery, angular js, HTML, CSS , Microsoft SOL Server 2012
+
+Proficient communicator with very good interpersonal skills:
+
+© Worked on different phases of SDLC like Project Planning and Estimation, Requirements
+Gathering, Analysis, Design, Development, Testing, Deployment, User Acceptance and Support.
+
+© Proactive worker with multi tasking capabilities in different streates.
+
+Project » BRP System
+
+Project Name Hroiler Vishwa(develop mn Asp.Net MVC)
+
+Role : Developer
+
+Team Size 1 6
+
+Technologies | ASP.Net MVC 5,0#, SOL SERVER 2012, Entity Frameworks.
+
+Responsibilities; Development and Architecture
+
+© Requirement gathering Analysis, Design, Development Project.
+
+© Created Gencral repository pattern and unit of work class, Entity Framwork6 with data first
+approach, Create Store Procedure, Views.
+
+© Responsible for coding of database query class as well as functionality part.
+
+© Uni Testing
+
+Tools and Technologies:
++ Dot Net Framework 4.5 , Sql Server 2012, VS 2013,

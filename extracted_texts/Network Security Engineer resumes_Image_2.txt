@@ -1,0 +1,70 @@
+Robert S mith Phone (123) 456 78 99
+
+Emall: (nfo@aywikresume,corm
+
+Cyber Security Engineer BEES er soso ra
+
+Linkedin: linkedin.com/quwikresume
+Address; 1737 Marshwille Road, Alabama
+
+SUMMARY
+
+To obtain a position with a cormpany that will give me the opportunity to contribute by utilizing
+exceptional customer-service skills as well as meeting new and potential clients. Motivated self
+starter with experience in cybersecurity and customer relations. Possess strong written and
+a cormmunication skills and ability to partner across departments to meet the needs of
+students.
+
+SKILLS
+
+Red Team Operations, Intrusion Detection, SIGINT, SIGINT, Networking.
+WORK EXPERIENCE
+
+Cyber Security Engineer
+ABC Corporation - March 2012 - Septernber 2013
+
+.
+
+Tools used on 4 daily basis included McAfee ePO, WireShark, HP DDMI, Snort, and FireEye,
+Responsible for creating and updating tickets throughout the day using Siebel.
+
+Responsible to investigate the Discovery and Dependency Mapping Inventory dally report and
+take action on any unauthorized devices that were picked up as being on the network,
+Monitored and tracked Snort logs throughout the day to monitor traffic and potential threats
+on the network, ;
+
+Created tearn weekly and monthly status reports that got delivered to our National Science
+Foundation tearn lead COTR.
+
+Worked hands on with the tearns Prograrn Manager to make sure tearn morale was up and we
+were operating at 100%.
+
+Managed the operation of arcsight security Information and event management systerns to
+include arcsight esm 5. 5, connector appliances/smartconnectors, logger appliances, linux
+servers, network devices and backups.
+
+Cyber Security Engineer
+Delta Corporation - 2009- 2012
+
+Systern Security Lead for DCGS-A enabled Single Source (DE-SS),
+
+System Security Lead for Tactical Cornrnunications Support Processor (TSCP),
+
+Produced Plan of Action &arnp; Milestones (POA&amp;Ms),
+
+Monitored security capabilities and vulnerabilities of the systern and ensured actions were
+taken to document findings and/or correct thern,
+
+Performed NESSUS, SRR, and SCC scans, or UNIX OS, to verify the security posture of the
+system,
+
+Performed media scanning for digital material entering and exiting classified areas (using
+Dirty Word Search tools),
+
+Assisted Certification &arnp; Accreditation of DE-SS v6.6 for DAMI-IM and working to convert
+DIACAP to RMF.
+
+EDUCATION
+B.5, In Information Sciences and Technology - (Pennsylvania State University)
+
+O Ths Free Resume Template is the copyright of Qwikresurne com. Usage Gubie lines

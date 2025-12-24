@@ -1,0 +1,60 @@
+Robert Smith CONTACT DETAILS
+
+1737 Marshville Road,
+
+PL/SQL Developer (123)-856-7809
+
+info@qwikresume,.com
+www.qwikresume.com
+PERSONAL STATEMENT ;
+Oracle PL/SQL Developer with over 8 years of experience in the field of SKILLS
+software development Experience in Perl, Oracle and Unix Expertise in Microsoft Project, MS
+financial Industries based applications Including trading systems. Excellent Excel, MS Access, T-SQL,
+
+database knowledge on RDBMS like Oracle, SQL, PL/SQL Solid experience in SSIS, SSRS, MS Visio,
+Perl programming using with JavaScript and Html. Experience in Oracle SOL Unix Shell M rl Scri
+queries and PL/SQL scripts, procedures, functions, triggers and packages nix: Shell/Pert Seript
+and query optimization.
+
+WORK EXPERIENCE LANGUAGES
+English (Native)
+PL/SQL Developer French (Professional)
+Jpmorgan Chase - July 2013 - Present Spanish (Professional)
+Responsibilities:
+* Involving in database development by creating Oracle PL/SQL functions,
+procedures, triggers, packages, records, and collections. INTERESTS
+« Creating database objects like SQL queries, tables, joins stored Climbing
+procedures using Oracte utilities like PL/SQL, SQL plus, SQL server. coi
+* Involving in performance tuning for complex SQL queries using explain Reading
+
+plan tables, collections, and table partitions to optimize performance.
+= Generating SQL and PL/SQL scripts to create and drop database objects
+
+Including tables, views, primary keys, indexes, constraints, packaaes, REFERENCES
+sequences, grants, and synonyms. — ; ;
+« Involving in application enhancements according to user requirements, Reference - 1 (Company
+* Building physical data structures like tables, views, constraints &amp; pty - 2(Company
+indexes, Narne)
+
+= Working with SOL loader and control files to load the data in different
+schema tables.
+
+Oracle PL/SQL Developer
+ABC Corp- 2010 - 2013
+Re sponsibilities:
+= Conducted database administrative work to support the production
+system
+* Provided support for QA and Development systerns.
+= Identified opportunities to fine-tune and optimize database systems.
+= Designed, coded, and tested the technical solutions.
+= Identified the systern deficiencies and recornmending solutions.
+= Met aggressive development deadlines and schedules,
+= Worked assignments to members of the tearm, and monitoring their
+workload.
+
+Education
+
+Master Of Computer Application - 2009 (Maharshi Dayanand
+University )Bachelor Of Science - (Maharshi Dayanand University )
+
+© This Eree Resume Template is the copyright of Qwikresume com. Usage Guidelines

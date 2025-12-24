@@ -1,0 +1,50 @@
+Information Technology (IT) SAMPLE
+RESUME
+
+1010 South Street, New York, NY 10003
+(212) 204-5645
+job doe @gmail com
+IT Specialist with over 4+ years of experience in information security and digital forensics. Expert and highly
+
+Jamiltar with a wide vartety of security, engineering networking. and operating system software. Possess an
+Associate Degree in Information Security and Digital Forensics.
+
+TECH AIC AL SKILLS
+SECURITY: McA fee SIEM/EPO/NSM, FireEye CMS/ETP, SecureWorks, IDS/IPS, Sumo Logis
+cloud-based log management, SSL certificate configuration and management, Jumper
+NetScreen/Palo Alto Networks firewall
+REVERSE ENGINEERING: Ollydbg, WinBdg, GBD, IDA Pro, PE:iD, malware sandbox
+NETWORKING: Wireshark/TCPView packet analysis, DNS servers, mail server
+OPERATING SYSTEMS: Windows XP, Vista 7, 8, Windows Server 2003, 2008, 2012, Linux
+including CentOS, Ubuntu, Arch, Debian, BackTrack, and Kali
+
+PROFESSIONAL EXPERTENCE
+
+SECURITY PROFESSIONALS INC. Columbia, SC
+enol 4 Operations Center Security Analyst January 2014 -
+esent
+
+e Monitor multiple secunty systems for a Fortune 500 company
+e Investigate ansing incidents caused by malicious activities, and identified false positives
+¢ Documented secunty events daily to create a baseline of activity for the client network
+
+TECHNOLOGY SMARTS Charleston, SC
+Network Operations Center Monitoring Technician January 2012 — December 2014
+
+e Refined and improved existing documentation system, resulting in reduced labor costs totaling $15,000
+annually via increased workplace effiaency
+
+e Consolidated multiple ticketing systems, improving communication and ticket tumover rate by 7%
+
+e Investigated alerts created by IDS/IPS including malicious file uploads, compromised servers, SQL injections,
+and port scanning
+
+CHICAGO GOVERNMENT Chicago, IL
+Jnformation Security Intern May 2011 — December 2012
+¢ Monitored and managed email spam filters, firewalls, anti-virus systems, and vulnerability scanners
+
+¢ Deployed and observed IDS sensors and their resulting alerts
+
+e Performed in-depth forensics on workstation hard dnves
+
+FeDENT COMMUNITY COLLEGE hago

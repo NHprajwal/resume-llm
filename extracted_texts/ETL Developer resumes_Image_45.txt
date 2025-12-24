@@ -1,0 +1,64 @@
+ETL Consultant II Phone: (123) 456 78 99
+
+Email: info@qwikresume.com
+
+Website: www.qwilresume.cont
+
+Address: 1737 Marshville Road,
+Alabama
+
+Objective
+
+Ower 8 years of ETL Consultant If Experience in analysis, design, development, Implementation
+and troubleshooting of Data warchousc/Data Services applications and nearly 6 years of
+Experience in Informatica Power Center , 3 years of Experience in Datastage and Talend,
+
+Skills
+
+ETL, Informatica, SSIS,
+
+Work Experience
+
+ETL Consultant Il
+Scientific Technology Corp - February 2015 - 2020
+
+Built environment which creating and supporting state of the art IT systems for public health.
+Responsible for developing Platform as a service for 13 states for AFIX implementation.
+
+Plans recommend and architects solutions around large data Business intelligence solutions
+for the Interoperability of Healthcare data.
+
+Implemented in the areas of coding, configuration and query writing of BI solutions.
+
+Played as administrator for setting up development environments for Talend, Jasper soft,
+Postgres lor AFIX development and documenting install plan at client locations.
+
+Worked on Talend ETL for building ODS/OLAP tables and responsible for preparing mapping
+documents.
+
+Responsible for creating test data lor reports demos.
+
+ETL Consultant
+Delta Corporation - 2012-2015
+
+Implemented Retail DW Team HUB-Spoke data model to build Multiple Data Marts {spokes}
+from legacy systems.
+
+The project is logically divided into two deliverables - Oracle DW (Hub) and Mart {spoke}.
+
+Hub ETL team extracts/loads data from DB2 to Oracle DW via staging Oracle structures.
+
+Mari ETL Team extracts/loads data from Oracle DW {Hub} to Campaign Management Data
+Mart {spoke}.
+
+This DW project implemented Agile methodology to deliver the business needs.
+
+Responsibilities Worked with Business Analyst to design Business Requirement Documents.
+Created a data dictionary to map the business requirements to attributes to design logical data
+model implementing star schema.
+
+Education
+
+B.Tech in Informatica Technology - (JNTU}
+
+© This Pree Resume Tempiete ts the copyright of Qwikresumecom. Usage Guidelines

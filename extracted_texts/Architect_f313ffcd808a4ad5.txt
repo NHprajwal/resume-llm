@@ -1,0 +1,70 @@
+Robert Ss mith Phone (123) 456 78 99
+
+Email: Infom@awikresume, com
+
+Senior Architect Website : voww,qwikresume,.com
+
+Linkedin: linkedin. com/quikresume
+Address; 1737 Marshwille Road, Alabama
+
+SUMMARY
+
+Designing the architecture of complete solutions as well as managing project lifecycles and
+teams of engineers,
+
+SKILLS
+
+Auto cad, Sketch up,
+WORK EXPERIENCE
+
+Senior Architect
+ABC Corporation - May 2012 - August 2015
+
+Update Oracle Hyperion Essbase ASO/BSO cubes with mernber modifications.
+
+Update Oracle Hyperion Planning applications, Reviewing the Quantities and the contractors
+Invoices.
+
+Research business issues that are reflected in Planning and Essbase,
+
+Modify and test Essbase business rules and calc scripts. Bulld reports in Oracle Hyperion
+Financial Reporting.
+
+Develop Maxi scripts and Windows batches to rernotely run thern.
+
+Set up batch processes and schedules to automate Oracle Hyperion Financial reports,
+Architectural Design conflict solutions, creating details whenever needed, Site supervision and
+inspections with quality checklists,
+
+Senior Architect
+ABC Corporation - 2009-2012
+
+Over a large-scale re-engineering effort of a mission critical project managernent system for a
+large Engineering and Construction company.
+
+The application consisted of more than 400 SQLForms 3.0 characterbase screens and
+processes,
+
+The database was re-engineered from an Oracle RDBMS version 6.x to an Oracle RDBMS
+version 7.x,
+
+All screens were re-designed for a Windows-based client-server architecture utilizing Oracle
+Designer and Developer.
+
+Additional activities Included the introduction of database level referential integrity for all
+tables and performance enhancing de-normalization of data,
+
+Primary responsibilities included development of application infrastructure (programming and
+GUI standards, ternplates, libraries, and referenced objects), prograrnming of critical screens
+and management of the prograrnming effort for more than 20 consultants and in-house
+programmers.
+
+All programming done using Oracle Technology tools, including the Oracle database (81),
+PL/SQL, Oracle Developer (Forms and Reports) and Oracle Designer,
+
+EDUCATION
+
+Bachelors of Science in Business Administration - (Colorado Technical University - Colorado
+Springs, CO)
+
+O Ths Free Resume Template is the copyright of Qwikresurne com. Usage Gubie lings

@@ -1,0 +1,96 @@
+James Taylor
+
+Electrical Engineer
+
+Education
+
+Work Experience
+e Possessing a deep understanding of
+
+circuit analysis, programming Electrical Engineer (Hardware and Software 2015-05 - Present
+experience in several computer {
+languages, hands-on hardware Development)
+proficiency of implementation, E.ON.
+knowledge of icati
+oe Ce be He see UART. e Developing diagnostic software and testing procedures for Laser Doppler Velocimetry.
+© Proficient in architecting software for ° octal debugging and failure analysis of fiber optical products from multiple
+bedded syst i bVIEW. ‘
+= Highly ris eal bee physical e Prototyping instruments used in experiments containing Micro Electro Mechanical
+operation and programmability of Systems (MEMS) Matrix Optical Switches, Erbium-doped Fiber Amplifiers (EDFA), Dense
+PLCs and SCADA systems Wavelength Division Multiplexing (DWDM), Optical Switch Circulators, Beam Splitters,
+* Holding expertise in the diagnosis Optical Attenuators, Nanosecond Pulsed Laser Diodes, and Tunable Lasers.
+analysis, and successful : e Facilitating research for alternative software architecture used in embedded systems.
+troubleshooting of myriad e Utilizing LabVIEW and other programming languages to develop complete solutions For
+technologies. the automation of diagnostic software for optical and electrical components.
+
+e Collaborating with a National Laboratory to review and suggest best practices For
+control system software development used For Broadland Laser Ranging Systems.
+
+e Creating HMIs and automating procedures with Programmable Logic Controllers (PLC)
+and Supervisory Control and Data Acquisition (SCADA) systems for Shock Physics
+Experiments that require highly accurate timing and firing.
+
+Software Skills
+
+e Linux e RSLogix
+
+e OrcAD e GEMstudio
+
+e Altium e VirtualBox ‘ ; :
+
+= PSpice © Unity Pro XL Assistant Electrical Engineer 2010-05 - 2015-04
+° Electric . Visual Studio Iberdrola
+
+e LTSpice e Windows OS .
+
+° Hyper-V e Wonderware e Worked on electrical equipment (temperature and pressure sensors, valves, the
+
+e VMware © Microsoft Office actuator (ASAC 70), etc) on these engines.
+
+Quartus e ISE Design Suite e Worked on relays, contactors, MCCB breakers, performed tests for motor proper
+
+working.
+
+e Completely familiar with the governor mechanism in controlling the output power of
+generator, voltage maintaining, generator synchronization with National Grid,
+generated different working modes, and loaded management according to the
+situation.
+
+e Monitored operated parameters and recorded operated data including electrical
+
+Programming Languages
+
+eR a Fy thon generation, pressures, temperatures, vibration indications, alarms, and other
+
+me: ° Verilog information related to the safe operation of the powerhouse equipment.
+
+° C# * Arduino e Responsible for startup, normal operation, load management and handling of various
+= Ctt ° MATLAB emergencies during the operation of the Unit.
+
+ad ne . pentane P e Maintained daily logs of operation, maintenance and safety activities.
+
+: ie * Ladder Logic e Investigated and reported accidents.
+
+Maintenance Engineer 2006-03 - 2010-04
+Avo Electrical Engineering Services
+
+e Installed cameras security.
+e Fixed problems of laptops, tablet, office PC.
+e Fixed problems of imprimantes (Canon , Epson, Brother, Kyocera).
+
+e Movies
+« Badminton
+e Reading Articles
+
+e C, C+: Knowledge of basic
+¢ MATLAB 2013: Knowledge of a
+circuit implementation on Simulink. Master of Sciences in Engineering, Electrical Engineering 2004 - 2006
+
+* Microsoft Office: Have a grip on
+
+Microsoft Word, Excel, PowerPoint. Massachusetts Institute of Technology
+« Proteus 8.0: Complete
+implementation and execution of an
+
+electrical circuit. Bachelor of Sciences in Engineering, Electrical Engineering 2000 - 2004
+Massachusetts Institute of Technology

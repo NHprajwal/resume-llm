@@ -1,0 +1,127 @@
+PROFESSIONAL
+SUMMARY
+
+SKILLS
+
+WORK HISTORY
+
+EDUCATION
+
+1
+\
+>
+
+Jessica Claire
+
+@ 100 Montgomery St. 10th Floor *2 (555) 432-1000 4 resumesample@example.com
+
+Hands-on technical professional eager to collaborate with customers to find optimal solutions. Ready to
+leverage 15 Years of experience working to ensure data quality on NSLDS. Demonstrated subject matter
+expertise in Federal student aid industry while interfacing with various NSLDS data providers.
+
+e SQL Query writing e Strong Interpersonal and Communication Skills
+« Teamwork and Collaboration ¢ Software Development Standards
+« Eagerness to Learn New Technologies e Software Testing and Validation
+« Analytical Thinking and Problem Solving « Time Management and Organization
+ANALY ST DEVELOPER 07/2009 to CURRENT
+
+Esri | Houston, TX
+
+e Assisted data providers in reducing error rates by resolving loan transfer and SSN conflicts.
+
+e Identified data anomalies that may impede data providers from accurately reporting to NSLDS
+
+e Performed data corrections to allow proper reporting to NSLDS and other trading partners.
+
+e Distributed reports to Department of ED and other data providers
+
+e Collaborated with Department of Education staff and other contractors to identify how to improve
+NSLDS reporting of Debt Management Collection System.
+
+e Distributed monthly benchmarks reports for both Debt Collection and Disability servicers.
+
+e Conducted analysis and research for customer service inquiries from various data providers to include
+ED servicers and schools regarding reporting issues
+
+¢ Participated in testing of both new enhancements to NSLDS and modifications to current system.
+
+e Developed queries using SQL to aid data providers in resolving data reporting issues.
+
+e Provided loan and grant information to NPSAS (National Postsecondary Student Aid)to aid in reporting
+Statistical data,
+
+e Supported schools in reconciling or liquidating their Perkins portfolio.
+
+e Assisted rehabilitation servicer with loan transfer issues and data inaccuracies.
+
+e Participated in mandatory assignment project to transfer Perkins loans to Debt Collection system for
+reporting.
+
+e Validated results and performed quality assurance to assess accuracy of data
+
+TEOHNICAL ANALYST 11/2005 to 07/2009
+Deloitte | Albuquerque, NM
+
+Department of Education, National Student Loan Data System
+
+e Acted as liaison with internal and external technical teams and customers for planning, decision-making,
+issue resolution, prioritization, and overall contract activity in support and achievement of customer
+goals.
+
+e Provided technical expertise to customers by applying specific program knowledge and/or subject
+matter expertise of program management tasks.
+
+¢ Maintained program documentation and coordinates with company and customer teams for strategies,
+plans, schedules, documentation, contract(s) modifications, technical instructions, procedures, and/or
+other similar materials.
+
+e Reviewed, evaluated, and provided assessments of technical and non-technical program reports.
+
+e Researched specific areas and prepared findings to aid in problem resolution.
+
+e Compiled and analyzed data to solve complex technical problems using extensive knowledge of
+analytical techniques associated with established software development tools.
+
+e Prepared program correspondence, documentation, and reports for distribution to data providers and
+government customers.
+
+DéCABASE MANAGER 10/2002 to 11/2005
+Penn State University | University Park, PA
+
+e Provided reporting and technical expertise for maintenance of organizational processes.
+
+e Executed all processes within Peoplesoft Financial Aid modules.
+
+e Performed all setup and testing of Peoplesoft Financial Aid Modules and regulatory leases.
+
+e Interfaced with other third-party applications to transmit and receive Pell, ISIR, and Commonline files.
+
+e Designed and developed complex reports and queries utilizing various tools such as Application
+Designer, Microsoft Access, and Query Manager.
+
+e Investigated and researched system-related problems or issues.
+
+e Documented procedures and instructions of Financial Aid and third party systems.
+
+e Collaborated with other departments to resolve inter-departmental issues.
+
+e Conducted training sessions of new Peoplesoft modules and procedures.
+
+PR.OGRAMMERIANALY ST 10/1999 to 11/2001
+Education Finance Resources Corporation | City, STATE
+
+e Directed software design and development across multifaceted team to meet client needs for
+functionality, timeline and performance.
+
+e Assisted in full life-cycle software development of customized applications and reports.
+
+e Executed implementation of financial system acquisitions, upgrades, and development projects.
+
+« Analyzed business processes to identify, recommend, and implement ongoing system enhancements.
+
+e Managed installation and configuration of software for development purposes.
+
+« Provided technical and functional support to executive staff.
+
+Bachelor of Science | Computer And Information Science 05/2008
+University of Maryland University College, College Park, MD

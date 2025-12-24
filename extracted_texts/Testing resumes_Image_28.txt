@@ -1,0 +1,66 @@
+ROBERT SMITH
+
+Tester
+
+Phone: {0123)456-788 | Emad: nfo@qwikresume.com | Website: Qwikresume.com
+SUMMARY
+
+A PeopleSoft techno/functiona!l consultant and Tester with over 5 years of IT experience.
+Demonstrated ability to buik efficient, reliable teams that work together to achieve goals and
+exceed expectations.
+
+CORE COMPETENCIES
+
+Peo, Peoplesoft, Contracts, Billing & AR, Purchasing, AP, Inventory, Treasury, Grants, KK, Order
+Management, Travel & Expense and GL modules (Version 9).
+
+PROFESSIONAL EXPERIENCE
+
+Tester
+ABC Corporation - April 2002 - November 2003
+
+Key Deliverables:
+
+= Worked with the Gevefopers to identify the design/development errors, to resolve them and
+to get the software released to Integration and System testing,
+
+* Developed Test plans and modilied the test plan when required in later stages of testing,
+
+« Tested Unit Testing customization of various SOR Reports,
+
+» Developed Quick Tesi Professional TSL scripts for Library functions for checking Data-
+Driven and GUI objects.
+
+» Logged the errors and track them using Quality Center and BLT, co-coomdinated atfons
+with the development team lo solve the problems.
+
+« Created script files containing the lest cases using Win Runner that implement the tests
+described in the test plan,
+
+» Worked with the developers to identify the desion/development errors, to resolve them and
+to get the sotiware released to system testing.
+
+Tester
+ABC Corporation - 1998 - 2002
+
+Key Deliverables:
+
+= Test for the standard quality of processes paint.
+
+» Checking tor the viscosity, ph, shade, texture and other teatures tor passing the batch of
+paint being processed,
+
+« During my time al Sherman Williams paint company, | performed my work as a tester at
+very high standards;
+
+= Got along well with my fellow workers and supervisors and contributed to tha well being of
+the company worktorce,
+
+= Skills Used The skills need for testing varies.
+
+« Testers were responsible forthe paint being processes to meet Sherman Williams high
+Quality of standards for the finished product, paint.
+
+lee
+2259 Oak Street. Old Forge, New York, 13420
+‘© This Free Resume Template is the copyright of Qwikresume.com. Usage Guidelines

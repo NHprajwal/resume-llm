@@ -1,0 +1,69 @@
+. Reddit
+
+EXPERIENCE
+
+Delivery Consultant August 2021 - Present
+
+Lead the design, build, and customization of cloud-based supply chain soluuons software for chents across the country to
+streamline and improve their supply chain visibility.
+Develop apphcations in the company's low/no code software soluuon to meet chent needs from recerving, processing,
+and shipping functions within warehouses
+Integrate with customer's ERP (Netsuite, Oracle, |DE) to allow for data transactions from our software to the ERP
+Serve as the pnmary pommt of contact on muluple projects, ensuring that clent’s questions are answered, project timeline
+and budget are adhered to, issues are escalated, and the project team stays up to date with current status and future
+updates of projects
+
+e Collaborate with internal teams to implement and drive new enhancements to the product ne based on customer needs
+
+e Monitor project nsks and issues, created mitigation plans, and communicated progress to stakeholders
+
+Key Achievements:
+
+e Successfully delivered 4 chents with company’s software, which led to supply chain visibility and inventory accuracy for
+the chents
+Led migration effort for 6 chents from previous version of software to our latest version
+Serve on the consulting internal review team to help other consultants develop solutions, troubleshoot issues, and provide
+improvements on current work processes.
+
+Delivery Analyst March 2020 - August 2021
+
+Developed, built, and customized Electronic Health Record applicanons to chent’s specifications, and serve as the
+primary contact for support during Go-Live and post Go-Live events.
+
+Developed customized reports in EHR to meet client's needs and workflows
+
+\ssisted in taking 9 facilities live with EHR apphcation. This involved gathering business requirements, development
+and customuzanon of the product, end user traming for application and add-ons, and providing support throughout the
+yo live process.
+
+Worked with chent partners to make enhancements for workflow and UI for current and future builds for clients
+Financial Analyst January 2019 - March 2020
+
+Responsible for development and reporung on $1M+ budget, and worked with key stakeholders in order to better
+forecast future vear budge ts
+
+Facilitated $300K+ same day settlement payments each month to recover costs for development work performed for
+other Fe de ral Re scrve banks
+
+Spe cialized in Federal Reserve Bank cost accounting processes and budget tools to provide consultation to Information
+Technology management and executives.
+
+Developed a new Tableau dashboard report that automated monthly metnes for cost of labor forecasts. This report
+
+previously was manually updated each month, and the automation saved employees several hours a month of work.
+
+EDUCATION
+
+Bachelor of Scrence in ¢ perations & Supply Chain Management, Minor in Economics
+
+Member of Global Supply Chain Club
+
+Leadership positions within fraternity
+
+SKILLS
+
+Microsoft Office Suite | Microsoft Project Management | Microsoft Power BI | Tableau | SQL | Crystal Reports | B
+
+Development | Domo | Azure Dev Ops | SaaS Software Delivery | Technology Consulung | Project Management | Custom@
+
+Service | Risk Management

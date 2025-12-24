@@ -1,0 +1,88 @@
+Stephen Greet
+
+Data Science Manager
+
+EXPERIENCE
+Consumer Finance SaaS
+
+February 2018 . Present, New York NY
+Lead Data Scientist
+
+¢ Lead a team of 2 data scientists and 1 data engineer in developing
+marketing mix models that have led to an RO! improvement of
+25% on digital marketing spend over the last six months
+
+e Worked with the product and marketing teams to identify which
+customer interactions during their free trial maximize the
+likelihood of conversions resulting in a conversion rate increase
+of 14%
+
+EdTech Company
+
+january 2015 - February 2018, New York NY
+Senior Data Scientist
+
+¢ Worked closely with the product team to build a production
+recommendation engine in Python that improves the average
+time on page for users and resulted in $325k in incremental
+annual revenue
+
+e Built acustomer attrition random forest model that improved
+monthly retention by 10 basis points for customers who were
+likely to attrit by servicing relevant product features for them
+
+Insurance Company
+
+April 2012 » january 2015, Washengton DC
+Data Scientist
+
+e Using various clustering techniques in Python | identified groups
+of states where our national underwriting models were
+underperforming and made improvements to increase their
+profitability by 5%
+
+Data Analyst
+e IWentified procedural areas of improvement through customer
+data to help improve the profitability of a nationwide retention
+program by 7%
+e Using Python, SQL, and Excel I developed and owned the
+reporting for a nationwide retention program, saving ~100 hours
+
+Brooklyn, NY 11222
+(123) 456-7890
+
+stephen@beamjobs.com
+
+fin/stephen-greet
+2020 Data Science Resume Guide
+
+SKILLS
+
+Python (NumPy, Pandas,
+Scikit-learn, Keras, Flask)
+8 years
+
+SOL (Redshift, MySQL,
+
+8 years
+
+Git
+
+5 years
+
+Leadership Experience
+2 years
+
+Recommendation Engines
+Customer Segmentation
+Propensity Modeling
+Productionizing Models
+
+6 years
+
+University of Pittsburgh
+B.S. in Mathematics and
+Economics
+
+Septernber 2008 - April 2012
+Patsburgh PA

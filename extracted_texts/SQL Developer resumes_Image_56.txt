@@ -1,0 +1,73 @@
+Robert Smith CONTACT DETAILS
+
+Bie Marshwille Road,
+SQL Developer (Intern) (123)-456-7809
+
+info@qwikresurme,com
+www.qwikresume.com
+
+PERSONAL STATEMENT
+
+Over 4 years IT experience in Systern Analysis, Design and Development & SKILLS
+Support of MS SQL Server. Expertise in SQL Server Integration Services MS SQL Server ;
+(SSIS) and SQL Server Reporting Services (SSRS). Excellent knowledge In P.
+creating Databases, Tables, Stored Procedures, DDL/DML Triggers, Views, dete een ee
+User defined data types, functions, Cursors and Indexes using T-SOL. MS SSI "AS400 2 .
+Experience in creating packages to transfer data between Access, Excel, 5, , DB
+CSV, Oracle, flat file, Text Data to SOL SERVER using SSIS. SQL syntax, MS-Access
+2000, C, C++, VB
+6.0,Developer 2000, T-
+WORK EXPERIENCE SQL, PL/SOL, ASPNET,
+SQL Developer (Intern) HTML, XML, XSL, Visual
+ABC Corporation- January 2005 - March 2007 Studio 2008, T-SQL, PL-
+Re sponsibilities: SQL, Crystal Reports,
+ODBC, MS Office,
+= Responsibilities Supervised the activity of the Database for identifying Windows NT/ 2000
+the bottlenecks that are slowing down the performance of the data Server) XP. MATLAB, MS
+warehouse, SQL Server.
+
+« Identified and implemented the methods to fine tune the queries,
+procedures and functions.
+
+* Reviewed the executions of views and stored procedure and identified LANGUAGES
+the bottle necks within the query. English (Native)
+
+«= Monitored Database and Server Resources with various tools such as French (Professional)
+Performance Monitor, SQL Profiler, Stored Procedures and Database Spanish (Professional)
+Tuning Advisor,
+
+= Implemented Peer to Peer Transactional Replication within the system.
+
+= Creation of file groups for the existing Tempdb Database. INTERESTS
+
+= Changing collation inthe existing configurations, Climbing
+
+Snowboarding
+SQL Developer Sere
+ABC Corporation- 2003 - 2005 oe
+Re sponsibilities:
+
+= Project Description A three-year IT outsourcing deal with technology REFERENCES
+giant Microsoft that covers 104 countries.
+
+«= Infosys will manage Microsofts global Internal IT services including doit a 1 (Company
+helpdesk, desk-side services, and IT infrastructure and applications Reference - 2 (Company
+support. Name)
+
+= Provided support for MS Order Management Platform and MERT
+Applications.
+
+= Responsibilities Worked In BGOS Cluster as an 13 analyst, providing
+support for Order Management application Troubleshooting of issues
+faced by users while interacting with the order management systern
+Help core tearm in providing inforrnation on issues faced by cuistorners
+and test the solution before releasing it to custorner.
+
+= Monitor Server Alerts and services running onthe servers,
+
+= Responsible for timely updating alert configuration and analyzing
+conditions for throwing the alert and troubleshooting appropriately
+Actively participates in discussion for proposing enhancements and
+Improvernents In the application as per customer requirernents.
+
+© This Eree Resume Template is the copyright of Qwikresume com. Usage Guidelines

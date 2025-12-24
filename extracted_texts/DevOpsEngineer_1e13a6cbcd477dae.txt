@@ -1,0 +1,71 @@
+Robert Smith CONTACT RETAILS
+
+1737 Marshville Road,
+Alab
+
+AWS DevOps Engineer (123)-496-7899
+
+info@qwikresume,.com
+www.qwikresume.com
+PERSONAL STATEMENT ;
+8+ Plus years of Build & Release and DevOps Engineer Extensive SKILLS
+Experience in implementing and making teams adapt to Release/Change Bulld Tools Ant, Maven,
+Management Process Experience with Continuous Integration Tools (TFS, :
+Jenkins, Hudson & Team City) Experience with software developrnent notin. raaipsieg
+=e ante ‘
+
+methodologies such as Waterfall, Agile & Scrurn. Good Knowledge In bash Py S ehanetack &
+(shell) /Perl/Expect and exposure to Jython, Python scripting, Hands-on ppet, Openstac
+experience on Bulld and deployment of SOA applications like Oracle Service AWS Working Knowledge
+
+Bus (OSB), Oracle Policy Modeling (OPM) and Oracle Business Process Scripting Languages
+Management (BPM). Linux Sheel Scripting
+And Advanced Shell
+WORK EXPERIENCE Scripting Configuration
+Management Perforce,
+AWS DevOps Engineer Subversion, GIT, PVCS
+ABC Corporation- June 2012 - Present Version Manager, Bit
+Responsibilities: Bucket Cl Tools Jenkins,
+
+AntHillPro, Tearncity,
+
+* Building and maintaining cloud formation ternplates, chef cookbooks, Bamboo. Operating
+
+and scripts te automate and deplay AWS resources and configuration
+
+Systerns Windows, Unix,
+aid RHEL And Solaris
+* Integrating subversion into Hudsoryjenkins to autornate the code check- Databases Oracle,
+out process used Hudson/Hudsoryjenkins for automating builds and MySql, MSAccess, SQL
+automating deployments rnaintained the shell and Perl scripts for the Server Change
+automation purposes, Managernent Remedy,
+« Integrating jira with git hub version control maintained and and Service Now.
+administered Jira and assigned the roles for the users.
+= Updating all the activities in jira for the application tearn in order to
+track the status of the user stories or defects. LANGUAGES
+* Performance tuning and stress-testing of NoSQL database environments English (Native)
+In order to ensure acceptable database performance In production French (Professional)
+mode. Spanish (Professional)
+= Focusing on architecting NoSQL databases like Mongo, Cassandra and
+cache database,
+= Creating and deploying YMS on the Microsoft cloud service azure, INTERESTS
+managing the virtual network, azure ad, and SQL databases, and Climbing
+developed PowerShell scripts to autornate all of the aforementioned oe
+tasks. Reading
+DevOps Engineer
+ABC Corporation- October 2011 - May 2012
+REFERENCES
+Re sponsibilities: == = a
+= Responsibilities Design roles and groups using AWS Identity and access plaice = Efeornpany
+management (IAM) utilize AWS CLI to autornate backups of ephemeral Reference - 2 (Company
+data-stores to s3 buckets, EBS and create nightly AMIs for mission- Name) —
+
+critical production servers as backups.
+
+= Designed, wrote and built deployment using ant/ shell scripting and
+automate the overall process using subversion and anthill pro,
+
+« Developed chef and ruby based autornated DevOps solution to provide
+consistent platforms across multiple cloud providers for cormplex mult+
+
+© This Eree Resume Template is the copyright of Qwikresume com. Usage Guidelines

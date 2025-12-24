@@ -1,0 +1,114 @@
+Harper Garcia
+Software Tester | Manual Testing & BDD
+heip@enhancvcom " linkedincom —-9_ Deer, Coforado
+
+SUMMARY
+
+As a software tester with over 6 years of experience, | have a strong
+record of facilitating robust and efficient testing methods like BOD
+and using languages like Gherkin, | managed to increase productivity
+at HP by 15% and reduced the product retum rate at IBM by 10%.
+
+EXPERIENCE
+
+Software Verification Tester
+
+HP 3 2017-201 San Jose, Ca
+Worked in a collaborative environment creating test cases and defect analysis
++ Developed over 90 effective manual and automated sofware verification test
+
+cases
++ Cothaborated with a mecrodiology teat to achieve 15% productivity increase
+Operated in an Agile software development environment, expecially focusing on
+sprims and standups
+
+Assisted in handling and facing heid-retated support issues, improving client
+satisfaction by 20%
+
++ Advised and coached junior members, leading to a 15% improvement in team
+
+otfcoency
+
+Software Test Engineer
+
+IBM 8 2015-2017
+Analyzed feature requirements to develop effective tests
++ Created and managed 120+ best scripts under the rigorous Age methodology
+cycle
+
+Worked maintaining SQL databases, improving the vystems stability by 25%
+Weote 70+ test plans for new features, enhancing the product quality
+Supported anomaty fixes verification, reducing the product return rate by 10%
+Assivted in creating key testing metrics, prowiding insights for control charts
+resulting in peocess improvements
+
+@ San Francisco, CA
+
+Junior Quality Assurance Tester
+
+Intel 2014-2015 Portiand, OR
+
+Supported im test case design and report generation
+
++ Developed $0 test scerutios it a paie-programming envitonment increasing
+Gefect discovery by 30%
+
++ Worked with butiness analysts for requirement analyys, improving test coverage
+ty 15%
+
++ Detect and anatyred 100+ software defects, feeding into the vest process feedback
+loop
+
++ Contributed to documentation update. iexrearing process umeritanding among
+onboveded peers
+
+EDUCATION
+Master's in Computer Science
+Stanford University @ 2012-2084 =F Stanford, CA
+
+Bachelor's in Computer Engineering
+Colorado State University @ 2008-2012) @ Fort Collins. co
+
+STRENGTHS
+
+4
+
+SKILLS
+
+Problem Solving
+identified and feed 100+ software defects
+at intel
+
+Leadership
+Coached juniors and improved the team
+efficiency by 15% during my tenure at HP
+
+Collaborative
+
+Worked closely with a microbiology tear
+and increased overall efficiency by 15% at
+4P
+
+Manual Testing BDD —Gherkin
+
+eS Sas
+
+Test Automation SQL
+
+CERTIFICATION
+
+Agile Testing Certification
+Certification from ISTQB
+
+SQL Fundaenentats
+
+Course by Coursera
+PASSIONS
+wW 9
+Love exploring the Rockies during the
+weekends
+8 Coding Competitions
+Enjoy participating in coding hackathons
+
+for both the thwill and the learning
+experience

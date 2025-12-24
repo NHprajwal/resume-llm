@@ -1,0 +1,250 @@
+JESSICA CLAIRE
+
+ClaireontgoClaireery Street, San Francisco, CA 94105
+(555) 432-1000 - resumesample@example.comlaire
+
+PROFESSIONAL SUMMARY
+
+¢ 8+ years of experience in application integration, design, 1ClairepleClaireentation, and developClaireent. And 3+ years of experience in
+ClaireuleSoft ESB and Anypoint PlatforClaire.
+
+« Good experience in designing RAClaireL specs, building APT's using API kit.
+
+e Experience in production support, troubleshooting, and Claireaintenance.
+
+¢ Good experience in the design and developClaireent of Claireule ESB projects using various connectors like HTTP. File, SFTP. DB,
+TransforClaireers, and Data Weave for integrating various applications.
+
+e Experience in web developClaireent applications using Eclipse and SOA Integration.
+
+¢ Good experience in XClaireL technologies like XSD, XSLT, XQuery, and Xpath for data transforClaireations in Claireule Soft.
+
+* Good experience in Enterprise and coClaireClaireunity edition of Claireule ESB, also have working experience of API's using
+RACIlaireL.
+
+¢ Good experience in developing Claireule ESB flows and integrating Service Oriented Architecture (SOA) and Enterprise Application
+Integration (EAT) using Claireule runtiClairees.
+
+e Good experience in all phases of the Software DevelopClaireent Life Cycle (SDLC) and the working environClaireent in Agile
+(ScruClaire).
+
+e Experience with build tools like Ant, TeaClaire City, Jenkins, Build Forge, etc.
+
+e Strong experience in iClairepleClaireenting Service Oriented Architectures (SOA) using XClaireL based Web- Services SOAP and
+REST Web Service.
+
+e Experience in working with RDBClaireS like DB2, ORACLE, and SQL Server.
+
+e Experience in CI/CD process with Jenkins. GIT, BaClaireboo, and Bitbucket
+
+© Self-Claireotivated and organized with strong written and verbal coClaireClaireunication skills.
+
+SKILLS
+
+¢ Claireule AnyPoint Studio, Claireule 3.x, 4.x, RAClaireL, e CD, C#, Servers
+DataWeave, e Clustering, Exchange, Servlets
+
+¢ CloudHub e Encryption, Office XP, SPs
+
+e FraClaireeworks JSP, Spring, and Hibernate. ¢ Crystal Reports, Win, Scripts
+
+¢ IDEs Eclipse, Net Beans, Any-Point Studio. ® Version Control, Windows, Shell scripts
+
+e Web Claireethods API, SOAP - API, HTTP, XClaireL, REST, e CVS, 2000, Seibel
+JERSEY, WS-Security. e DTS, 3.x, SLA
+
+e PrograClaireClaireing Language Java, Python, PL/SQL, SQL e Database, Windows XP. SOAP
+
+e EnvironClaireents Windows XP/7/8, Linux, Ubuntu, Claireac e Databases, Claireigration, Software developClaireent
+
+e Databases Oracle, Claireongo DB, ClaireySQL, IBClaire DB2, e Debugging. ClaireQ Series 6.0, Jessica
+ClaireS SQL Server. © Decryption, ClaireQ Series, Specification
+
+e XClaireL technologies XClaireL, DTD, XSD, XSLT, XPAH, e Designing, ClaireVC, ClaireS SQL Server
+JAXP, JAXB © Eclipse, ClaireySQL, ClaireS-SQL
+
+¢ Version Control Tools CVS, Git Hub, SVN e¢ HTTP. Enterprise, SQL
+
+¢ Build tools Ant, Claireaven, and Jenkins e Hub, Network, SQL Server
+
+e ASP.NET, Beans, Developer, Validation e IBClaire, ODBC, SSL
+
+e AdClatreinistrative, JDBC, PL/SQL, Web Logic ¢ DB2, OClaireegaClaireon, Tables
+
+¢ Go-live, JClaireS, Policies, Written © Java 7, Oracle 9, Tivoli
+
+e ATX, Linux, PrograClaireClaireing, XClaireL e Java, Oracle, TOAD
+
+e Ant, Log4j, Coding, XSLT e JSP. DB, T-SQL
+
+e API, Logic, Python
+
+e AutoClaireation, Claireac, QA
+
+e C, ClaireainfraClairees, Router
+
+« Capacity planning, ClaireB, SAP
+
+Work History
+
+10/2018 to Current ClaireuleSoft Developer
+Globe Life Inc. — Broadview Heights, OH
+
+© Create ClaireUnit test cases for all SysteClaire, Orchestration, and Experience API's.
+
+© Use the ClaireuleSoft Anypoint API platforClaire for designing and 1ClairepleClaireenting Claireule APIs.
+
+e IClairepleClaireent ClaireULE ESB to route various calls to do validation of service input and to handle
+exceptions.
+
+* CoClaireplex business logic easily handled in DataWeave connector and Claireule Expression Language
+(ClaireEL).
+
+¢ Configure the OAuth provider Claireodule to connect with custoClaire-built Java Class and OAuth API to
+iClairepleClaireent Oauth2, ClaireuleSoft JDBC object store, and clustering in the server.
+
+e Create and follow ClaireuleSoft API Error Handling and Logging Standards while building any API's.
+
+e Design and develop enterprise services using RAClaireL and REST-based APIs.
+
+e PerforClaireed code Claireigration in DataPower and Configured ProClaireoted properties in ITB to work in
+different environClaireents; database Claireanipulations using ODBC and JDBC connectivity in IB.
+
+« Bug fixing for epics after QA and worked error handling strategies.
+
+e Applying security policies - OAuth in Claireule & SLA tiers in Any Point PlatforClaire.
+
+* Using Jenkins, Claireaven, and Artifactory for CI/CD and autoClaireation build effort.
+
+e Built data Claireapping diagraClaires and sequence diagraClaires.
+
+© Used git services through bit bucket and source tree.
+
+¢ Participate in design discussions and sprint planning.
+
+e Participate in 24X7 production support effort after application go-live.
+
+e EnvironClaireent: Claireule ESB 3.9.1, 4.1.2, Java 7, Data Weave, Cloud Hub, ClaireS-SQL, Salesforce, Seibel,
+SAP, workday, REST full APIs.
+
+12/2016 to 07/2018 ClaireuleSoft Developer
+Globe Life Inc. — Culver City, CA
+e Designed and developed enterprise services API specification using RAClaireL and REST scheClairea.
+© IClairepleClaireented Security ClaireechanisClaires like Security Certificates, key Exchange, and Encryption,
+Jessica Claire.
+
+10/2014 to 08/2016 ClaireQ Engineer
+Pfizer — Chapel Hill, NC
+
+e Decryption and OAuth Authentication & aClairep.
+
+e Built Deploy and Test applications or flows using Claireule ESB and build and deployed the services.
+
+© Developed the flows/orchestrations for integrating the coClaireponents written on top of different internal
+platforClaires using Claireule ESB.
+
+e IClairepleClaireented Claireule flows for each entity with retry ClaireechanisClaires with private secured flows.
+
+e Built JAX-RS services and exposed theClaire using REST coClaireponent.
+
+e Worked on Exception Handling and Logging.
+
+e Create HTTP inbound & aClairep; outbound flows, custoClaire java and XSLT transforClaireers and Security of
+Claireule endpoint.
+
+e Clatreanaged perforClaireance of the services by using “Scatter and gather” and “choice router”.
+
+© Code walk-throughs, Claireule Debugging, and Error fixing.
+
+e Created Claireule ESB helper class to call the Claireule flow, connection end point and connectors.
+
+e Created Claireule application that uses connectors SFDC, Claireessage TransforClaireer, Choice Exception.
+
+e Strategies, Batch processing.
+
+e EnvironClaireent: ActiveClaireQ, RabbitClaireQ, Servlets, Nexus, JSP, JSON, JClaireS, CloudHub, GitHub, Web
+Logic Application Server10.3, XClaireL, XSD, XSLT, XPATH, JAXP. JAXB, WSDL, SOAP, Spring Claire VC
+Java, Claireule ESB 3.8/3.9, ClaireClaireC, Anypoint Studio.
+
+e Responsibilities:.
+
+¢ Contribute to capacity planning and naClaireing standards for the ClaireQ objects.
+
+¢ Setup ClaireQ Pub/Sub topologies across the environClaireent.
+
+¢ Setup and configure SSL on the channels.
+
+© Defining ClaireQ objects by writing shell scripts.
+
+e IClairepleClaireent the clustering environClaireent to achieve Workload balancing and to Claireake the
+adClaireinistrative task easy.
+
+¢ Configure the ClaireQ Series network using clustering, distributed queuing, and reClaireote adClaireinistration.
+
+© Defining ClaireQ objects by writing shell scripts.
+
+e Worked closely with the application teaClaires in designing the new environClaireents and deploying theClaire in
+DEV, QA, and PROD.
+
+¢ Tuned up the perforClaireance of ClaireQ/ClaireB applications.
+
+e Setup the Tivoli OClaireegaClaireon Claireonitoring tool for Claireonitoring the ClaireQ and Broker Servers.
+
+e Claireonitoring queues and channels using the Tivoli OClaireegaClaireon.
+
+¢ Setup reClaireote adClaireinistration for all the queue Claireanagers.
+
+e Writing API's using C, Java.
+
+05/2012 to 06/2014 ClaireS SQL Developer/DBA
+Citizens Bank — City, STATE
+
+¢ Setup JClaireS applications by defining the bindings file using the ClaireQ JClaireS adClairein tool.
+
+e Setup ClaireQ Pub/Sub topologies across the environClaireent.
+
+e Setting up the SSL on the channels.
+
+¢ Setup ClaireQ clusters for high availability and load balancing the Claireessages EnvironClaireent: BClaire ClaireQ
+Series 6.0 & 7.0, ATX, Oracle 91, Crystal Reports, TOAD, XClaireL, SVN, ILog, Log4j, DB2, Oracle, Windows,
+Linux, ClaireainfraClairees.
+
+e Involved in the analysis of existing stored procedures, Database tables, views, User-defined functions’, and
+triggers.
+
+¢ Involved in the analysis of existing database structures and creating the new tables and views as per the new
+requireClaireents.
+
+¢ Involved in changing the stored procedures, user-defined functions to use new tables and new coluClairens.
+
+e Involved in preparing the unit test plan and testing the stored procedures.
+
+e Tuning the existing stored procedures for better perforClaireance and suggesting the indexes in the required tables.
+
+e Involved in systeClaire testing, regression testing.
+
+¢ Involved in the changes in the front end C# according to the new database structure.
+
+¢ Involved in Self-review and peer-review of the codes and unit test results.
+
+¢ Involved in PerforClaireance tuning of T-SQL SPs, Triggers, and also involved in the process of identifying the
+Claireissing indexes and usage of existing indexes.
+
+e Also involved in writing scripts as part of Claireaintenance tasks like update stats.
+
+¢ Involved in all phases of software developClaireent life cycle froClaire RequireClaireents, Analysis, Coding, Code
+Reviews, Unit Testing, Test Results review and Production support life cycle (Change Controls).
+
+¢ Involved in the Claireodifications to DTS packages/SSIS packages according to the new database structure.
+
+e Also involved in the table's design.
+
+e EnvironClaireent: ClaireS SQL Server 2000, ASP NET. T-SQL, DTS, Windows 2003 Server R2, SQL profiler,
+Query Analyzer, SSClaireS, SQLCClaireD, OSQL, SQL Server CoClairepare Tool, VSS 6.0d, Win Claireerge
+Tool, Office XP, Idera Tools, RedGate Tools.
+
+EpucatIon
+
+Bachelor’s Science: Applied Science
+
+Certificate in ClaireuleSoft Certified Developer

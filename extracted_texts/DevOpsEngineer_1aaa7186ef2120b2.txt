@@ -1,0 +1,58 @@
+Lonny Heaney
+DevOps Engineer
+
+Determined DeyOps Engineer with $+ years’ experience in developing, deploying and managing large-scale cloud
+infrastructure, Expertise in automation and orchestration tools such as Kubernetes, Docker, Terraform, Ansible & Jenkins to
+manage microservices-based applications. At XYZ Inc, implemented C1/CD pipelines resulting in a 16% decrease of server
+downtime caused by manual errors. Aiming to leverage my skillset at ABC Corp for the successful development of cloud
+
+projects.
+
+Contact
+
+lonevy.c.heaney@ gmail.com 123-702-2989 linkedin .com/in/lonny-heaney
+Employment
+
+DevOps Engineer at Employer A Cary | January 2018 to Present
+
+* Coordinated multiple development teams and system administrarors to build, deploy and maintain over 200
+cloud-based web applications, resulting in a 20% increase in overall efficiency.
+
+© Tested the performance of various software components such as databases, networks a& servers; identified areas
+for optimization to improve application speed by 30%.
+
+* Resourcefully automated complex deployment processes with Bash scripting and Python coding; eliminated
+manual errors during deployments while reducing time spent on deployment tasks by 40%
+
+* Improved configuration management tools like Puppet, Chef & Ansible: streamlined infrastructure
+setup/maintenance process across 10+ production environments saving $10K yearly in labor costs.
+
+@ Streamlined collaboration between DewOps engineers through Git version control systems; reduced
+debugping times from 2 hours per incident down to 15 minutes on average.
+
+DevOps Engineer at Employer B San Bernardino | March 2012 to December 2017
+* Developed and implemented automated deployment processes, resulting in a 30% reduction of release time
+and errors.
+
+* Automated configuration management with Chef, Puppet & Ansibie to ensure all servers were consistently
+configured ro the same standards
+
+* Optimized performance across cloud infrastructure by 20%, reducing latency issues for customers and
+increasing scalability during peak times.
+
+* Secured network environment through firewall configurations, patching systems regularly, monitoring user
+access and implementing intrusion detection protocols; successfully prevented 4 major data breaches over 2
+years period of enyployment.
+
+* Diligently monitored system health metrics such as CPU utilization levels and memory wsage; identified
+potential issues before they became critical problems requiring manual intervention or troubleshooting
+work#ows created by team members.
+
+Education
+
+Bachelor of Science in Computer Science at Educational Institution XYZ November 2011
+Skills
+
+Linux SQL Python
+
+java Amazon Web Services JavaScript

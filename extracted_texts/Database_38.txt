@@ -1,0 +1,315 @@
+Jessica Claire
+
+4 resumesample@example.com
+
+PROFESSIONAL © PROFILE SUMMARY. Oracle Database Administrator |PostgreSQL DBA |mysql |AWS| Dataguard | Goldengate|
+
+SUMMARY RAC | Rman | MVCC |Repmgr|pgBackrest | pgBouncer | pgbadger | Streaming rep| OEM 13C|Jenkins|
+Liquibase|nexus|Exadata As a certified Database Administrator with 7+ years experiences, | have hands-on
+experience overseeing the design, development, and maintenance of various database systems as well as
+production databases; | believe my skills perfectly suit your needs. | have excellent communication and
+documentation skills as well as a strong aptitude in analyzing and resolve problems. | enjoy solving large,
+complex data problems and enjoy the process of building and determining a solution. | have good experience
+with, Performance tuning, Backup and recovery, upgrades and Patching, advanced Security, Database
+monitoring using, OEM, TOAD, SQL DEVELOPER, and Shell Scripts and RMAN. I've also used
+pg_sta_activity. pg_top, and pg_activity for PostgreSQL. 4+ years Installing and configuring high availability
+solution including ALWAYS ON, MIRRORING, REPLICATION, CLUSTERING, DATA GUARD for data protection
+and disaster recovery, GOLDEN GATE and STREEMING REPLICATION for real time replication and high
+availability and RAC for scalability, high performance, availability. | am an exceptional worker, and | am always
+very motivated by being able to see the impact of my work on other people. The requirements and skills listed
+on the job description closely match my background and future career goals.
+
+SKILLS © «© DBASKILLS. ¢ Oracle 109.119, 12c, 18c, 19c /postgresql
+* Databases: 9.10.11,12 /mysql community 5.7.8.0
+WORK HISTORY © ORACLE & POSTGRESQL DATABASE ADMINISTRATOR 11/2019 to CURRENT
+
+Zoom | Phoenix, AZ
+
+« Configured PgBouncer for connection pooling and PgBadger for stats reports
+
+e Installed mysql 5.7 and &.0 version
+
+« Encrypted mysql 5.7 community edition innoDBENGINE
+
+« Clonned mysql databases,restored
+
+e Participated in 24 X 7 Production & Development database support and administration
+
+« Configured and monitored streaming replication between primary and target
+
+e« Ran maintenance auto vacuum jobs and customized vacuum on certain tables
+
+« Championed database migration from Oracle to PostgreSQL on premises and on AWS. using Migration
+
+« Tool Kit, Ora2pg, DMS and SCT
+
+« Rewrote and implemented a backup strategy following company SLA; execution of backup schedule for
+both physical using Pg_base_backup and Pg_backrest and Pg_dumpall and Pg_dump for logical
+backups
+
+e« Deployed Database security policy and installation, using passwords, privileges and user profiles,
+Enabled
+
+« Encryption for databases
+
+« Cloned databases using creation templates and pg_dump for testing purposes
+
+e« Performed PL/PGSQL errors fixes for application issues
+
+e« Tuning of SQL statements, optimize stored procedures, analyze query plans, write advanced PL/pgSQL
+
+e« Performed patching and upgrades of Databases using AWS minor versions upgrades, pg_upgrade,
+pg_dumpall and logical replication
+
+« Participated in a weekly on call rotation and run packages during off peak hours
+
+e Installed and configured PG versions 9.7,10.7 and 11.4
+
+« Supported daily administration, monitoring, tuning, and troubleshooting of clusters and single instances
+on
+
+e Unix/Linux and AWS Console
+
+e« Monitored CPU utilization, memory, Database Connections and storage space daily using
+pg_stat_activity,
+
+« PEM, Pg_view and AWS CloudWatch alarms
+
+e Also use customs shell scripts deployed on crontab to monitor performance and resources
+
+e« Revised logs for unusual events and performance issues and took appropriate action
+
+« Implemented table and index partitioning to improve query speed
+
+¢ Participated in capacity planning meetings to meet the demands of the dynamic aspects of storage and
+memory for the databases
+
+« Worked with the Data pump to take the logical backups of databases and experienced in performing
+Point in time recovery using RMAN
+
+e Used oracle configuration assistants like: DBCA (Database Configuration Assistant) for Creating
+databases, DBUA (Database Upgrade Assistant) for Upgrading databases, and NETCA (Network
+
+« Configuration Assistant) for creating Client-Server environment using Listener, TNS names etc
+
+e« Extensively used AWR, ADDM and explain the plan for periodic performance tuning
+
+e AWR, ADDM, ASH, TOAD and Oracle Grid Cloud monitoring
+
+e« Configured Oracle Data guard for Oracle Disaster recovery
+
+« Applying upgrade patch, maintenance and interim (opatch) patches on all the databases
+
+« Implemented Flashback technology of the Oracle 12C, 11g, 10g along with Recycle bin for a faster
+recovery of the databases and database objects
+
+« Performed full & incremental backup (cumulative and differential) using RMAN and implemented
+recovery strategies
+
+« Refreshed/cloned databases using the RMAN utility
+
+e« Made optimal use of Oracle Support in resolving the SRs
+
+« Configure GoldenGate downstream mining and Integrated Component for active passive and active
+replication
+
+e = Installed.configured,maintained, upgraded, patched OEM 12C,13C
+
+e Worked with Exadata by installing,upgrading, patching,tuning.monitoring and troubleshooting
+databases.
+
+DéCABASE ADMINISTRATOR 01/2016 to 10/2019
+Emw, Inc. | Norfolk, VA
+
+e Perform maintenance activities like checking auto vacuum jobs, and customized vacuum on certain
+tables
+
+e Supported Oracle DB backups (online/offline), logical backups and UNIX scripts, created clone
+databases, performed DBA day-to-day activities
+
+e Implemented shell-scripts for automation of day-to-day activities
+
+e Monitor database systems and provide technical support for database system issues and application
+performance enhancement/improvement using both OEM (client), Oracle 10g database control &
+
+e SQL
+
+e Plus, as well as pre-developed UNIX shell scripts
+
+* Applied Critical Patch Updates (CPU) and Patch set updates (PSU) on Oracle databases and interim
+patches for various bugfixes on database products
+
+e Backed up and recovered/Cloned/Migrated databases using RMAN and traditional Datapump export’
+import utilities in Oracle 10gR2 and 11g
+
+e Used to run scripts to check the status of databases such as growing table sizes, extent allocation, free
+space, used space, fragmentation etc
+
+e Created Physical Standby databases, performed Failover and Switchover using Data Guard Broker and
+manually when required
+
+e Involved in Oracle Golden Gate installation, configuration, and monitoring
+
+e Implemented Oracle database 12C RAC databases using Oracle Clusterware for achieving high
+
+« Availability
+
+e Oracle Installation, Configuration, Migration, Upgrades and Patches
+
+e Server versions ranged from Oracle 10g — 19c
+
+e Disaster recovery planning or Emergency Recoveries and Ensuring Recoverability of Databases
+
+e Experience working on POC of 12c new features like Redaction policy, adaptive query optimization,
+multiple indexes on single column, Restore table through RMAN
+
+e Implementation and administration of users and database permissions
+
+e Creation of technical documents, transportable tablespace, and user managed backup and concept of
+database system and security
+
+e Database backup using crontab and shell scripting. restore and recovery using RMAN, RTO/RPO and
+optimization
+
+e Work with deployment team members to plan, review and deploy databases and database updates for
+applications
+
+¢ Database PeopleSoft tools creation, cold, hot and user-managed backups
+
+e Verify SQL database and backup jobs run successfully according to their defined schedules
+
+e Provide periodic reports on the performance, capacity and availability of database
+
+¢ Database patches, management, duplication, migration and tuning
+
+e Configure and install new SQL Servers
+
+e Experience interfacing with Oracle support, while providing trouble shooting and offering consultation to
+developer's teams and clients
+
+e SQL database disk layout by allocating channels to disks and configuring parallelism
+
+e Coordinated with team members to setup documentation standards
+
+e Proactively monitor database performance while tuning database for improvement and efficiency
+
+e Meeting business needs while monitoring ticketing system such as BMC Remedy and delivering high
+quality services in a timely manner and applying patches
+
+e Create and configure Oracle security and policies using Oracle Enterprise Manager
+
+e |have experience in assessing and evaluating Oracle RAC environment for documenting
+
+e Failover and Switchover for high availability, maximum performance and protection
+
+e AWR, ADDM, ASH, TOAD and Oracle Grid Cloud monitoring
+
+e Create and configure Oracle advance security and policies using Oracle Cloud Control Enterprise
+Manager
+
+e Installed and Configured Grid Control, Multitenant and Pluggable Database Cluster database
+
+e Assess and evaluate existing Oracle environments for documenting and recommending Life Cycle
+
+e Replacement options
+
+e Installed cluster RAC database and Grid Control
+
+e Applied PSU patches on Oracle Container and Pluggable Database Cluster environments
+
+e Evaluate Oracle features and Oracle related products
+
+e Participated in cross platform migrations such as Oracle to PostgreSQL
+
+e Documented and assisted in Data migration from Oracle Databases to PostgreSQL database on
+premises and in AWS Cloud
+
+e Involved in Installing/configuring PostgreSQL version 9.6 to 12
+
+e Manage and monitor these databases using pgAdmin
+
+e Using pgHero for Performance tuning as well as SQL Tuning using explain Analyze and pg_stat_activity
+
+e Performing basic tasks such as objects such as, creating roles, granting privileges, creating tables
+
+e Implementing the use of indexes, and primary & foreign key constraints as required
+
+« Providing PRODUCTION SUPPORT based on a ticketing system
+
+e Assisted in defining and implementing MAINTAINANCE PLAN for the database systems
+
+e Performing maintenance activities like vacuum, vacuum full, analyze etc
+
+e Configured PgBouncer for connection pooling and pgBadger for generating statistic reports
+
+e Experienced of tuning PostgreSQL server settings & Troubleshooting performance issues
+
+e Managing Users and Tablespaces on PostgreSQL Servers
+
+e Using Customized scripts, to monitor database growth, TABLE growth, automated backups using
+
+e Cronjobs
+
+e Checking the AUTO VACUUM jobs. Customized VACUUM on certain tables and columns
+
+* Experienced in handling logical and physical database BACKUPS
+
+e Assisted in developing and implementing best practices for Disaster Recovery and Backups
+
+e Used restoration techniques like pg_restore and (PITR) Point in Time Recovery
+
+« Performing BACKUPS, and RESTORE, Compressed (gzip) BACKUPS, Database or Schema
+
+e REFRESHES
+
+¢ Configuring streaming replication (including cascading replication)
+
+e Configured a replication between
+
+e Primary and target and monitored On-Going REPLICATION.
+
+OFACLE DATABASE ADMINISTRATOR 03/2014 to 11/2015
+ALLIANZ | City, STATE
+
+« Successfully installed and configured Oracle 11.1.0.7, Oracle 10.2.0.5 databases on AIX platforms
+
+« Oracle Production Support Database Administrator
+
+« Administered and monitored over 150 databases both on 10g/11g on prod/test/dev environments
+
+e« Migrated databases from Filesystem to Automatic Storage Management (ASM)
+
+« Involved in migrating applications from Solaris 10g/11g to Linux 11.2.0.3 using Transportable
+Tablespace,
+
+« RMAN Convert
+
+e« Up-gradation of single instance databases from 10.2.0.4 to 11.2.0.3 on
+
+e Installed 12C grid control and Used Oracle Enterprise Manager Grid control 119/12c for monitoring
+databases
+
+e« Programming in shell to create shell scripts that automate the database backups and maintenance
+
+e Installed and set up High Availability Oracle Golden Gate (OGG) systems on Oracle 11g and 12c
+environments
+
+e« Upgraded Oracle Golden Gate (OGG) systems from 11g to 12c
+
+« Have implemented two types of standby databases supported by Data Guard, logical standby and
+physical standby databases in 11gR2 on two node RAC
+
+e« Having hands on experience in Hot/Cold Backup. Recovery and Cloning of databases using RMAN.
+
+EDUCATION () BSc. (Hons) | Economics & statistics MAY 20173
+Kyambogo University
+
+© AWS Solutions Architect certified.
+
+« Database 12c: SQL Fundamentals.
+
+e Oracle Database 12c Administration
+
+e Oracle Cloud Infrastructure Architect Associate
+e Oracle Autonomous Database Cloud Specialist
+« COMPTIA Security + ce.

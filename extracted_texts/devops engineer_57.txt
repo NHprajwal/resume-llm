@@ -1,0 +1,120 @@
+PROFESSIONAL
+SUMMARY
+
+TECHNICAL SKILLS ©
+
+WORK HISTORY
+
+EDUCATION (©
+
+CERTIFICATIONS
+
+Jessica Claire
+
+@ 100 Montgomery St. 10th Floor *2 (555) 432-1000 4 resumesample@example.com
+
+Bilingual DevOps Engineer with background designing. testing and implementing infrastructure and
+applications. Talented performer with extensive years of experience using source control tools to identify and
+fix bugs in code. Consistent team player with exemplary multitasking skills.
+
+) Cloud: Amazon Web Services, Google Cloud e Containerization: Docker, Kubernetes
+e Virtualization: VMW are, Xen, KVM e Databases: MySQL, MariaDB, MongoDB, Amazon
+e Automation: Jenkins, Ansible, Selenium DynamoDB
+e Programming Languages: Python, Groovy e Monitoring: Grafana, Nagios,Amazon Cl Watch
+e Scripting: Python, Bash, Groovy e Storage: RAID, SAN, NAS, NFS, SAMBA
+e Version control: GitHub, BitBucket, Stash,Gitlab e User administration: LDAP. AD, Kerberos
+e Web Applications: Apache, Nginx,Django e Application Deployment: Helm, Terraform, Jenkins
+DEVOPS ENGINEER 06/2019 to CURRENT
+
+Livongo Health, Inc. | Denver, CO
+
+e Worked with cross-functional design teams to create software solutions that elevated client side
+experience and significantly improved overall functionality and performance.
+
+e Designed and implemented scalable secure cloud architecture using AWS, Azure and GCP through
+Terraform.
+
+e Implemented AWS solutions using EC2, $3, RDS, EBS, Elastic Load Balancer, Auto scaling groups.
+
+e Created and maintained fully automated CI/CD pipelines for code deployment using Jenkins.
+
+e Managed AWS resources through Terraform.
+
+e Automated deployments to cloud servers using Terraform, Ansible, and Jenkins.
+
+e Troubleshoot alerts relating to application failures and devices being unreachable.
+
+e Experienced in deploying Docker containers and creating Docker images using Ansible.
+
+e Experienced in architecting and supporting available and scalable infrastructure.
+
+e Installed and configured Nagios to continually monitor network bandwidth, memory usage.
+
+e Established infrastructure and service monitoring using Prometheus and Grafana.
+
+DEJOPS ENGINEER 03/2018 to 06/2019
+Livongo Health, Inc. | Atlanta, GA
+
+e Monitored automated build and continuous software integration process to drive build/release failure
+resolution.
+
+e Built and managed AWS infrastructure as a code with Terraform
+
+e Created and updated AWS AMI Images using packer
+
+e Troubleshoot alerts relating application failures and devices being unreachable.
+
+e Implementing various development, testing, automation tools, and IT infrastructure
+
+e Versed in complete software life cycle from preliminary needs analysis to enterprise-wide deployment
+and support.
+
+e Used tools like Ansible to improve workflow and (CICD) through a click of a button.
+
+e Experience in AWS services: EC2, Auto scaling. Cloud Watch, Cloud Trail, $3, ELB
+
+e Building and Managing AWS infrastructure As a Code with Terraform.
+
+e Experienced in deploying Docker containers and creating Docker images using Terraform.
+
+¢ Deployed Nagios XI as a monitoring solution.
+
+e Working knowledge of AWS laaS, PaaS, and SaaS and coming trends in the Cloud space
+
+e Monitored developed applications and fixed bugs thru ELK and New Relic
+
+DEIOPS ENGINEER 06/2017 to 03/2018
+Livongo Health, Inc. | Raleigh, NC
+
+e Used Kubernetes to orchestrate deployment, scaling and management of Docker containers.
+
+e Implementing various development, testing, automation tools, and IT infrastructure
+
+e Versed in complete software life cycle from preliminary needs analysis to enterprise-wide deployment
+and support.
+
+e Used Terraform scripts to Automate VM Provisioning.
+
+e Managed and automated environments with tools like Ansible Playbooks.
+
+e Created reliable infrastructure for three-tier applications with Terraform.
+
+e Created secure VPC and configured security groups and NACL on AWS.
+
+e Managed IAM users, roles, groups according to security best practices.
+
+e Monitored developed applications and fixed bugs thru ELK.
+
+e Automated build and deployment process with Jenkins , eliminating 80% of manual work.
+
+Bachelor of Arts 06/2013
+Institute of Tourism , Russia, Moscow
+
+e Certified Kubernetes Administrator (CKA) :-F-qqu3dllyzo
+
+e Certified Kubernetes Application Developer(CKAD) LF-tq53woyl89
+« Terraform Associate
+
+« AWS Cloud Practitioner Validation Number 246DCT7D11B1QR58
+e AWS Solution Architect Validation Number 8RB5YCZLC21QQB9N
+e Jenkins Engineer ID: 32063339

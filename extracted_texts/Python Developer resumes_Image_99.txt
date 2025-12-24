@@ -1,0 +1,57 @@
+SOL HANSEN
+
+95574 CHRISTIAN GREENS, HOUSTON, TX
+
+PHONE
++1 (555) 428 1139
+
+EXPERIENCE FADEL-RAYNOR 04/2020 — present
+San Francisco, CA // Python Applications Developer
+
+e Knowledge of API’s
+
+Ansible/Chef/Puppet/Terraform/Cloud Formation
+
+e Strong experience with management and deployment in Amazon AWS services
+e Strong experience with scripting Python
+
+e Experience with ELK stack
+
+e Passionate towards new OpenSource technologies
+
+e Elasticsearch, Cassandra, MongoDB, GraphDB, Redis
+
+e Python, Data, SQL, AWS
+
+e Expert in Windows OS and MS Office ecosystem
+
+AWS Cloud environment development and deployment
+
+TOWNE-SPENCER 05/2015 — 12/2019
+San Francisco, CA // Python Application Developer
+
+e Hands-on development experience in Python
+
+e Highly technical and passionate about SDLC tooling and processes
+
+e System administration experience on Linux and MacOS
+
+e Familiar with development tools experience working with multiple SCM systems, code review
+systems, issue tracking tools, build tools, test frameworks, code quality tools, CI systems, and
+IDEs
+
+e Experience working as a developer on a large-scale project in an agile, globally-distributed
+environment
+
+EDUCATION KENT STATE UNIVERSITY
+Bachelor's in Computer Science
+
+SKILLS ¢ Experience with data analytics - both tools as well as impact to data structures and
+implementation
+e Experience with enterprise environments and related complexities, dynamics, and processes
+e Working in a startup or agile development environments
+e Experience with distributed systems, API integration and modeling
+e Experience with modern MVC (Model-view-controller) frameworks
+e Experience with information security paradigms and implementations
+BA/BS/MS in computer science or related subject area
+e Agile

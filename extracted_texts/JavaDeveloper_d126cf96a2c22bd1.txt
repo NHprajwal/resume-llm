@@ -1,0 +1,77 @@
+Resume
+
+Enthusiastic and well-organized Java developer with 3+ years of experience.
+
+Jared Arthur Maica
+
+Java Developer
+
+Eager to join Microsoft to bring in top-class Java development and problem-
+solving skills. In previous roles reduced app memory consumption by 30%,
+
+and decreased startup time for apps by 70%.
+
+Personal Info
+
+Phone 2017 - Java Developer
++1-799-456-8777 2018 DaCoderZ, Los Angeles, CA
+E-mail * Analyzed and designed program changes. Reviewed and updated requirements
+
+j.a.maica@gmail.com
+
+Linkedin
+
+linkedin.com/in/jamaica
+
+Twitter
+
+twitter.com/jamaica
+
+documentation, wrote design documents (PRD, FRD, UIRD, TRD, SRS, and SDD).
+
+* Planned, documented, and executed tests to ensure code changes meet
+requirements and specifications.
+
+* Supported programming changes during quality assurance, user acceptance
+testing, and post implementation.
+
+* Applied relevant technical skills to deliver specifications, program changes, unit test
+
+scripts, and documentation.
+
+Key Skills
+Key achievements:
+Jsp TTT tT * Achieved a 30% reduction in the app's memory consumption by eliminating
+Advanced duplicate strings via Garbage Collection Logs analysis and refactoring the code.
+* Recognized and improved code inefficiencies that led to a 40% increase in app
+HTMLS/CSS EEE 2
+stability.
+Advanced
+RESTHul eT tit 2015 - Junior Java Developer
+Advanced 2016 QuantExx, New York, NY
+* Designed, developed, troubleshot, debugged, and implemented software code for
+XML/JSON EEE sit ug
+Veny quod software components of web applications.
+* Cooperated with graphic designers and other project team members to develop
+Struts iit website's concepts, interface design, and architecture.
+Good * Integrated web applications with back-end databases.
+Problem-solving TT TTT * Deployed large web-based transaction systems using application servers.
+Advanced * Researched, tested, built, and coordinated the integration of new products per
+roduction and client requirements.
+Organization EERE P q
+Key achievement:
+Advanced
+* Reduced startup time for Java apps by 70% via CDS implementation.
+Communication EEE
+Very good
+Adaptability | tt ft e ean
+Very good - =
+¥9 2013 - UCLA, BS in Computer Science
+Time management EEE 2016 GPA 3.9
+Very gaod Coursework:
+
+* Computer systems architecture
+* Programming languages
+* Algorithms and complexity
+
+* Automata theory

@@ -1,0 +1,145 @@
+PROFESSIONAL
+SUMMARY
+
+ACCOMPLISHMEN
+TS
+
+SKILLS
+
+WORK HISTORY
+
+EDUCATION
+
+Jessica Claire
+
+@ 100 Montgomery St. 10th Floor *2 (555) 432-1000 <4 resumesample@example.com
+
+Seasoned ETL testing professional with 5+ years of proven track record of performing quality checks on diverse
+issues, authoring test cases and creating user stories. Knowledgeable about estimating hours, tracking versions,
+defects and understanding business requirements. Experienced in managing complex tasks and teams. Creates a
+team-driven environment that fosters room for development and growth using technical as well as analytical skills.
+
+e Awarded with the Liberty Spotlight Award for identifying a number of quality defects for Liberty Mutual.
+
+« Awarded with the Delivery Excellence Job Well Done Award for going extra mile to deliver tasks on time.
+
+« Won poster designing competition 3 times in a row organized for creating awareness on various topics as
+part of corporate social responsibility.
+
+e Took responsibility to keep employees motivated and healthy by being a part of "Whatta Wednesday" and
+"Cheers! Be healthy" team.
+
+e System verification, ETL Testing, Manual Testing © MySQL. SQL Server. Oracle, Teradata SQL
+
+e Report Testing, Database Testing, Regression Assistant
+Testing « HP ALM, JIRA, Version One
+« QA Management, Data Analysis e Facets, CDW, PEGA Interface
+e Test Automation using Platinum and Selenium e STLC, Defect Lifecycle
+e Amazon AWS, S3, SQS, Azure « Windows, MAC, MS Office
+e Redshift, DB2, DBeaver « White box, Black Box and Gray Box testing.
+SENIOR ETL TEST ANALY ST 02/XXX9 to 03/2020
+
+World Bank As Client Of Cognizant | City, STATE
+
+e Tracked and reported errors by collaborating with developers, clients and onsite counterparts.
+
+¢ Managed resource allocation and networked to manage planning and operations in testing cycle.
+e Evaluated test results and generated reports for development teams.
+
+e Verified development and maintenance of regression test suites.
+
+e Analyzed and interpreted test data and prepared technical reports.
+
+e Performed report testing on SSRS reports.
+
+¢ Created test scripts for verifying report data with Dbeaver.
+
+SENICR ETL TEST ANALYST 1O/XXX6 to O1/XXX9
+Liberty Mutual As Client Of Cognizant | City, STATE
+
+¢ Created test cases to perform source system to landing layer, landing layer to staging layer validations.
+
+e Performed count check, duplicate check, audit details check, Null check to ensure data quality.
+
+e Independent test execution of ABC (Audit, Balance and Control), RDM (Reference Data Management),
+MDM (Master Data Management) modules.
+
+e Created Test cases, test scripts and performed validation for encrypted data in Tier 1 Hub, Link and Satellite
+tables.
+
+e Created Test cases, test scripts and performed validation between two different databases (MySQL and
+Redshift Tables) using Platinum.
+
+e Deployed, Scheduled and ran Talend jobs using TAC scheduler.
+
+¢ Verified the messages in Amazon SQS queue and Verified the files generated in Amazon S3 bucket and
+Winscp path for all the modules such as ABC, RDM, MDM, Tier 1 and Tier 2.
+
+e Reviewed the work of junior resources and guided them on the test execution.
+
+e Knowledge Transfer to the team on RDM and MDM modules.
+
+e Effort Estimation and Test plan preparation for System Testing -
+
+ETL TiST ANALYST O8/XXX5 to O9/XXX6
+Abbvie Inc As Client Of Cognizant | City, STATE
+
+¢ Created, edited and refined test cases as necessary.
+
+e Created and executed Test scripts in two different databases.
+
+e Report Defects, Follow up for Defect fix, Retest and closure of defects .
+
+e Documentation of Test Results.
+
+e Prepared Test cases for testing the data of the reports generated from Cognos Tool.
+
+¢ Creating SQL scripts to verify the data in report against the database.
+
+¢ Prepared unit test cases for reports and executed them in Quality Center.
+
+e Performed different phases of testing such as Dry Run and Formal Execution.
+
+e Keeping at par with the rapidly changing requirements as testing methodology followed was Agile Testing.
+
+ETL TiST ANALY ST OS/XXX4 to O7/XXXS
+CareFirst Inc. As Client Of Cognizant | City, STATE
+
+¢ Prepared Test cases based on the requirements and uploading in HP ALM .
+
+e Prepared test data in Facets based on all the possible scenarios and transformation rules.
+
+e Created Test result documents, QA approval document, passing Test cases, raising and linking defects in
+HP quality center.
+
+¢ Involved in Defect root cause analysis with onsite counterparts.
+
+¢ Created DHMO group data which was one of the most important aspect of the project and giving KT to team
+members.
+
+e Reported Defects in quality center and got them fixed with day to day onsite co-ordination.
+
+e Creating and processing XML files based on requirements.
+
+e Ensured proper data flow from tables to report (CSV files) and then to PDF.
+
+¢ PDF validation: Look and feel according to business needs, ensuring correct old and new rates, logo,
+address and various other details are populated in PDF .
+
+¢ Testing various jobs such as Letters, Vendors. Billing, Termination and Reinstatement.
+
+¢ Testing various letters such as ON and OFF exchange open enrollment, IPP not paid, pediatric medical/
+dental age out notification.
+
+Bachelor's of Engineering | Electronics And Communications Engineering O5/XXX3
+MIET, Nagpur University
+
+e Graduated top of the Class in Final Year.
+
+e Elected as Editor of Departmental Magazine in XXX2. XXX3.
+¢ Member of Student's Club "PEACE".
+
+« Member of National Service Scheme (NSS).
+
+Mastcr of Arts | English Literature 1 2/XXX8
+IGNOU

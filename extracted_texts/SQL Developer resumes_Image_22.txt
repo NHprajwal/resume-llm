@@ -1,0 +1,58 @@
+ROBERT SMITH
+Oracle PL/SQL Developer
+
+E-mail: info @qwikresume.com
+
+SL NIMARY
+
+Omecle PL/SQL Developer having 10 years of programming experience, us a Sr. Oracle SQL, PL/SQL and
+ETL Developerin Analysis, Design, and Implementation of Business Applications using the Oracle
+Relational Database Management System (RDBMS). Experience in Data Migration across various databases
+as well us within the sume database across different systems, Well-versed in different stages of the Software
+Development Life Cycle (SDLC).
+
+Oracle 11G, Oniwle PLY SQL, UNIX Shell Script. SQL Develaper, Toad, Omecle Developer, IBM Rutianal,
+Agile & Watertal |, PowerBuilder
+
+WORK FAPERIENG)
+
+Oracle PL/SQL Developer
+ABC Corp - 2010 - January 2018
+
+Created datahase objects like bles, views, sequences, synonyms, indexes using Oracle tools like
+SQL PLus, SQL developer, und toad.
+
+Enforced data integrity using integrity constraint and database triggers.
+
+Proficient in advance features of Oracle I lg for PL/SQL programming like using records and
+collections, bulk bind, ref. Cursors, nested tables, and dynamic SQL.
+
+Created purtitioned tables and purtitioned indexes to improve the performance of the applications.
+Experience with performance tuning for Onele RDBMS using explain plan and hints,
+
+Intenicted with web development team to develop in tandem back-end solutions with front-end web
+executions:
+
+Executed Quality Control checks of source code created by other developers.
+
+Oracle PL/SQL Developer
+ABC Corp - 2008-2010
+
+Created and maintained technical documentation, proosss flows, etc.
+
+Created und Maintained Seed Data creation seripts.
+
+Provided technical expertise and mcammendations while assisting fellow team members, either of
+development or testing.
+
+Troubleshoot technical issues and identified modifications needed in existing applications to meet
+changing user requirements.
+
+Purticipated in Business Requirement discussions, identified system impacts, and designed
+solutions.
+
+Delivered projects on time and within budget with quality.
+
+Ensured that the projects meet the customer expectations as measured by scarecands.
+
+© This Eres Resumes: Tomplats » the copyright of Qwikreimecom, [sags Guldsfines

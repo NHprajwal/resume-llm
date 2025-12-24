@@ -1,0 +1,63 @@
+MAGED SAMAAN
+1000 North 4th Streat MR #636 « Fairfieid, lowa 52557
+415.416.0273 » maged samaan@outlook. com ¢ www knkedin cominmagedsamaan
+
+Full stack .NET developer
+
+Savvy. self-motivated, and results-driven full stack NET developer specializing in turning ideas into software
+solutions, Over 5 years of experience serving as key contributor across af software development Me cycle
+inctuding working wit) big companies and succeeding in many roles in startups. Exceptional analytical
+
+identify issues and provide prompt, effective solutons. Strong passion for learning new technologies.
+
+CORE COMPETENCIES / TECHNICAL SKILLS
+
+NET Framework ¢ Web Development « Full Stack « Back-End « DevOp « SOL Development
+
+Debugging 4 Deployment « Robust Coding « Agile Methodologies (Scrum & Kanban)
+Problem Solver « Team Player « Fast Learner
+
+Languages: C8. SOL, JavaScript, HTML, CSS
+Wob; ASP NET Web Forms, ASP-NET MVC, Web API, Angular, Knockout, JQuery, Telerik, Bootstrap
+Frameworks: Entity Framework, NHibemate. Ling2SQL. SignalR, Selenium, Ninject, NServiceBus, ServiceStack,
+
+NUnit,
+
+Oatabasos: SOL Server, MySOL. RavenD6. RadusDB
+
+Tools: TFS, GIT, Visual Studio
+
+Other Skills: Strong knowledge of design pattern, Basic knowledge of Project Management
+
+isos EXPERIENCE
+
+NOTE: Completed on-campus and currently taking distance education courses to complete 8
+
+Srocese Denies bs Comecaes soins onamoeeritenn W-2 employment)
+INTEGRANT, Cairo, Egypt « 2015
+U.S. based development & testing outsourcing company.
+Principle Software Developer
+Key member of outsourced Checkout team for www.proflowers.com whose foles were to performed detailed
+analyses on client needs and provided new feature eshmates and design, in accordance with Gesired specifications.
+Developed and maintained new ASP.NET MVC Checkout pages for end-users and customer support.
+« Empowered proflowers com checkout & admin sites to work on IE 8 by analyzing CSS bugs and page crashes
+© Collaborated on team that re-wrote old web-forms checkout admin site to ASP_NET MVC.
+* Promoted project success by writing Selenium test cases for new acmin site pages.
+Technologies:
+* Ci, ASP.NET, MVC, JavaScript, SOL, Web Services, Web API, SOL Server, Visual Studio, TFS, HTML, CSS.
+
+LESS, SASS.
+
+ORBRIDGE, Cairo, Egypt + 2012-2015
+Technology integration company focused on medical & healthcare service provider IT solutions.
+
+to build front end’back end and ensured synchronicity,
+«© Oversaw cid party integration, Twilo, Resalty NET, TechEG (SMS providers), Parse.com, and MasiGun.
+Designed performance enhancements for messaging Windows service using throading/SOL tuning techniques.
+
+.
+
+« Facilitated keyword search by applying SoundEx algorthrn and tuning it for Arabic language.
+
+© Enabled interaction between cal center agents by integrating SignaiR to allow Real Time Data interaction,
+Technologins:

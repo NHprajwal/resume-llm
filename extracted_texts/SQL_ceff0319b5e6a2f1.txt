@@ -1,0 +1,63 @@
+Robe rt S m ith Phone (123) 456 78 99
+
+Emall: (nfog@aywikresume,corm
+
+Website : www, qwikre sume, com
+Junior Sql Server Developer LinkedIn: linkedin.com/quwikresurne
+
+Address; 1737 Marshwille Road, Alabama
+
+SUMMARY
+
+Responsible for supporting the lead developer with maintenance of our software, management of
+our server infrastructure, backups, data migrations for client onboarding, diagnose systern issues
+with our technical support tearn and other technical projects,
+
+SKILLS
+
+Management, organizing.
+WORK EXPERIENCE
+
+Junior Sql Server Developer
+ABC Corporation - January 2012 - Decernber 2012
+
+* Identifies and understands business needs during requirernents gathering to effectively
+design, develop, test, and deploy reports or applications,
+
++ Stress test and optimizes the systern for efficiency in a distributed database,
+
+* Analyzes internal processes and make recormmendations for autornated workflow processes
+with eventual Implementation.
+
+* Proposes technical solutions, new application design, process flows.
+
+* Bullds custarm data imports as required,
+
+* Troubleshoots and problem solve SQL database issues.
+
+» Implements and tests software/server upgrades as needed to gain better functionality.
+
+Junior Sqi Server Developer
+Delta Corporation - 2008 - 2012
+
+* Create stored procedures, views, functions, tables, and ensure their stability, reliability, and
+performance,
+
+* Design, develop, and maintain SSRS reports based on user requirements.
+
++ Write and optimize SQL staternents for data access and retention.
+
+* Test databases for performance, fine-tune when necessary.
+
+» Collaborate with developers on database design, query tuning, and scherna refinerment.
+
+* Respond to feedback frorn users regarding performance and work with developers to improve
+the performance of queries and indexes.
+
+* Tune TSOL queries and stored procedures to improve performance and sustainability,
+
+EDUCATION
+
+Bachelor's of Engineering
+
+O Ths Free Resume Template is the copyright of Qwikresurne com. Usage Gubie lings

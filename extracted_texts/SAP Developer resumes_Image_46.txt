@@ -1,0 +1,62 @@
+ROBERT SMITH
+Sr. Sap Abap Developer
+
+Phone: {0123)456-788 | Emad: nfo@qwikresume.com | Website: Qwikresume.com
+SUMMARY
+
+ABAP/MDG (10+ years) expert accountable for Solution developments, technical leadership in the
+zones of application management, infrastructure, application integration, transport movements,
+security & authorizations, User Accaptance Testing & cutover activities for SAP implementation &
+Production Support projects in Health care, consumer goods , Apparel, Fashion , Manufacturing &
+logistics sector,
+
+CORE COMPETENCIES
+
+ABAP, ABAP WebDynpr, RICEF's [ALV Reports, Module.
+PROFESSIONAL EXPERIENCE
+
+Sr. Sap Abap Developer
+ABC Corporation - May 2007 - April 2020
+
+Key Deliverables:
+
+» Modified ABAP programs to add an email option to the sell and repon programs,
+
+« Created ABAP program Charge Paragon Credit Cards thru JatPay program io send Credil
+Card authorization to JatPay,
+
+« Mentored a team of developers to track and validate their developments and reinforce the
+quality ot deliverables,
+
+» Fornulated requirement and pricing routines to calculate sales representative
+commissions:
+
+« Enhanced the billing docu:ment defined for replenishing deliveries and consignments
+between european union countries:
+
+« Developed sap data migration tools tor materials; customers and sales orders&rsquo; data
+to.streamiline client&Squo:s procurement process.
+
+* Communicated with lunctional consullants and key stakeholders to improve supply chain
+management, damand fulliiment, and.
+
+Sap Abap Developer
+Delta Corporation - 2004 — 2007
+
+Key Deliverables:
+
+* Developer Manager (SAP ABAP) Functional/Technical Specs coordination Create
+inbou nd‘outbound interfaces for SAP (HA/SD/MM/FVCO) implementation ,
+
+« Leadership role responsbie for development objects review and Transaction code
+maintenance Create inbound’‘outbound interlaces for SAP 4.6D (SDAVM/FI/,
+
+» Florida Crystals Corp Project Responsible for maintenance, analysis, and development af
+on line and Interactive reporting, SAP 4.6, SD, MM, and HAY.
+
+* Developed interface forlcading HR Payroll master data between legacy system and SAP
+Drill down and interactive reports HR (PA/PD), FI (GL/AP/AR), .
+
+lee
+2259 Oak Street. Old Forge, New York. 13420
+‘© This Free Resume Template is the copyright of Qwikresume.com. Usage Guidelines
