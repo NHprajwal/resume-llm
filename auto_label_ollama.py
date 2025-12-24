@@ -1,18 +1,26 @@
 import json
-import subprocess
 import re
 import os
 import time
 import multiprocessing
 from concurrent.futures import ProcessPoolExecutor, as_completed
+from openai import OpenAI
 
+# ---------------- CONFIG ----------------
 INPUT_FILE = "training_data.jsonl"
 OUTPUT_FILE = "training_data_labeled.jsonl"
 
-MODEL = "llama3:8b"   # or: llama3:3b-instruct, mistral:7b-instruct
+MODEL = "gpt-4.1-mini"
+TEMPERATURE = 0
+MAX_WORKERS = min(4, multiprocessing.cpu_count())
+
+# 🔴 HARD-CODED API KEY (NOT RECOMMENDED)
+client = OpenAI(
+    api_key="sk-REPLACE_WITH_YOUR_REAL_KEY"
+)
 
 # ---------------------------------------------------------
-# JSON extraction (robust)
+# JSON extraction (robust fallback)
 # ---------------------------------------------------------
 def extract_json(text):
     match = re.search(r"\{.*\}", text, re.DOTALL)
@@ -23,24 +31,20 @@ def extract_json(text):
             pass
     return {"raw_output": text.strip()}
 
-
 # ---------------------------------------------------------
-# Run Ollama
+# OpenAI call
 # ---------------------------------------------------------
-def run_ollama(prompt):
-    result = subprocess.run(
-        ["ollama", "run", MODEL],
+def run_openai(prompt):
+    response = client.responses.create(
+        model=MODEL,
         input=prompt,
-        text=True,
-        encoding="utf-8",
-        errors="ignore",
-        capture_output=True
+        temperature=TEMPERATURE,
+        max_output_tokens=400
     )
-    return result.stdout.strip()
-
+    return response.output_text.strip()
 
 # ---------------------------------------------------------
-# Worker (ONE resume per process)
+# Worker (ONE sample)
 # ---------------------------------------------------------
 def process_one_entry(line):
     entry = json.loads(line)
@@ -67,10 +71,9 @@ JSON SCHEMA:
 }}
 """
 
-    response = run_ollama(prompt)
+    response = run_openai(prompt)
     entry["output"] = extract_json(response)
     return entry
-
 
 # ---------------------------------------------------------
 # MAIN
@@ -84,57 +87,45 @@ def main():
         lines = f.readlines()
 
     total = len(lines)
-    print(f"📦 Total resumes: {total}")
+    print(f"📦 Total samples: {total}")
+    print(f"⚙️ Using {MAX_WORKERS} workers\n")
 
-    MAX_OLLAMA_WORKERS = 3
-    workers = min(MAX_OLLAMA_WORKERS, multiprocessing.cpu_count())
-    print(f"⚙️ Using {workers} Ollama workers\n")
+    # ✅ Create output file if not exists (append mode)
+    open(OUTPUT_FILE, "a", encoding="utf-8").close()
 
     start_time = time.time()
     completed = 0
-    results = []
 
-    with ProcessPoolExecutor(max_workers=workers) as executor:
+    with ProcessPoolExecutor(max_workers=MAX_WORKERS) as executor:
         futures = [executor.submit(process_one_entry, line) for line in lines]
 
         for future in as_completed(futures):
             try:
                 result = future.result()
-                results.append(result)
+
+                # 🔒 Crash-safe write
+                with open(OUTPUT_FILE, "a", encoding="utf-8") as f:
+                    f.write(json.dumps(result, ensure_ascii=False) + "\n")
+
                 completed += 1
-
                 elapsed = time.time() - start_time
-                avg_time = elapsed / completed
+                avg = elapsed / completed
                 remaining = total - completed
-                eta_seconds = int(avg_time * remaining)
-
-                eta_h = eta_seconds // 3600
-                eta_m = (eta_seconds % 3600) // 60
-                eta_s = eta_seconds % 60
+                eta = int(avg * remaining)
 
                 print(
-                    f"✔ Labeled {completed} / {total} | "
-                    f"ETA: {eta_h:02d}:{eta_m:02d}:{eta_s:02d}"
+                    f"✔ Labeled {completed}/{total} | "
+                    f"ETA {eta//60:02d}:{eta%60:02d}"
                 )
 
             except Exception as e:
                 print(f"❌ Failed entry: {e}")
 
-    # Write output JSONL
-    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-        for entry in results:
-            f.write(json.dumps(entry, ensure_ascii=False) + "\n")
-
     total_time = int(time.time() - start_time)
-    h = total_time // 3600
-    m = (total_time % 3600) // 60
-    s = total_time % 60
-
     print("\n✅ Auto-labeling completed!")
-    print(f"📁 Saved: {OUTPUT_FILE}")
-    print(f"📝 Total labeled samples: {len(results)}")
-    print(f"⏱️ Total time: {h:02d}:{m:02d}:{s:02d}")
-
+    print(f"📁 Output: {OUTPUT_FILE}")
+    print(f"📝 Total labeled: {completed}")
+    print(f"⏱️ Time: {total_time//60:02d}:{total_time%60:02d}")
 
 if __name__ == "__main__":
     main()
