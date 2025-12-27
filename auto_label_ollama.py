@@ -1,26 +1,26 @@
 import json
+import subprocess
 import re
 import os
 import time
-import multiprocessing
 from concurrent.futures import ProcessPoolExecutor, as_completed
-from openai import OpenAI
+import multiprocessing
 
-# ---------------- CONFIG ----------------
 INPUT_FILE = "training_data.jsonl"
 OUTPUT_FILE = "training_data_labeled.jsonl"
 
-MODEL = "gpt-4.1-mini"
-TEMPERATURE = 0
-MAX_WORKERS = min(4, multiprocessing.cpu_count())
-
-# 🔴 HARD-CODED API KEY (NOT RECOMMENDED)
-client = OpenAI(
-    api_key="sk-REPLACE_WITH_YOUR_REAL_KEY"
-)
+MODEL = "phi3:instruct"   # 🔥 Best for Mac M4 (Metal GPU)
 
 # ---------------------------------------------------------
-# JSON extraction (robust fallback)
+# Resume compression (token reduction)
+# ---------------------------------------------------------
+def compress_resume(text, max_chars=2500):
+    text = re.sub(r"\s+", " ", text)
+    return text[:max_chars]
+
+
+# ---------------------------------------------------------
+# JSON extraction (robust)
 # ---------------------------------------------------------
 def extract_json(text):
     match = re.search(r"\{.*\}", text, re.DOTALL)
@@ -31,50 +31,43 @@ def extract_json(text):
             pass
     return {"raw_output": text.strip()}
 
-# ---------------------------------------------------------
-# OpenAI call
-# ---------------------------------------------------------
-def run_openai(prompt):
-    response = client.responses.create(
-        model=MODEL,
-        input=prompt,
-        temperature=TEMPERATURE,
-        max_output_tokens=400
-    )
-    return response.output_text.strip()
 
 # ---------------------------------------------------------
-# Worker (ONE sample)
+# Run Ollama (Metal GPU auto-enabled)
+# ---------------------------------------------------------
+def run_ollama(prompt):
+    result = subprocess.run(
+        ["ollama", "run", MODEL],
+        input=prompt,
+        text=True,
+        encoding="utf-8",
+        errors="ignore",
+        capture_output=True
+    )
+    return result.stdout.strip()
+
+
+# ---------------------------------------------------------
+# Worker (single resume)
 # ---------------------------------------------------------
 def process_one_entry(line):
     entry = json.loads(line)
-    inp = entry["input"]
+
+    resume_text = compress_resume(entry["input"])
 
     prompt = f"""
-{inp}
+Analyze the resume below.
+Return ONLY valid JSON with keys:
+grammar, skills, experience, projects, overall_summary.
+Keep each field under 120 words.
 
-TASK:
-Extract resume information.
-
-OUTPUT RULES:
-- Output ONLY valid minified JSON
-- No explanations
-- No extra text
-
-JSON SCHEMA:
-{{
-  "grammar": "good|average|poor",
-  "skills": [],
-  "experience": [],
-  "projects": [],
-  "overall_summary": ""
-}}
+Resume:
+{resume_text}
 """
 
-    response = run_openai(prompt)
+    response = run_ollama(prompt)
     entry["output"] = extract_json(response)
     return entry
-
 # ---------------------------------------------------------
 # MAIN
 # ---------------------------------------------------------
@@ -87,45 +80,51 @@ def main():
         lines = f.readlines()
 
     total = len(lines)
-    print(f"📦 Total samples: {total}")
-    print(f"⚙️ Using {MAX_WORKERS} workers\n")
+    print(f"\n📦 Total resumes: {total}")
 
-    # ✅ Create output file if not exists (append mode)
-    open(OUTPUT_FILE, "a", encoding="utf-8").close()
+    # ✅ Mac M4 safe worker count
+    TOTAL_RAM_GB = 32   # adjust if needed
+    MAX_WORKERS = 4 if TOTAL_RAM_GB >= 32 else 2
+    workers = min(MAX_WORKERS, multiprocessing.cpu_count())
 
-    start_time = time.time()
+    print(f"⚙️ Using {workers} Ollama workers (Metal GPU enabled)\n")
+
+    results = []
     completed = 0
+    start_time = time.time()
 
-    with ProcessPoolExecutor(max_workers=MAX_WORKERS) as executor:
+    with ProcessPoolExecutor(max_workers=workers) as executor:
         futures = [executor.submit(process_one_entry, line) for line in lines]
 
         for future in as_completed(futures):
             try:
-                result = future.result()
-
-                # 🔒 Crash-safe write
-                with open(OUTPUT_FILE, "a", encoding="utf-8") as f:
-                    f.write(json.dumps(result, ensure_ascii=False) + "\n")
-
+                results.append(future.result())
                 completed += 1
+
                 elapsed = time.time() - start_time
-                avg = elapsed / completed
+                speed = completed / elapsed if elapsed > 0 else 0
                 remaining = total - completed
-                eta = int(avg * remaining)
+                eta = remaining / speed if speed > 0 else 0
 
                 print(
-                    f"✔ Labeled {completed}/{total} | "
-                    f"ETA {eta//60:02d}:{eta%60:02d}"
+                    f"✔ {completed}/{total} | "
+                    f"{speed:.2f} resumes/sec | "
+                    f"ETA: {eta/60:.1f} min"
                 )
 
             except Exception as e:
                 print(f"❌ Failed entry: {e}")
 
-    total_time = int(time.time() - start_time)
+    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+        for entry in results:
+            f.write(json.dumps(entry, ensure_ascii=False) + "\n")
+
+    total_time = time.time() - start_time
     print("\n✅ Auto-labeling completed!")
-    print(f"📁 Output: {OUTPUT_FILE}")
-    print(f"📝 Total labeled: {completed}")
-    print(f"⏱️ Time: {total_time//60:02d}:{total_time%60:02d}")
+    print(f"📁 Saved: {OUTPUT_FILE}")
+    print(f"📝 Total labeled samples: {len(results)}")
+    print(f"⏱ Total time: {total_time/60:.1f} minutes")
+    print(f"🚀 Avg speed: {len(results)/total_time:.2f} resumes/sec")
 
 if __name__ == "__main__":
     main()
