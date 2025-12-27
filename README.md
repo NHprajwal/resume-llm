@@ -124,7 +124,7 @@ Fine-tuned Resume LLM
     "projects": "Clarify role",
     "overall_summary": "Good mid-level profile"
   }
-}
+}  
 ```
 
 ---
